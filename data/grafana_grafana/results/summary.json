@@ -1,0 +1,11 @@
+{
+  "repository": "grafana/grafana",
+  "start_date": "2022-01-01",
+  "end_date": "2025-12-31",
+  "include_prereleases": false,
+  "monthly_rows": 240,
+  "yearly_rows": 32,
+  "notes": [
+    "This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented."
+  ]
+}

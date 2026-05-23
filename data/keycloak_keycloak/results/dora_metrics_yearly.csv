@@ -1,0 +1,21 @@
+period,metric_name,metric_value,metric_note
+2022,deployment_frequency,13.0,
+2023,deployment_frequency,18.0,
+2024,deployment_frequency,23.0,
+2025,deployment_frequency,26.0,
+2022,lead_time_days_mean,8.170526207010582,
+2022,lead_time_days_median,9.227818287037037,
+2022,lead_time_days_min,-0.8165740740740741,
+2022,lead_time_days_max,56.75436342592592,
+2022,recovery_time_days_mean,56.70441507079246,
+2023,recovery_time_days_mean,88.26840687366564,
+2024,recovery_time_days_mean,125.6428474111166,
+2025,recovery_time_days_mean,60.085660550928154,
+2022,recovery_time_days_median,36.464108796296294,
+2023,recovery_time_days_median,47.60480324074074,
+2024,recovery_time_days_median,34.81494791666667,
+2025,recovery_time_days_median,33.761574074074076,
+2022,adapted_bugfix_deployment_rate,1.0,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2023,adapted_bugfix_deployment_rate,1.0,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2024,adapted_bugfix_deployment_rate,1.0,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2025,adapted_bugfix_deployment_rate,1.0,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.

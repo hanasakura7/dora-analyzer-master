@@ -1,0 +1,11 @@
+{
+  "repository": "keycloak/keycloak",
+  "start_date": "2022-01-01",
+  "end_date": "2025-12-31",
+  "include_prereleases": false,
+  "monthly_rows": 176,
+  "yearly_rows": 20,
+  "notes": [
+    "This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented."
+  ]
+}

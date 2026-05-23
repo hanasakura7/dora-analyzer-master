@@ -1,0 +1,43 @@
+period,metric_name,metric_value,metric_note
+2021,deployment_frequency,2.0,
+2022,deployment_frequency,7.0,
+2023,deployment_frequency,28.0,
+2024,deployment_frequency,37.0,
+2025,deployment_frequency,28.0,
+2026,deployment_frequency,11.0,
+2022,lead_time_days_mean,42.484103656791575,
+2023,lead_time_days_mean,8.910773381941874,
+2024,lead_time_days_mean,5.906746502300256,
+2025,lead_time_days_mean,7.1221774952919015,
+2026,lead_time_days_mean,61.7909481095679,
+2022,lead_time_days_median,34.691313657407406,
+2023,lead_time_days_median,5.3126851851851855,
+2024,lead_time_days_median,5.322685185185185,
+2025,lead_time_days_median,7.007418981481481,
+2026,lead_time_days_median,55.33348379629629,
+2022,lead_time_days_min,0.001388888888888889,
+2023,lead_time_days_min,0.0004166666666666667,
+2024,lead_time_days_min,0.00034722222222222224,
+2025,lead_time_days_min,0.0002199074074074074,
+2026,lead_time_days_min,6.065578703703704,
+2022,lead_time_days_max,107.39729166666666,
+2023,lead_time_days_max,50.06728009259259,
+2024,lead_time_days_max,20.167546296296297,
+2025,lead_time_days_max,63.16295138888889,
+2026,lead_time_days_max,129.73505787037038,
+2022,recovery_time_days_mean,53.10507175925925,
+2023,recovery_time_days_mean,73.7503197337963,
+2024,recovery_time_days_mean,115.77781266149871,
+2025,recovery_time_days_mean,282.98768366045687,
+2026,recovery_time_days_mean,365.4914108796296,
+2022,recovery_time_days_median,35.20180555555555,
+2023,recovery_time_days_median,24.733096064814816,
+2024,recovery_time_days_median,61.75112268518519,
+2025,recovery_time_days_median,259.3120601851852,
+2026,recovery_time_days_median,359.38221064814815,
+2021,adapted_bugfix_deployment_rate,0.0,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2022,adapted_bugfix_deployment_rate,1.0,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2023,adapted_bugfix_deployment_rate,1.0,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2024,adapted_bugfix_deployment_rate,0.8648648648648649,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2025,adapted_bugfix_deployment_rate,0.6071428571428571,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2026,adapted_bugfix_deployment_rate,0.6363636363636364,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.

@@ -1,0 +1,9 @@
+pandas
+requests
+python-dotenv
+GitPython
+PyDriller
+matplotlib
+tqdm
+python-dateutil
+pytest

@@ -1,0 +1,33 @@
+period,metric_name,metric_value,metric_note
+2022,deployment_frequency,59.0,
+2023,deployment_frequency,65.0,
+2024,deployment_frequency,83.0,
+2025,deployment_frequency,90.0,
+2022,lead_time_days_mean,5.3141531952034,
+2023,lead_time_days_mean,25.67206408030627,
+2024,lead_time_days_mean,1.345005787037037,
+2025,lead_time_days_mean,31.56960083912037,
+2022,lead_time_days_median,5.020104166666666,
+2023,lead_time_days_median,28.36461226851852,
+2024,lead_time_days_median,1.142008101851852,
+2025,lead_time_days_median,35.67616319444444,
+2022,lead_time_days_min,0.09877314814814815,
+2023,lead_time_days_min,0.035729166666666666,
+2024,lead_time_days_min,0.9201851851851852,
+2025,lead_time_days_min,4.301157407407407,
+2022,lead_time_days_max,21.802534722222223,
+2023,lead_time_days_max,32.07782407407407,
+2024,lead_time_days_max,2.1758217592592595,
+2025,lead_time_days_max,54.766539351851854,
+2022,recovery_time_days_mean,54.23684479835078,
+2023,recovery_time_days_mean,91.64185627480158,
+2024,recovery_time_days_mean,193.02484106461893,
+2025,recovery_time_days_mean,241.92658016672976,
+2022,recovery_time_days_median,41.1080150462963,
+2023,recovery_time_days_median,60.68510416666667,
+2024,recovery_time_days_median,68.9317361111111,
+2025,recovery_time_days_median,109.50002893518518,
+2022,adapted_bugfix_deployment_rate,0.7627118644067796,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2023,adapted_bugfix_deployment_rate,0.47692307692307695,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2024,adapted_bugfix_deployment_rate,0.3373493975903614,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.
+2025,adapted_bugfix_deployment_rate,0.3333333333333333,This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented.

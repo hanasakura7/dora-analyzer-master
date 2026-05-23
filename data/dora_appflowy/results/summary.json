@@ -1,0 +1,11 @@
+{
+  "repository": "AppFlowy-IO/AppFlowy",
+  "start_date": null,
+  "end_date": null,
+  "include_prereleases": false,
+  "monthly_rows": 344,
+  "yearly_rows": 42,
+  "notes": [
+    "This is an adapted proxy for change failure rate because full SZZ bug-inducing commit detection was not implemented."
+  ]
+}

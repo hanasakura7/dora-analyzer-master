@@ -1,0 +1,3696 @@
+deployment_tag,previous_tag,deployment_date,commit_sha,commit_date,author_name,author_email,commit_message,lead_time_days
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,a551d74b11dd89b512d642da5b620225a5d88cc9,2022-01-17T21:18:23+02:00,dsotirakis,sotirakis.dim@gmail.com,Update lockfile,21.802534722222223
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,41c1cd2865fee195a76f4856905077dfff311169,2022-01-21T16:36:42+01:00,Marcus Efraimsson,marcus.efraimsson@gmail.com,"[v8.3.x] Fix for CVE-2022-21702 (#225)
+
+Fix for CVE-2022-21702",17.956481481481482
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,9fa3de4e9469075f1df828f528d0b5ff6a4c512a,2022-01-21T16:20:48+00:00,malcolmholmes,42545407+malcolmholmes@users.noreply.github.com,Merge branch 'release-8.3.5' into bump-version-8.3.5,17.925856481481482
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,9527857a4e96b1381a558c88324b26741f972140,2022-01-21T16:21:45+00:00,malcolmholmes,42545407+malcolmholmes@users.noreply.github.com,"Merge pull request #227 from grafana/bump-version-8.3.5
+
+Release: Bump version to 8.3.5",17.925196759259258
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,12cd7ed303a012303046ac1887cfc1b1d3d0cec3,2022-01-21T18:36:02+02:00,dsotirakis,sotirakis.dim@gmail.com,Update yarn.lock for 8.3.5,17.915277777777778
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,c2d9df54377b3a0051180592856995fa33918d41,2022-01-25T11:45:31+02:00,Kevin Minehart,kmineh0151@gmail.com,"resolve conflicts
+
+(cherry picked from commit bb38cfcba4b4f824060ff385d858c63f50b72d74)",14.200358796296296
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,405654b33f205b903caf04ff9d8ba13e6db7ee39,2022-01-25T14:47:49+02:00,Serge Zaitsev,serge.zaitsev@grafana.com,csrf checks for v8.3.5 (#234),14.073761574074075
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,1511bdb6c20b6af28814fb5f98d9b943a5033f0f,2022-01-25T14:51:41+02:00,dsotirakis,sotirakis.dim@gmail.com,Update grabpl version,14.071076388888889
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,2f6f9230bb2de796d6b3279ece6827dae59f8171,2022-01-25T15:15:39+02:00,dsotirakis,sotirakis.dim@gmail.com,Fix lint,14.05443287037037
+v8.3.5,v8.3.4,2022-02-08T14:34:02+00:00,a53fcac7b1b7ebda8c0cb18f7ce92788af92fa32,2022-01-25T15:49:31+02:00,Dimitris Sotirakis,dimitrios.sotirakis@grafana.com,Cherry pick e2e test server changes,14.030914351851852
+v8.4.1,v8.4.0,2022-02-21T10:46:47+00:00,e6728d143480cc05d6f91eb740f91836399b8e6a,2022-02-16T17:08:58+01:00,Andrej Ocenas,mr.ocenas@gmail.com,"Merge pull request #255 from grafana/bump-version-8.4.0
+
+Release: Bump version to 8.4.0",4.776261574074074
+v8.4.1,v8.4.0,2022-02-21T10:46:47+00:00,eb1e411991aaabee764ce877354bf12a96f743af,2022-02-18T11:11:57+01:00,Andrej Ocenas,mr.ocenas@gmail.com,Merge branch 'v8.4.x' of github.com:grafana/grafana into v8.4.x,3.024189814814815
+v8.4.1,v8.4.0,2022-02-21T10:46:47+00:00,468735b7a209b3d7e630e70a23eeea91f54c0e9c,2022-02-18T10:18:25+00:00,grafanabot,bot@grafana.com,"""Release: Updated versions in package to 8.4.1""",3.019699074074074
+v8.4.1,v8.4.0,2022-02-21T10:46:47+00:00,0a66eb3a8af98b8e49b80226b2e8a3c0834fb804,2022-02-18T11:33:51+01:00,Andrej Ocenas,mr.ocenas@gmail.com,update yarn.lock,3.0089814814814817
+v8.4.1,v8.4.0,2022-02-21T10:46:47+00:00,540714030658f0c633b03f53cf4eabd32efa2f82,2022-02-18T12:57:17+02:00,Dimitris Sotirakis,sotirakis.dim@gmail.com,"Update grabpl (#45591) (#45596)
+
+(cherry picked from commit 0a8c3f92f6717c623b13781358a8e4d4836212d0)
+(cherry picked from commit 787553ed31bc98b10f7bedae59e007bdac388921)",2.9927083333333333
+v8.4.1,v8.4.0,2022-02-21T10:46:47+00:00,53f5c6a44ca3359fc562b44a8d1e28d0eec3f459,2022-02-18T12:14:07+01:00,Andrej Ocenas,mr.ocenas@gmail.com,"Merge pull request #258 from grafana/bump-version-8.4.1
+
+Release: Bump version to 8.4.1",2.9810185185185185
+v8.4.2,v8.4.1,2022-02-24T16:57:46+00:00,53f5c6a44ca3359fc562b44a8d1e28d0eec3f459,2022-02-18T12:14:07+01:00,Andrej Ocenas,mr.ocenas@gmail.com,"Merge pull request #258 from grafana/bump-version-8.4.1
+
+Release: Bump version to 8.4.1",6.238645833333333
+v8.4.2,v8.4.1,2022-02-24T16:57:46+00:00,d98982bf02fcd66ac4d59842b37445289fc0c9b3,2022-02-23T13:53:00-04:00,Stephanie Closson,srclosson@gmail.com,Merge branch 'v8.4.x' of github.com:grafana/grafana into v8.4.x,0.9616435185185185
+v8.4.2,v8.4.1,2022-02-24T16:57:46+00:00,9fc02d717faedc2c7fa0a440e5fd69cb5c850d36,2022-02-23T14:22:54-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 8.4.2 (#261)
+
+* ""Release: Updated versions in package to 8.4.2""
+
+* updated yarn.lock - 8.4.2 release process
+
+Co-authored-by: Stephanie Closson <srclosson@gmail.com>",0.9408796296296297
+v8.4.4,v8.4.3,2022-03-17T17:33:14+00:00,b7d2911caccbc79c63d2e585b95087824d945ede,2022-03-02T13:01:27+00:00,Giordano Ricci,me@giordanoricci.com,"Merge pull request #269 from grafana/bump-version-8.4.3
+
+Release: Bump version to 8.4.3",15.188738425925926
+v8.4.4,v8.4.3,2022-03-17T17:33:14+00:00,708cda2052259c88497cfa3bfc3b5b94f0092f5b,2022-03-16T13:07:45+01:00,Daniel Lee,dan.limerick@gmail.com,Merge branch 'v8.4.x' of github.com:grafana/grafana into v8.4.x,1.2260300925925927
+v8.4.4,v8.4.3,2022-03-17T17:33:14+00:00,a07ad8af45096e6e8a3d752253194165243b2042,2022-03-16T12:12:00+00:00,grafanabot,bot@grafana.com,"""Release: Updated versions in package to 8.4.4""",1.2230787037037036
+v8.4.4,v8.4.3,2022-03-17T17:33:14+00:00,b9df06ed3ab4f43bc7393426bf21c6ae1fcb1a3e,2022-03-16T13:21:40+01:00,Daniel Lee,dan.limerick@gmail.com,"Merge pull request #279 from grafana/bump-version-8.4.4
+
+Release: Bump version to 8.4.4",1.2163657407407407
+v8.4.4,v8.4.3,2022-03-17T17:33:14+00:00,fcfb01faebb9f1e91fa465ec5f3399560abcfb8b,2022-03-16T13:36:26+00:00,Dimitris Sotirakis,sotirakis.dim@gmail.com,"Update grabpl (#46639)
+
+(cherry picked from commit 85184ee9dca3801a9ee68b29eae657112928291f)
+(cherry picked from commit 3d8c6b16401d79b4dd3004866fde6c7e75de3a36)",1.1644444444444444
+v8.4.5,v8.4.4,2022-03-31T14:45:33+00:00,fcfb01faebb9f1e91fa465ec5f3399560abcfb8b,2022-03-16T13:36:26+00:00,Dimitris Sotirakis,sotirakis.dim@gmail.com,"Update grabpl (#46639)
+
+(cherry picked from commit 85184ee9dca3801a9ee68b29eae657112928291f)
+(cherry picked from commit 3d8c6b16401d79b4dd3004866fde6c7e75de3a36)",15.047997685185186
+v8.4.5,v8.4.4,2022-03-31T14:45:33+00:00,83f8c366a1be591ba1b6284c2cfed7c12a646ea1,2022-03-31T13:39:07+02:00,Dominik Prokop,dominik.prokop@grafana.com,Merge branch 'v8.4.x' of github.com:grafana/grafana into v8.4.x,0.1294675925925926
+v8.4.5,v8.4.4,2022-03-31T14:45:33+00:00,8cea14f8d1d1ca6e60bf55ff12cd6c7fd67b452d,2022-03-31T14:03:53+02:00,Dominik Prokop,dominik.prokop@grafana.com,bump-version.yml - remove check about version alignment with main,0.11226851851851852
+v8.4.5,v8.4.4,2022-03-31T14:45:33+00:00,eb30befb0f9a35cbb2dd25d9dbdaeb61afeec7f5,2022-03-31T12:07:48+00:00,grafanabot,bot@grafana.com,"""Release: Updated versions in package to 8.4.5""",0.10954861111111111
+v8.4.5,v8.4.4,2022-03-31T14:45:33+00:00,4cafe613e1b33dbf24851f4eb46ef2c5ea246052,2022-03-31T05:23:19-07:00,Dominik Prokop,dominik.prokop@grafana.com,"Merge pull request #289 from grafana/bump-version-8.4.5
+
+Release: Bump version to 8.4.5",0.09877314814814815
+v8.4.6,v8.4.5,2022-04-12T11:03:16+00:00,4cafe613e1b33dbf24851f4eb46ef2c5ea246052,2022-03-31T05:23:19-07:00,Dominik Prokop,dominik.prokop@grafana.com,"Merge pull request #289 from grafana/bump-version-8.4.5
+
+Release: Bump version to 8.4.5",11.944409722222222
+v8.4.6,v8.4.5,2022-04-12T11:03:16+00:00,4e424d6a42745ce2696c9364740d3cedb9c6e262,2022-04-04T09:26:58+00:00,grafanabot,bot@grafana.com,"""Release: Updated versions in package to 8.4.6""",8.066875
+v8.4.6,v8.4.5,2022-04-12T11:03:16+00:00,c53173ff6b600661dd5618a9778284becad79a9e,2022-04-04T09:37:02+00:00,Jguer,joao.guerreiro@grafana.com,"Merge pull request #295 from grafana/bump-version-8.4.6
+
+Release: Bump version to 8.4.6",8.05988425925926
+v9.1.4,v9.1.3,2022-09-09T15:01:27+00:00,f3f9a818c2ab4abaf7a6c952d903e5b9b550c934,2022-09-05T17:59:46+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"""Release: Updated versions in package to 9.1.3"" (#490)",3.9595023148148147
+v9.1.4,v9.1.3,2022-09-09T15:01:27+00:00,148c1ce170f88980b42018e06fe5491222c5218c,2022-09-09T13:02:40+02:00,kay delaney,45561153+kaydelaney@users.noreply.github.com,"Chore: Update slate and related packages (#54566) (#54795)
+
+* Chore: Update slate and related packages
+
+(cherry picked from commit a70aba1384d9c4ce4735d3a0e855020bab2b5d4f)",0.16582175925925927
+v9.1.4,v9.1.3,2022-09-09T15:01:27+00:00,2186d0bbeb89d3428772aac069139c137b8a1c75,2022-09-09T13:13:22+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"""Release: Updated versions in package to 9.1.4"" (#498)",0.15839120370370371
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,ec9c2ed029680e4ecc40942dc6819d269161e30d,2022-10-31T13:36:07+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Google Cloud Monitoring: Ensure selectors fit in the screen (#57817) (#57899)
+
+(cherry picked from commit ce38840f293bfe94a1d6338a9bab255b3d7cc56c)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",8.062372685185185
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,e09307c07830d91618a4da3670738a6ced78e97b,2022-10-31T14:31:34+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"add an endpoint for updating several managed permissions with one call (#57893) (#57898)
+
+(cherry picked from commit 2546437e2052025daaf8ee2ab9ea4262b7364e61)
+
+Co-authored-by: Ieva <ieva.vasiljeva@grafana.com>",7.9821990740740745
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,76ed60064d10bec3134913e6a271efd388381b47,2022-10-31T15:33:39+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"change json command parameter names from userID to userId and teamID to teamId (#57902) (#57913)
+
+(cherry picked from commit 5c1a1c8318bec43dec6aaf130aaafda3f19e54a6)
+
+Co-authored-by: Ieva <ieva.vasiljeva@grafana.com>",7.939085648148148
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,924180a25b25a32dda5e9d8e5e4237d5ea8a4724,2022-10-31T17:12:19+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Alerting: Add debug logs in validateAndGetPrefix (#57002) (#57923)
+
+(cherry picked from commit b0a927b1385654a6776cbe8deb36f6dfadc914fd)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",7.87056712962963
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,ad2ea44977c2fd2f19fe570fef336efca555d3f8,2022-10-31T12:17:48-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Attempt to preserve UID from migrated channel (#57639) (#57919)
+
+(cherry picked from commit 0dfd78c88cbb97df6594dda57d73c705bda106e0)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",7.8667592592592595
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,fade9fb6ae1e15a57762ee67b62750d00ef09422,2022-10-31T13:53:33-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Alerting: fix filtering in notification policies (#57925)
+
+Co-authored-by: Gilles De Mey <gilles.de.mey@gmail.com>",7.84193287037037
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,36bfb144b71e7d86b3f127c5a8aea75e2d12a78d,2022-10-31T16:39:58-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"removes CTAs (#57931) (#57935)
+
+(cherry picked from commit 6aa3003a541552aa9ce6e9b3e95a9dd0b8213e78)
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",7.684699074074074
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,47b635270ed43084b20946645e79f4335b46c7ed,2022-10-31T17:58:45-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"BarChart: Fix stacked hover (#57711) (#57937)
+
+(cherry picked from commit fbfd0fd51b1d61b186957e0b58c2ea60472f55f3)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>",7.671655092592593
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,f6abf640eb6238d2482659399c47552a772e8426,2022-10-31T19:06:43-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"TimeSeries: Render null-bounded points at data edges (#57798) (#57938)
+
+(cherry picked from commit 45234e76eb82a417d8cee236d7a2ad91dc580bbb)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>",7.624456018518519
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,522a819e9e8750e7604dafd8606224821e3523cf,2022-11-01T09:14:36+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"CloudWatch: Fix `all-log-groups` endpoint when called without logGroupNamePrefix  (#57483) (#57945)
+
+(cherry picked from commit 1f7c84f1256ed46fe5099f27aae57a2121da1080)
+
+Co-authored-by: Lion Ralfs <lion.ralfs@gmail.com>",7.243981481481481
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,3274e8727e1ae66b20f87403e393089b7d24ad4c,2022-11-01T09:07:44+00:00,Dimitris Sotirakis,dimitrios.sotirakis@grafana.com,"Add GCP_KEY to publish-grafanacom step (#57910) (#57948)
+
+(cherry picked from commit 1eaf7cbfc0f4aaed8b84c3e50d9c0c352668b363)",7.207083333333333
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,0275f11785d4d2a9773aee78c6c5ebce41c34bb6,2022-11-01T06:39:10-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Changelog: Updated changelog for 9.2.3 (#57955) (#57957)
+
+(cherry picked from commit 02add89b530a569f38e38597be294c6b16ef29d8)",7.143587962962963
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,6c027ccf6a009979b323a90b35c7b106a2b6d0c5,2022-11-01T06:50:30-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"""Release: Updated versions in package to 9.2.4"" (#57958)",7.135717592592592
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,ca73c43b567c2601b78af11bd17e96faf4ac9378,2022-11-01T08:14:17-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"metrics: expose when the binary was built as an gauge (#57951) (#57969)
+
+Signed-off-by: bergquist <carl.bergquist@gmail.com>
+(cherry picked from commit 3188af9be352feabeb000b204d7375b5626231d5)",7.0775347222222225
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,484b098a203e826babf25619bc54dba58411bef8,2022-11-01T12:29:24-03:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Alerting: Fix flaky test in notifiers (#57927) (#57993)
+
+* Alerting: Fix flaky test in notifiers
+
+* remove TODO comment
+
+(cherry picked from commit a3f828de8aae968f783aeeb648de98e75c421af4)
+
+Co-authored-by: Santiago <santiagohernandez.1997@gmail.com>",6.9420370370370375
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,1ac0c03a1d01fb1531d64fbadbbb1699bc4bdb00,2022-11-02T12:14:30+01:00,Andres Martinez Gotor,andres.martinez@grafana.com,[v9.2.x] Google Cloud Monitoring: Set frame interval to draw null values (#57914),6.119050925925926
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,551c4aa56239b4185ded2d12772719b997b8c36f,2022-11-02T14:17:44+02:00,Dimitris Sotirakis,dimitrios.sotirakis@grafana.com,"Linux Packages: Handle publish to beta (#57528) (#58044)
+
+Uses the feature added here: https://github.com/grafana/deployment_tools/pull/46301
+When a version is named ""beta"", it will be distributed in the beta distribution, rather than in stable
+
+Co-authored-by: dsotirakis <dimitrios.sotirakis@grafana.com>
+(cherry picked from commit c46a4a0b260d3b008bfa771cdc103065a6fe6880)
+
+Co-authored-by: Julien Duchesne <julien.duchesne@grafana.com>",6.075138888888889
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,844b08962d3a4d1d0394c9150a582a2bb68519db,2022-11-02T12:18:01+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"chore: bump code coverage action version (#56710) (#58040)
+
+(cherry picked from commit e3e32c7d04a5d20b45411c118f7e3c7e63d90709)
+
+Co-authored-by: Giordano Ricci <me@giordanoricci.com>",6.07494212962963
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,5895100bebc27710aa26ae51d869e58ebf85a392,2022-11-02T13:06:58+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Alerting: Fix response is not returned for invalid Duration in Provisioning API (#58046) (#58049)
+
+(cherry picked from commit 4c581b5f85db705bd4b01d5679407069dd3b2cfb)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",6.040949074074074
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,8b7664294caaa6d9bafc2a228a0bfd09fa766835,2022-11-02T16:19:53+01:00,Torkel Ödegaard,torkel@grafana.com,LibrayPanels: Fix unlinking libray panel (#57825) (#58042),5.948645833333333
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,dfeb978e3bbc5741ce6ae49e2192fe1067867f75,2022-11-02T18:31:43+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"remove unneeded package updates (#58005) (#58068)
+
+(cherry picked from commit 6a4a10fa926e89eb0498a4d703ccc8c67b5dd46d)
+
+Co-authored-by: Dan Cech <dcech@grafana.com>",5.815428240740741
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,d1df696c3172eee7f1952c919986d1e679d09059,2022-11-02T18:49:29-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Alerting: Fix feedback (#57922) (#58104)
+
+(cherry picked from commit f2e4cb7c4ea4ee85a177e27fba3d6bf191e043a7)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",5.636423611111111
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,ab3718afba99819daea7ddd81bbc500f4a577332,2022-11-03T10:17:01+00:00,George Robinson,george.robinson@grafana.com,"Alerting: Fix screenshot is not taken for stale series (#57982) (#58102)
+
+(cherry picked from commit 215ffee4375adb784526827340bbc8c66fd342cc)",5.158969907407408
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,797dd2dd58aa1315b801d344b6f31bef1f710407,2022-11-03T10:37:22+00:00,Eric Leijonmarck,eric.leijonmarck@gmail.com,fix: migration of alert_rules fix (#58123),5.144837962962963
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,f07841db8aa34393885cf80c3871211dc28c0413,2022-11-03T07:00:45-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"increase select placeholder contrast to be WCAG AA compliant (#58034) (#58125)
+
+(cherry picked from commit c3206167a65babd66ca4d590723c4fd754c4aad9)
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",5.128599537037037
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,7ba1e9e258a8232ac555eb08b448c07fcdfca876,2022-11-03T07:18:12-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Tempo: Make usage of time range for TraceID query optional (#58057) (#58128)
+
+* Added switch to toggle the TraceID query time shift
+
+* Fix and improve tests
+
+(cherry picked from commit 90ac300d1023768f9778bb58e77a05948dea5b2e)
+
+Co-authored-by: Andre Pereira <adrapereira@gmail.com>",5.116481481481482
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,72cf8605c022fb46139077c05fa14e5c0ca00373,2022-11-03T14:22:40+01:00,Piotr Jamróz,pm.jamroz@gmail.com,"[v9.2.x] Explore: Track data links usage (#56868) (#58037)
+
+* Explore: Track data links usage (#56868)
+
+* Add tracking for data links in explore
+
+* Add tracking for data links in explore
+
+* Fix tests
+
+* Retrigger build
+
+(cherry picked from commit dd5e3a08184b3d875c0ee62aab7ca9a054a8c23e)
+
+# Conflicts:
+#	public/app/features/explore/Explore.tsx
+#	public/app/features/explore/LogsContainer.tsx
+
+* Post-merge fixes
+
+Remove unused import",5.030046296296296
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,afab41a9c45de5a17c9666a74316b9586c8e53f8,2022-11-03T09:35:39-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"reduce the number of requests in folder section (#55876) (#58145)
+
+(cherry picked from commit 372ba83534e0fd91e1c25d7c3c27a3ac1f68f62c)
+
+Co-authored-by: Marcos Vinicius <marcos.vinicius.wz@gmail.com>",5.021030092592593
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,ac66ba77da51bdda16f204513305441e54426aff,2022-11-03T09:38:19-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"TimeSeries: more thorough detection of negative values for stacking dir (#57863) (#58147)
+
+(cherry picked from commit 4d88e2b542c62bf287a60af01fddfa2e6de220b4)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>",5.01917824074074
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,4e2d4c42f077ac5e18b08ef1d576db933acbcf3b,2022-11-03T10:09:47-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"fixed explain handlers for label- and lineformat (#58135) (#58151)
+
+(cherry picked from commit 4b1ddba0a8998884982d275e846ec4af6787a06f)
+
+Co-authored-by: Sven Grossmann <sven.grossmann@grafana.com>",4.997326388888889
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,b8835eba1785c7adc3f5c15c74d5d420db418e8a,2022-11-03T13:55:51-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"fixes typo (#58159) (#58194)
+
+(cherry picked from commit 1722000309c6e6dc36c9e4f5ef9c2e40cc6e6c65)
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",4.798668981481481
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,f70d51c2c67a87187f9ec7d1b4c199ee06a79eed,2022-11-04T07:13:53-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Alerting: Encode path separators to side-step proxies (#58222)
+
+Co-authored-by: Gilles De Mey <gilles.de.mey@gmail.com>",4.119479166666666
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,e4af9fba96e01b91c82e150fb6db1e85c7d0f22f,2022-11-04T11:40:40-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Build: add explicit build step for go codeql (#58195) (#58243)
+
+* add explicit build step for go codeql
+
+* support workflow_dispatch for codeql checks
+
+* syntax fix
+
+* enable on push to codeql-go branch
+
+* test
+
+* use go version from go.mod
+
+* explicitly set go version
+
+* tidy up, add workflow_dispatch support to all codeql actions
+
+(cherry picked from commit da9c646f242fd16ba8a789fa5d1c50094d761ae7)
+
+Co-authored-by: Dan Cech <dcech@grafana.com>",3.9342129629629627
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,a09a23c8bf47458701692d6bf478b1f43aed92b5,2022-11-04T12:57:39-04:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Search: Fixes searching by current folder when opened by clicking dashboard folder name  (#57716) (#57949)
+
+* Search: Read from url on mount no on app boot
+
+* Fixed tests
+
+* Remove unused type
+
+(cherry picked from commit 3991be4c1dd35ff05e1a7dee117710e766b1a3c9)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",3.880752314814815
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,0026764f046d0af354b114ba6ec95640527a7133,2022-11-04T20:45:38+00:00,Eric Leijonmarck,eric.leijonmarck@gmail.com,merge complete (#58272),3.7224305555555555
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,94594d61e6564f629a24a7475c59ea011f37ee10,2022-11-04T21:20:20+00:00,Eric Leijonmarck,eric.leijonmarck@gmail.com,followup fix for backport (#58273),3.6983333333333333
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,9b07bc7e9820c8f90d4533a5d3b411743c197c1f,2022-11-04T15:03:07-07:00,Eric Leijonmarck,eric.leijonmarck@gmail.com,"merge complete (#58274)
+
+Co-authored-by: Ryan McKinley <ryantxu@gmail.com>",3.668622685185185
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,b642a797fd7cdc0e5bd2a0583e01b814d3dbaa1a,2022-11-06T09:35:06-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Timeseries: Fix null pointer when matching fill below to field (#58030) (#58298)
+
+* Fix timeseries fill below to error
+
+* wip
+
+* modifications
+
+* add tests for fillBelowTo option
+
+(cherry picked from commit d673c8809b64237690b192d25bb6fefd177ae33d)
+
+Co-authored-by: Victor Marin <36818606+mdvictor@users.noreply.github.com>",1.9797453703703705
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,97ee2cf918a1dbf7078d9de4cecb11e1ad1561dc,2022-11-07T03:54:50-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"MySQL: make it possible to add CA cert without using tlsAuth (#58226) (#58308)
+
+(cherry picked from commit b1bfae035022d6cedd89014744073e89741e4738)
+
+Co-authored-by: Oscar Kilhed <oscar.kilhed@grafana.com>",1.2160416666666667
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,63f6207a1fe22380a9233660b2ebc3312befaf73,2022-11-07T06:28:57-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Auth: Check for OrgUsersAdd on frontend to display pending invites (#58217) (#58225)
+
+(cherry picked from commit 9ff2765bb9e7938c88f2333647a6210589a06535)
+
+Co-authored-by: Josh Hunt <joshhunt@users.noreply.github.com>",1.1090162037037037
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,8cb58c1560848d537397d535b0866ca7f09e2320,2022-11-07T06:47:43-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Chore: Disable dashboard-time-zone e2e tests (#58320) (#58323)
+
+(cherry picked from commit d4e3d47f563de34cd09372e048943a8698861d59)
+
+Co-authored-by: Josh Hunt <joshhunt@users.noreply.github.com>",1.0959837962962964
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,3dc8434cf4e455ab53e8be59f03631aaee45af01,2022-11-07T07:06:23-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"@grafana/e2e: Fix addPanel for small screen size (#57398) (#58314)
+
+(cherry picked from commit d001a1b035bdbbaae384cdaf3d69f9ebfd5193a0)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",1.0830208333333333
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,7ca5c227dda523b407b84bc78c2056644c71c624,2022-11-07T16:16:58+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Toolkit: Fix Webpack less-loader config (#57950) (#58175)
+
+(cherry picked from commit b799be3052247f6d3da2a10ab18474dcb0705a5d)
+
+Co-authored-by: dessen-xu <1805680163@qq.com>",0.9506712962962963
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,db55065687256f01fce66613789f091d8c457d2d,2022-11-07T09:46:37-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"fix thanos semver string (#58335) (#58344)
+
+(cherry picked from commit 6bc8ec0f9bbcdc48e6865e8318eb7fb8de7068ab)
+
+Co-authored-by: Galen Kistler <109082771+gtk-grafana@users.noreply.github.com>",0.9300810185185185
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,b03e28fc603b92c6fceef1b43f57af07a0b99380,2022-11-07T16:52:15+01:00,Emil Tullstedt,emil.tullstedt@grafana.com,Chore: Upgrade Go to 1.19.3 (v9.2) (#58339),0.9261689814814815
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,4fee0645a1d45683b01338b70d65c73ff7654cdd,2022-11-07T11:11:10-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Datasource Loki: preserve header `X-ID-Token` (#57878) (#58346)
+
+(cherry picked from commit bc280d07492f66456e47eb262f935c933312b1ed)
+
+Co-authored-by: Si Mon <85333972+siiimooon@users.noreply.github.com>",0.9130324074074074
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,4ec37fb05848e18ede9538fd034d2246b7e5689c,2022-11-07T17:35:49+01:00,Zoltán Bedi,zoltan.bedi@gmail.com,"MSSql/Postgres: Fix visual query editor filter disappearing (#58248) (#58354)
+
+(cherry picked from commit b47230623944f01aa6e2367913e2f7596ff284bf)",0.8959143518518519
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,67f503b820c07e043cd4224378c504d31d707ca4,2022-11-07T16:54:39+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Alerting: Fix test fails in some environments (#58251) (#58356)
+
+(cherry picked from commit 8353f307aa2ed842c9045c1e420d51574019e905)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",0.8828356481481482
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,d38ac63f22e2b58f932e8373bce57e4fdf3901ea,2022-11-07T17:07:07+00:00,George Robinson,george.robinson@grafana.com,"Alerting: Append org ID to alert notification URLs (#57123) (#58349)
+
+(cherry picked from commit db1fd10ff13d936665210e0c8a86c50ecae09998)
+
+Co-authored-by: Neel <47709856+neel1996@users.noreply.github.com>",0.8741782407407407
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,7382b1be901c40ea4bdf7c73d7bac77593f1229d,2022-11-07T18:23:44+01:00,Dimitris Sotirakis,dimitrios.sotirakis@grafana.com,"[v9.2.x] CI: Use full `dockerhub` repository name (#57979) (#57983)
+
+* CI: Use full `dockerhub` repository name (#57979)
+
+* Add full dockerhub repo name
+
+* Update grabpl version
+
+(cherry picked from commit 57ee0e4a4b3b6b5536e63b117718c6384920650f)
+
+* sign drone.yml
+
+Co-authored-by: Marcus Efraimsson <marcus.efraimsson@gmail.com>",0.8626388888888888
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,164fb230cb25069bc04a649dce8cac414d1a0924,2022-11-07T13:53:18-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Docs: corrects outer join example (#58348) (#58366)
+
+* corrects outer join example
+
+* Update docs/sources/panels-visualizations/query-transform-data/transform-data/index.md
+
+* adds query tables back in
+
+(cherry picked from commit 0315f6317e2653da203c9ac0f21eceb9aa9e29de)
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",0.7587731481481481
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,c8bd3725328649518b2f8aa9cf5f2084fb0d4acc,2022-11-08T11:33:49+01:00,Emil Tullstedt,emil.tullstedt@grafana.com,pkg/web: Avoid shared middleware slice,0.14730324074074075
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,f8239a2157bf63a18c4429c25aa7b934b09c3be9,2022-11-08T11:38:29+01:00,Karl Persson,kalle.persson@grafana.com,"Security fix for privilege escalation (#640)
+
+* Trim leading and trailing whitespaces from email and username on signup
+
+* Check whether the provided email address is the same as where the invitation sent
+
+Co-authored-by: Mihaly Gyongyosi <mgyongyosi@users.noreply.github.com>",0.1440625
+v9.2.4,v9.2.3,2022-11-08T14:05:56+00:00,64017e8ca6825b79a2acb887a1c1d9088e47ed72,2022-11-08T11:38:42+01:00,Karl Persson,kalle.persson@grafana.com,Security: Omit error from http response when user does not exists (#639),0.14391203703703703
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,042e4d216b0a0eb92513a40f370774c4eb783f84,2022-11-16T08:13:14+00:00,Dimitris Sotirakis,dimitrios.sotirakis@grafana.com,"[v9.2.x] CI: Remove base and arch args (#58209) (#58713)
+
+Remove base and arch args (#58209)
+
+(cherry picked from commit 9c1c10ab9a522db4a99310e1f2e01148b86e222d)
+
+# Conflicts:
+#	.drone.yml
+
+# Conflicts:
+#	.drone.yml",7.371909722222222
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,ae1fccc1dfb149c7512ff4c76f8aba9efe436abf,2022-11-16T10:52:49-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] SSE: Keep value name from numeric table (#58850)
+
+SSE: Keep value name from numeric table (#58831)
+
+fixes #48868
+
+(cherry picked from commit 1953d473c04eb4a5b6c9f4231384ab0cb3dae8f3)
+
+Co-authored-by: Kyle Brandt <kyle@grafana.com>",7.0527546296296295
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,2f3c46b4ddaaed9125aa814d939efe6a831dbf11,2022-11-16T15:23:46-03:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 9.2.6 (#58857)
+
+""Release: Updated versions in package to 9.2.6""",6.94792824074074
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,c05db1f2f8c74c26a5d3a3ee82fae740bbb0a0bd,2022-11-17T10:00:27+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Transformations: Make Card Descriptions Clickable (#58733)
+
+Transformations: Make Card Descriptions Clickable (#58717)
+
+replace Card Meta w Card Description
+
+(cherry picked from commit 16aa4376acf2d5eb559feeb514f1852cd3b48ff9)
+
+Co-authored-by: matt abrams <37156449+zuchka@users.noreply.github.com>",6.33912037037037
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,f4b75c8db1b133968cd56f83205dd01f42b00b88,2022-11-17T12:47:59+01:00,lean.dev,34773040+leandro-deveikis@users.noreply.github.com,"[v9.2.x] Changelog: Updated changelog for 9.2.5 (#58856) (#58862)
+
+* Changelog: Updated changelog for 9.2.5 (#58856)
+(cherry picked from commit df27164b8e0167b1b6c277d3f5a0fbd64b520eab)",6.222777777777778
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,17efc62c04c67e08fc43652035b2140e9e50828d,2022-11-17T15:30:05+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Chore: Extract server lock error so it can be used with errors.As (#58905)
+
+Chore: Extract server lock error so it can be used with errors.As (#58899)
+
+chore: extract server lock Error so it can be used with error.As
+(cherry picked from commit 7e9d94cfda96f4229019d3a9ae1d854162595ae2)
+
+Co-authored-by: Jo <joao.guerreiro@grafana.com>",6.1102083333333335
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,7428dbd10e0231dfbf6e0014fcdde492a837a994,2022-11-18T16:46:29+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Alerting: Fix metric in Images in Notifications docs (#58978)
+
+Alerting: Fix metric in Images in Notifications docs (#58954)
+
+(cherry picked from commit 4da97aef7dc202f8fc671ef2f925bb14f3c90ad6)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",5.0154861111111115
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,b2d04ac31732923b5ad0fec48b242e11dbda2862,2022-11-18T10:58:18-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Docs: adjusts link to kms integration (#58982)
+
+Docs: adjusts link to kms integration (#58981)
+
+adjusts link to kms integration
+
+(cherry picked from commit e7b5bd34bdc126f696a9b13ecfcab19f660cfde9)
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",5.007280092592593
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,4adfebb4c786646fb938d32e18a2c44dcbaccc0d,2022-11-18T12:42:45-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Docs: adds permission validation setting (#58987)
+
+Docs: adds permission validation setting (#58970)
+
+* adds permission validation setting
+
+* Update docs/sources/administration/roles-and-permissions/access-control/configure-rbac/index.md
+
+Co-authored-by: Misi <mgyongyosi@users.noreply.github.com>
+
+* makes prettier
+
+Co-authored-by: Misi <mgyongyosi@users.noreply.github.com>
+(cherry picked from commit 780efa57917c2951054a7558710e53d19f140f22)
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",4.93474537037037
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,15c0ba7af0e8dc755a02101731283c66526b1676,2022-11-18T16:10:30-06:00,Christopher Moyer,35463610+chri2547@users.noreply.github.com,resolves merge conflict (#58997),4.790474537037037
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,1136d8c3a9c619d5b6703f6dc2415d1a1779de66,2022-11-21T11:36:29+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Alerting: Add Troubleshooting to Images in notifications docs (#59025)
+
+Alerting: Add Troubleshooting to Images in notifications docs (#58955)
+
+(cherry picked from commit 2f878acd9df99881f5a92456ec987c6548f07ec7)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",2.2307638888888888
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,a688a916dc70c932e8e0d24fb1d29d619c0b857e,2022-11-21T12:45:01-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Prometheus: fix Heatmap y buckets when legendFormat: auto (#59064)
+
+Prometheus: fix Heatmap y buckets when legendFormat: auto (#59053)
+
+(cherry picked from commit 1f4834a144087fcdb408baec9db00075384e27cd)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>",1.9748379629629629
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,5d1bed9b6431b6a949b3d6a1b9959acf186b46bc,2022-11-21T19:17:54+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Alerting: Support Prometheus durations in Provisioning API (#59066)
+
+Alerting: Support Prometheus durations in Provisioning API (#58293)
+
+Provisioning API should support Prometheus durations
+
+(cherry picked from commit 57d6adbc7c4008143ac18fc7076607be227e12d3)
+
+Co-authored-by: Bart Peeters <birtpeeters@hotmail.com>",1.9103356481481482
+v9.2.6,v9.2.5,2022-11-23T17:08:47+00:00,8ba6f0f1a82eebe0d407f1ecdecd18c09aae689c,2022-11-22T10:10:38+01:00,Zoltán Bedi,zoltan.bedi@gmail.com,"[v9.2.x] MS/My/PostgresSQL: Migrate annotation query (#58847) (#59072)
+
+MS/My/PostgresSQL: Migrate annotation query (#58847)
+
+(cherry picked from commit 38f25a0bf56cc1727472dd9a2755d5206890fbce)",1.3320486111111112
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,8ba6f0f1a82eebe0d407f1ecdecd18c09aae689c,2022-11-22T10:10:38+01:00,Zoltán Bedi,zoltan.bedi@gmail.com,"[v9.2.x] MS/My/PostgresSQL: Migrate annotation query (#58847) (#59072)
+
+MS/My/PostgresSQL: Migrate annotation query (#58847)
+
+(cherry picked from commit 38f25a0bf56cc1727472dd9a2755d5206890fbce)",8.002662037037037
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,a47cfa9b28d768412a858fd48879a762f14e4c00,2022-11-22T10:55:30-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Azure Monitor: Fix resource picker selection for subresources (#59136)
+
+Azure Monitor: Fix resource picker selection for subresources (#56392)
+
+(cherry picked from commit 5b1ff83ee9c527c83439f0ac52d74d9b0df6d3c1)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",7.72150462962963
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,37236d6ab61d82909bf830e0639bdc6c5fa12f47,2022-11-23T05:28:32-05:00,Zoltán Bedi,zoltan.bedi@gmail.com,"[v9.2.x] SQL: Fix code editor for SQL datasources (#59189)
+
+SQL: Fix code editor for SQL datasources (#58116)
+
+* SQL: Fix code editor for sql datasources
+
+* Fix: mysql completion with defaultdb
+
+(cherry picked from commit 75097b99fb68a5c7b1dad2c41d4927afc493d3c7)",6.948564814814815
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,e6a7b537038123d00af6e9961b324e5d7d5c729e,2022-11-23T12:52:35+01:00,Sven Grossmann,sven.grossmann@grafana.com,"[9.2.x] Fix #58598 X-ID-Token header missing on Loki Datasource (#58784) (#59196)
+
+* Fix #58598 X-ID-Token header missing on Loki Datasource (#58784)
+
+* Fix #58598 X-ID-Token header missing on Loki Datasource
+
+* Remove unecessary continue statements
+
+* Add getAuthHeadersForCallResource unit tests
+
+* Fix test and switch statement issues introduced during merge
+
+(cherry picked from commit f1ef63791ad17d4c3b16cd296148c403515ad37d)
+
+* update test
+
+* missed linting
+
+Co-authored-by: Yann Vigara <yvigara@users.noreply.github.com>",6.8901967592592595
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,29f26b5a025dd6d95b04cdf742b12b4fdb0a9ecf,2022-11-23T10:53:48-06:00,owensmallwood,owen.smallwood@grafana.com,"Changelog: Updated changelog for 9.2.6 (#59232) (#59244)
+
+(cherry picked from commit ae508c12f3dd9d9c69b0611b28df57c00dc5891f)
+
+# Conflicts:
+#	CHANGELOG.md
+
+Co-authored-by: Grot (@grafanabot) <43478413+grafanabot@users.noreply.github.com>",6.681018518518519
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,09308c77d87cf665abfbf4cc5fea5997343e66b4,2022-11-23T11:07:57-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 9.2.7 (#59245)
+
+""Release: Updated versions in package to 9.2.7""",6.671192129629629
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,6fbdc2ed8966a1201731d955e4ccd92b098b5eaa,2022-11-23T23:12:12-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Heatmap: Fix blurry text & rendering (#59261)
+
+Heatmap: Fix blurry text & rendering (#59260)
+
+(cherry picked from commit 6f00bc5674d994cb85716610807e4b4f3e232fbf)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>",6.209907407407408
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,9fef15403c4f259f832694884d006053a180e685,2022-11-24T05:42:12-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Azure Monitor: Fix empty/errored responses for Logs variables (#59277)
+
+Azure Monitor: Fix empty/errored responses for Logs variables (#59240)
+
+(cherry picked from commit 276b54fe9d41d7c435eb255f75cc1a54bf415db3)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",5.939074074074074
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,24659cc117cf3d2e3736265c44a621dac51fdc4a,2022-11-24T13:33:20+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] PostgreSQL: Fix missing CA field from configuration (#59285)
+
+PostgreSQL: Fix missing CA field from configuration (#59280)
+
+* PostgreSQL: Fix missing CA field from configuration
+
+(cherry picked from commit be73418d0011c6303c2f638c49002445cd63ccf9)
+
+Co-authored-by: Oscar Kilhed <oscar.kilhed@grafana.com>",5.861898148148148
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,c89876323c3824f8df53f2b9d53d03916595ec71,2022-11-24T08:15:06-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] TimeseriesPanel: Preserve string fields for data link interpolation (#59296)
+
+TimeseriesPanel: Preserve string fields for data link interpolation (#58424)
+
+* TimeseriesPanel: Preserve string fields for data link interpolation
+
+* clean code
+
+* Modify tests so that string fields are allowed only when a valid time/number dataframe exists
+
+* performance mods
+
+* fix wrong length
+
+* remove console.log
+
+* Check if aligned dataframe has links
+
+(cherry picked from commit 0da77201bf0958b60fcc44b2bf62f5be2a47eeff)
+
+Co-authored-by: Victor Marin <36818606+mdvictor@users.noreply.github.com>",5.832893518518518
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,6b64e4d192974e6a69f195e7f1060966aaf019c5,2022-11-24T18:10:56+01:00,Ieva,ieva.vasiljeva@grafana.com,"Access Control: Clear user's permission cache after resource creation (#59318)
+
+resolve merge conflicts",5.66912037037037
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,052fd5713d271986d4b854308c0ab5fdf638f873,2022-11-28T06:54:07-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Navigation: Fix crash when Help is disabled (#59375)
+
+Navigation: Set navtree to  an empty array instead of null (#58919)
+
+set navtree to  an empty array instead of null
+
+(cherry picked from commit 4aa5dea96bd2f9bb137be704e1f69c09c00cdfb3)
+
+Co-authored-by: Leo <108552997+lpskdl@users.noreply.github.com>",1.8891319444444445
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,12fc64b389cd726944757339cc7f077f84249d06,2022-11-28T09:00:33-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] BarChart: fix hover overlay for hz stacked (#59397)
+
+BarChart: fix hover overlay for hz stacked (#59359)
+
+(cherry picked from commit 13d5ad2ce2a7283dc25dace1328cbf0c11fec639)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>",1.8013310185185185
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,8bb5b1769273d8a341b58b1e62940c12cfcd628a,2022-11-28T19:06:41+01:00,George Robinson,george.robinson@grafana.com,"Docs: Improve docs for images in notifications (#59033) (#59404)
+
+(cherry picked from commit 0af3515e95cf185b60242022ede43562127757be)",1.6304050925925926
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,9b7ad3d663b9eb79257206585aae01905459e77e,2022-11-28T19:06:59+01:00,Marcus Efraimsson,marcus.efraimsson@gmail.com,"[v9.2.x] SSE: Make sure to forward headers, user and cookies/OAuth token (#58897) (#59430)
+
+SSE: Make sure to forward headers, user and cookies/OAuth token (#58897)
+
+Fixes #58793 and Fixes https://github.com/grafana/azure-data-explorer-datasource/issues/513
+
+Co-authored-by: Marcus Efraimsson <marcus.efraimsson@gmail.com>
+(cherry picked from commit 5623b5afafbf541eac66fab1d9398756bdf9052c)
+
+Co-authored-by: Kyle Brandt <kyle@grafana.com>",1.6301967592592592
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,6b4394d8e67aaa1be7793ffc03cdf33564e9dae3,2022-11-29T01:25:25-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] SQL Datasources: Fix annotation migration (#59454)
+
+SQL Datasources: Fix annotation migration (#59438)
+
+(cherry picked from commit 71e4a8261df505cd1f14e3aeed18c7cd182dad0f)
+
+Co-authored-by: Zoltán Bedi <zoltan.bedi@gmail.com>",1.0757291666666666
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,ac9819bfa59b10142dc17b23f02fb18ededd2a79,2022-11-29T10:09:08+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Fix: Allow creating snapshot with no dashboard id (#59465)
+
+Fix: Allow creating snapshot with no dashboard id (#58669)
+
+(cherry picked from commit d279b6d7b09b979add6cc285542bf44bd1eb85fe)
+
+Co-authored-by: Gabriel MABILLE <gamab@users.noreply.github.com>",1.0037037037037038
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,c98714f77f77b04c0d6ea835f8c1226ca88efcae,2022-11-29T13:38:16+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.2.x] Docs: Add docs for labels with dots (#59486)
+
+Docs: Add docs for labels with dots (#59352)
+
+(cherry picked from commit c8c1499cd0cb76da66c8949332efe5050e5d656d)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",0.8168055555555556
+v9.2.7,v9.2.6,2022-11-30T09:14:28+00:00,fe17b64445d9cac8c0b4756867f609320c9cb049,2022-11-29T17:51:34+01:00,George Robinson,george.robinson@grafana.com,"Backport Fix XSS in runbook URL (#681) to v9.2.x (#683)
+
+(cherry picked from commit db1548c1491c2f5b522e3c0ceb1832b914a4b2f0)
+(cherry picked from commit 3135a81edf0ebeb575c95560dd548f9589c14d02)",0.6825694444444445
+v9.3.6,v9.3.4,2023-01-26T15:30:25+00:00,ecf4e456599a03176657ca9bd3f589badfc01d72,2023-01-24T15:03:52+01:00,Jo,joao.guerreiro@grafana.com,"Auth: Update saml go.mod (missing query sig verification) [9.3.x] (#712)
+
+* update saml go.mod (missing query sig verification)
+
+(cherry picked from commit 1e1dbd1a06455a451d722856dc619b2a7c78e2c0)
+
+* fix sync",2.0601041666666666
+v9.3.6,v9.3.4,2023-01-26T15:30:25+00:00,77b7420f54d96e97f8f5fc4c310c18cbf0d288b4,2023-01-24T16:06:00+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 9.3.5 (#729)
+
+""Release: Updated versions in package to 9.3.5""",2.0169560185185187
+v9.3.6,v9.3.4,2023-01-26T15:30:25+00:00,8e3111aa470c2da1d25c17dd61c05dd883a420c3,2023-01-26T12:42:21+01:00,Horst Gutmann,horst.gutmann@grafana.com,Merge 'v9.3.x' into v9.3.x,0.15837962962962962
+v9.3.6,v9.3.4,2023-01-26T15:30:25+00:00,ee1556e4fabfe1f83e4af6efc6905c70744e7dcf,2023-01-26T13:16:20+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.3.x] QueryEditorRow: Fixes issue loading query editor when data source variable selected (#62180)
+
+QueryEditorRow: Fixes issue loading query editor when data source variable selected (#61927)
+
+* QueryEditorRow: Fixes issue loading query editor when data source variable selected
+
+* Fix func name
+
+* Removed wait
+
+* restore waiting for with better check
+
+* restore waiting for with better check
+
+(cherry picked from commit 9f7ddf1f0b5234a1fd82e1f92d1444f81a794e45)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",0.1347800925925926
+v9.3.6,v9.3.4,2023-01-26T15:30:25+00:00,bd02d5cbcddb4bd969f437c3836512bfbfef2360,2023-01-26T14:29:46+02:00,dsotirakis,dimitrios.sotirakis@grafana.com,yarn install,0.12545138888888888
+v9.3.6,v9.3.4,2023-01-26T15:30:25+00:00,978237e7cbe35c06d4be0e9c40670c64af2029eb,2023-01-26T16:38:58+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 9.3.6 (#743)
+
+""Release: Updated versions in package to 9.3.6""",0.035729166666666666
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,05bf2419528631e6dedfd34bf853f48b4bb3a552,2023-01-27T09:46:21+01:00,Yuri Tseretyan,yuriy.tseretyan@grafana.com,"Alerting: Update state manager to return StateTransitions when Delete or Reset (#62264)
+
+* update Delete and Reset methods to return state transitions
+
+this will be used by notifier code to decide whether alert needs to be sent or not.
+
+* update scheduler to provide reason to delete states and use transitions
+
+* update FromAlertsStateToStoppedAlert to accept StateTransition and filter by old state
+
+* fixup
+
+* fix tests",32.07782407407407
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,f98ad926acb49ab718aa1c0daf7de426b5da925f,2023-01-27T09:14:24+00:00,Jack Baldry,jack.baldry@grafana.com,"Add Grafana tutorials originally from tutorials repository (#62124)
+
+* Add Grafana tutorials originally from tutorials repository
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Replace tutorials/step shortcode with ordinary headings
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Fix typos reported by codespell
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Fix doc-validator linting and run prettier
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>",32.05834490740741
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,5ff94e528b1f983eeb5172fab85e29490a0df28a,2023-01-27T10:20:55+01:00,Ben Sully,ben.sully@grafana.com,"API: don't re-add /api suffix to grafana.com API URL (#62280)
+
+The old GrafanaComURL setting didn't have the /api suffix so needed it
+adding on by the proxy director, but the new GrafanaComAPIURL setting is
+assumed to already point directly to the API and doesn't need an
+additional suffix.
+
+This is the only place in the codebase that GrafanaComAPIURL is used.",32.05381944444444
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a54d18c1f51c333ead542f2450b77fa4a8e79ae4,2023-01-27T09:25:57+00:00,Jack Baldry,jack.baldry@grafana.com,"Revert ""Add Grafana tutorials originally from tutorials repository"" (#62283)
+
+Revert ""Add Grafana tutorials originally from tutorials repository (#62124)""
+
+This reverts commit f98ad926acb49ab718aa1c0daf7de426b5da925f.",32.05032407407408
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,83ff974b86bb50a8f14b0c02f76224ebf45633b3,2023-01-27T10:47:18+01:00,Levente Balogh,balogh.levente.hu@gmail.com,"Datasources: Add the props for the ""add datasource"" event (#62227)
+
+chore: pass editLink to the add datasource user event",32.035497685185184
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3ccafe3a5af8fc2a1539dad16277f210b4de7219,2023-01-27T10:50:06+01:00,Alex Moreno,alexander.moreno@grafana.com,"Alerting: Add is_paused attr to the POST alert rule group endpoint (#62253)
+
+Add is_paused attr to the POST alert rule group endpoint",32.033553240740744
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,02098c156849f2f9f06cd2380cdf70d88a46aaed,2023-01-27T10:03:52+00:00,Joey Tawadrous,90795735+joey-grafana@users.noreply.github.com,"Tempo: Update docs and default Tempo metrics query (#62185)
+
+Update docs and default tempo metrics query",32.02399305555556
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,14185ba819272388b50344652a5e1059134330f5,2023-01-27T11:19:35+01:00,renovate[bot],29139614+renovate[bot]@users.noreply.github.com,"Update d3 to v3 (#58315)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>",32.013078703703705
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3447ad2602e5535a1d8496ab5404be1f115318cf,2023-01-27T11:40:12+01:00,Karl Persson,kalle.persson@grafana.com,"AuthN: support priority for post auth and post login hooks (#62208)
+
+* AuthN: store post auth hooks in a priority list and update registration
+function to take a priority
+
+* AuthN: store post login hooks in a priority list and update registration function to take a priority
+
+* AuthN: Change priority for sync user",31.998761574074074
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,6292a41b24d1ba7b1995236e89bc6b3f17fd8540,2023-01-27T11:40:49+01:00,Andres Martinez Gotor,andres.martinez@grafana.com,Azure Monitor: Allow multi-value variables (#62238),31.998333333333335
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,70f109526a3697ca9b71d99ed2f15d71cc3f49ac,2023-01-27T10:50:48+00:00,Josh Hunt,joshhunt@users.noreply.github.com,"Search: Store only search value in state, not the whole selectable value (#62228)
+
+* Search: Store only search value in state, not the whole selectable value
+
+* type sort to undefined-able",31.991400462962964
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,1464dd4095c897eb03b72c77c8674e59db8aa754,2023-01-27T12:52:32+02:00,Victor Marin,36818606+mdvictor@users.noreply.github.com,Re-add RowHeight option to StatusHistory (#62293),31.99019675925926
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3d4cf06246d6e43a12d1d5fbf511b9facbc7331a,2023-01-27T10:54:45+00:00,renovate[bot],29139614+renovate[bot]@users.noreply.github.com,"Update dependency rc-drawer to v6.1.2 (#62294)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>",31.98865740740741
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,4deb10888eea269fb5003630302f0e702d18a523,2023-01-27T11:58:18+01:00,Torkel Ödegaard,torkel@grafana.com,"Revert ""Transforms: Add join by fields"" (#62278)",31.98619212962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,960307e9387d583c67b5016b77cc1f16ee5dd764,2023-01-27T11:00:28+00:00,Josh Hunt,joshhunt@users.noreply.github.com,"Search: Remember sorting preference between visits (#62248)
+
+Search: Remember sort option between uses",31.9846875
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,dab3fac01bb0a0f3ad46fe7885c32f119b8b8d51,2023-01-27T11:51:10+00:00,Oscar Kilhed,oscar.kilhed@grafana.com,"Grafana DS: Fix dropzone showing upload file even if there is a file (#62200)
+
+* Grafana DS: Fix dropzone showing upload file even if there is a file",31.949479166666666
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,eb9ef34272c9642706e2caeb04a79eb116a9a8f5,2023-01-27T12:12:30+00:00,Ieva,ieva.vasiljeva@grafana.com,"RBAC: Permission check performance improvements for the new search (#60729)
+
+* Add checker and update the resource filter function for new search
+
+* Add tests for checker
+
+* small fixes
+
+* handle location for panels correctly
+
+* clean up checker code and extend the tests for it
+
+* more fixes, but tests don't quite work yet
+
+* a small change to return error
+
+* cleanup
+
+* more simplification
+
+* fix tests
+
+* correct wrong argument ordering & use constant
+
+* Apply suggestions from code review
+
+Co-authored-by: Artur Wierzbicki <artur.wierzbicki@grafana.com>
+
+* import
+
+* check general folder from permission checker function
+
+* handle root folder aka general folder properly
+
+* update tests
+
+* clean up
+
+* lint
+
+* add fix from main
+
+Co-authored-by: Karl Persson <kalle.persson@grafana.com>
+Co-authored-by: Artur Wierzbicki <artur.wierzbicki@grafana.com>",31.93466435185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,1a28650aabcef67d8353dce8a7e3e6e0e123c86b,2023-01-27T12:28:09+00:00,renovate[bot],29139614+renovate[bot]@users.noreply.github.com,"Update dependency @testing-library/dom to v8.20.0 (#61677)
+
+* Update dependency @testing-library/dom to v8.20.0
+
+* do some lockfile surgery
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",31.923796296296295
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,bfcf936c38f12ef3daf6b908bd0687f3e89ad390,2023-01-27T13:30:12+01:00,Torkel Ödegaard,torkel@grafana.com,"QueryEditorRows: Remove double callback from onDataSourceChange (#62172)
+
+* QueryEditorRows: Remove double callbacked from onDataSourceChange
+
+* A few more updates
+
+* Updated",31.922372685185184
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,846acd28ff633ce3817def64f4ce9f6b76d6e957,2023-01-27T14:30:42+02:00,Victor Marin,36818606+mdvictor@users.noreply.github.com,"StateTimeline: Show correct legend label when value mappings set (#62282)
+
+* StateTimeline: Show correct legend label when value mappings set
+
+* Add test dashboard for thresholds and value mappings
+
+* run stripnulls.sh",31.922025462962964
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,b6db1ed5242cc0a573ad482160d43bf7e9aa0d38,2023-01-27T13:41:36+01:00,George Robinson,george.robinson@grafana.com,"Revert ""Alerting: Add is_paused attr to the POST alert rule group endpoint"" (#62310)
+
+Revert ""Alerting: Add is_paused attr to the POST alert rule group endpoint (#62253)""
+
+This reverts commit 3ccafe3a5af8fc2a1539dad16277f210b4de7219.",31.914456018518518
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,6bfd21ef0a8bf2f1ee1e9d193c3c375f64a05901,2023-01-27T12:42:47+00:00,Oscar Kilhed,oscar.kilhed@grafana.com,"FileDropzone: make a nicer looking error message when file size is exceeded (#62290)
+
+* FileDropzone: make a nicer looking error message when file size is exceeded",31.913634259259258
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,52955d88a73a3164bbbc4bd563ec610fcc43dc0c,2023-01-27T05:52:01-07:00,Leon Sorokin,leeoniya@gmail.com,TimeSeries: Fix log y scale when min/max settings don't land on divisors (#60768),31.907222222222224
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,2f46317a2aa89cc331fcc7d554327130a8e71dfe,2023-01-27T14:06:43+01:00,Jack Westbrook,jack.westbrook@gmail.com,"Packages: Don't error if npm-artifacts directory already exists (#62303)
+
+fix(packages): dont error if npm-artifacts directory already exists",31.89701388888889
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3281eb92230021218ab35dc3e2f12f9e2c4e7cb0,2023-01-27T14:11:17+01:00,Yaelle Chaudy,42030685+yaelleC@users.noreply.github.com,"[Navigation] Add user events for quick actions/dashboard actions (#62220)
+
+Add fe events for quick actions/dashboard actions",31.89384259259259
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,54ff88463c8e543ed25997ec98ed60537e94e0bf,2023-01-27T08:21:47-05:00,Gilles De Mey,gilles.de.mey@gmail.com,Alerting: remove link to Grafana University (#62318),31.886550925925928
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,f0a88e0609a31ea2ca949e53dfbce54315e0608a,2023-01-27T14:22:47+01:00,Armand Grillet,2117580+armandgrillet@users.noreply.github.com,Add SQLite performance limitation with alerting (#62296),31.885856481481483
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,847a5ab195305ad952a76c6125758c5fd8dd7f15,2023-01-27T13:23:31+00:00,renovate[bot],29139614+renovate[bot]@users.noreply.github.com,"Update dependency rc-slider to v10.1.0 (#62302)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>",31.885347222222222
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,27f0c9c70f8dfe1e4ffb6031e4a9569dff347bb2,2023-01-27T14:26:35+01:00,Eric Leijonmarck,eric.leijonmarck@gmail.com,"Auth: Doc change url for getting JWT (#62319)
+
+docs: change url for getting JWT",31.883217592592594
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,591501ef3f8991b9929f607954aca7fc30ca1cda,2023-01-27T13:33:27+00:00,Joey Tawadrous,90795735+joey-grafana@users.noreply.github.com,"Traces: Upgraded feature tracking (#62181)
+
+Upgraded feature tracking",31.878449074074073
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,c931b8031e28092764b288a5183ba4c68970fc2c,2023-01-27T14:40:04+01:00,Karl Persson,kalle.persson@grafana.com,"SearchV2: Set correct batch limit when loading dashboards (#62314)
+
+SearchV2: Set correct limit",31.873854166666668
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,af1e2d68dab719539f0e2758b79ad275a41480c6,2023-01-27T15:08:17+01:00,Giuseppe Guerra,giuseppe.guerra@grafana.com,"Plugins: Allow loading panel plugins from a CDN (#59096)
+
+* POC: Plugins CDN reverse proxy
+
+* CDN proxy POC: changed env var names
+
+* Add authorization: false for /public path in frontend plugin loader
+
+* Moved CDN settings to Cfg, add some comments
+
+* Fix error 500 in asset fetch if plugin is not using CDN
+
+* Fix EnterpriseLicensePath declared twice
+
+* Fix linter complaining about whitespaces
+
+* Plugins CDN: Skip signature verification for CDN plugins
+
+* Plugins CDN: Skip manifest and signature check for cdn plugins
+
+* Plugins: use IsValid() and IsInternal() rather than equality checks
+
+* Plugins CDN: remove comment
+
+* Plugins CDN: Fix seeker can't seek when serving plugins from local fs
+
+* Plugins CDN: add back error codes in getLocalPluginAssets
+
+* Plugins CDN: call asset.Close() rather than asset.readSeekCloser.Close()
+
+* Plugins CDN: Fix panic in JsonApiErr when errorMessageCoder wraps a nil error
+
+* Plugins CDN: Add error handling to proxyCDNPluginAsset
+
+* Plugins CDN: replace errorMessageCoder with errutil
+
+* Plugins CDN POC: expose cdn plugin paths to frontend for system.js
+
+* Plugins CDN: Fix cdn plugins showing as unsigned in frontend
+
+* WIP: Add support for formatted URL
+
+* Fix missing cdnPluginsBaseURLs in GrafanaConfig
+
+* Plugins CDN: Remove reverse proxy mode and reverse proxy references
+
+* Plugins CDN: Simplify asset serving logic
+
+* Plugins CDN: sanitize redirect path
+
+* Plugins CDN: Removed unused pluginAsset type
+
+* Plugins CDN: Removed system.js changes
+
+* Plugins CDN: Return different system.js baseURL and module for cdn plugins
+
+* Plugins CDN: Ensure CDN is disabled for non-external plugins
+
+* lint
+
+* Plugins CDN: serve images and screenshots from CDN, refactoring
+
+* Lint
+
+* Plugins CDN: Fix URLs for system.js (baseUrl and module)
+
+* Plugins CDN: Add more tests for RelativeURLForSystemJS
+
+* Plugins CDN: Iterate only on apps when preloading
+
+* Plugins CDN: Refactoring
+
+* Plugins CDN: Add comments to url_constructor.go
+
+* Plugins CDN: Update defaultHGPluginsCDNBaseURL
+
+* Plugins CDN: undo extract meta from system js config
+
+* refactor(plugins): migrate systemjs css plugin to typescript
+
+* feat(plugins): introduce systemjs cdn loader plugin
+
+* feat(plugins): add systemjs load type
+
+* Plugins CDN: Removed RelativeURLForSystemJS
+
+* Plugins CDN: Log backend redirect hits along with plugin info
+
+* Plugins CDN: Add pluginsCDNBasePath to getFrontendSettingsMap
+
+* feat(plugins): introduce cdn loading for angular plugins
+
+* refactor(plugins): move systemjs cache buster into systemjsplugins directory
+
+* Plugins CDN: Rename pluginsCDNBasePath to pluginsCDNBaseURL
+
+* refactor(plugins): introduce pluginsCDNBaseURL to the frontend
+
+* Plugins CDN: Renamed ""cdn base path"" to ""cdn url template"" in backend
+
+* Plugins CDN: lint
+
+* merge with main
+
+* Instrumentation: Add prometheus counter for backend hits, log from Info to Warn
+
+* Config: Changed key from plugins_cdn.url to plugins.plugins_cdn_base_url
+
+* CDN: Add backend tests
+
+* Lint: goimports
+
+* Default CDN URL to empty string,
+
+* Do not use CDN in setImages and module if the url template is empty
+
+* CDN: Backend: Add test for frontend settings
+
+* CDN: Do not log missing module.js warn if plugin is being loaded from CDN
+
+* CDN: Add backend test for CDN plugin loader
+
+* Removed 'cdn' signature level, switch to 'valid'
+
+* Fix pfs.TestParseTreeTestdata for cdn plugin testdata dir
+
+* Fix TestLoader_Load
+
+* Fix gocyclo complexity of loadPlugins
+
+* Plugins CDN: Moved prometheus metric to api package, removed asset_path label
+
+* Fix missing  in config
+
+* Changes after review
+
+* Add pluginscdn.Service
+
+* Fix tests
+
+* Refactoring
+
+* Moved all remaining CDN checks inside pluginscdn.Service
+
+* CDN url constructor: Renamed stringURLFor to stringPath
+
+* CDN: Moved asset URL functionality to assetpath service
+
+* CDN: Renamed HasCDN() to IsEnabled()
+
+* CDN: Replace assert with require
+
+* CDN: Changes after review
+
+* Assetpath: Handle url.Parse error
+
+* Fix plugin_resource_test
+
+* CDN: Change fallback redirect from 302 to 307
+
+* goimports
+
+* Fix tests
+
+* Switch to contextmodel.ReqContext in plugins.go
+
+Co-authored-by: Will Browne <will.browne@grafana.com>
+Co-authored-by: Jack Westbrook <jack.westbrook@gmail.com>",31.85425925925926
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,7c02d9bb8a864aab35c676f1a44c6c5be9eb6c09,2023-01-27T15:12:01+01:00,Sven Grossmann,sven.grossmann@grafana.com,"Logs: Add experimental support to display a datasource custom UI in LogContext (#62189)
+
+* add loki contextfilter component
+
+* add `getLogRowContextUi` support to DataSourceAPI
+
+* add `runContextQuery` to LogRowContextProvider
+
+* pass `getRowContextUi` to `LogRowContext`
+
+* adapt LogRowContext to show datasource ui
+
+* implement LogRowContextUi in Loki
+
+* add `logsContextDatasourceUi` feature flag
+
+* change state to `Alpha`
+
+* disable the feature if `logsContextDatasourceUi` is not set
+
+* don't fetch labels in the constructor
+
+* adjust to right height
+
+* remove unnecessary eslint disable
+
+* add test for LokiContextUi
+
+* move code down in datasource.ts
+
+* rename `refresh` to `runContextQuery`
+
+* update datasource tests
+
+* don't update if `updateFilter` fn changes
+
+* organized imports in datasource.test.ts
+
+* don't trigger on intialization changes
+
+* change tag to `experimental`
+
+* move `getLogRowContextUi` to props",31.851666666666667
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,afd39c18ba956f42a4bb71622c53c52dfb7672e4,2023-01-27T14:13:17+00:00,Andre Pereira,adrapereira@gmail.com,"Explore: Refactor trace view and move to core (#61938)
+
+* Move TraceView to core grafana
+
+* Remove unused code
+
+* yarn install
+
+* Remove jaeger-ui-components from CODEOWNERS and other tools
+
+* Type fixes
+
+* yarn install
+
+* Remove mock that we no longer need
+
+* Fix merge conflicts
+
+* Re-add Apache license for trace view components
+
+* Use an exclamation-circle instead of triangle to denote errors
+
+* Remove eslint disables and update betterer results instead",31.850787037037037
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,89ef62f163e2a821f843fb6cbb35fa0a0ecf082c,2023-01-27T14:19:42+00:00,Sriram,153843+yesoreyeram@users.noreply.github.com,"Chore: Removed unused grafana-plugin-ci images (#62219)
+
+removed unused grafana-plugin-ci images",31.84633101851852
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a1289444717efec6ec5c96405710b5f391513756,2023-01-27T11:20:22-03:00,Ezequiel Victorero,ezequiel.victorero@grafana.com,PublicDashboards: moved tokens service and new repository method (#61806),31.845868055555556
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,5bdfbd93a50af34623375455e6a92194449e4fb1,2023-01-27T14:33:48+00:00,Andreas Christou,andreas.christou@grafana.com,"Bump code coverage version (#62322)
+
+* Bump code coverage version
+
+* Update codeowners to include aws-plugins
+
+* Bump version further",31.83653935185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,df2db3bb2305109e7ead8e011f335b941a893622,2023-01-27T15:41:16+01:00,Sven Grossmann,sven.grossmann@grafana.com,"LogContext: Fix setting wrong height for ElasticSearch (#62330)
+
+fix wrong height for elastic",31.831354166666667
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,5531e22f4627d4c02f081690d25974bda42e47b7,2023-01-27T16:05:25+01:00,Eric Leijonmarck,eric.leijonmarck@gmail.com,"Auth: Add disable of team sync for JWT Authentication (#62191)
+
+* fix: disable team sync for JWT Authentication
+
+* add: comment to test
+
+* change test to conform to new expected behavior
+
+* fix: spelling
+
+* formatting",31.814583333333335
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,83199c4bf51e953db7de0d702b00962eaf6ad9f4,2023-01-27T07:13:33-08:00,Dominik Prokop,dominik.prokop@grafana.com,"Dashboard schema: Review and mature timezone property (#62090)
+
+* Review and mature timezone property of Dashboard kind
+
+* Update timezone type",31.808935185185184
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d5433a488a4bc0af81a5853a83e3eb0ed3002bf7,2023-01-27T12:17:18-03:00,Ezequiel Victorero,ezequiel.victorero@grafana.com,Chore: Update code owners of public dashboards (#62332),31.80633101851852
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,88119ad6c32a781ac21737db92dc8734f143daa5,2023-01-27T16:18:36+01:00,Gábor Farkas,gabor.farkas@gmail.com,"Elasticsearch: Support nested aggregation (#62301)
+
+* Add nested query support
+
+* Add nested support for alerts
+
+* update nested aggregation
+
+* cleanup types
+
+* Add nested integration test
+
+* Move aggdef to nested
+
+* fixed merge conflict
+
+* fixed lint warning
+
+* mark nested-mode experimental
+
+---------
+
+Co-authored-by: Ethan Gallant <ethan@ziax.com>
+Co-authored-by: Ethan J. Gallant <ethan.gallant@acquia.com>",31.805428240740742
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,317ef1de86bc0d86975e15180067e99fce0e508c,2023-01-27T16:29:05+01:00,Andres Martinez Gotor,andres.martinez@grafana.com,Azure Monitor: Add variable function to list regions (#62297),31.798148148148147
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,9453bec81999e95a82ab8d2cf7cee05b972c5f4c,2023-01-27T16:40:54+01:00,Levente Balogh,balogh.levente.hu@gmail.com,FileDropzone: Revert introducing a new prop (#62324),31.78994212962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d0e95f8c9509eb6fe681283af63f938b51e78473,2023-01-27T16:41:40+01:00,Ivana Huckova,30407135+ivanahuckova@users.noreply.github.com,Loki: Add X-Query-Tags header for logs sample and data sample (#62333),31.78940972222222
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,1865205d6823a5b7b39ec576e0ec7b16efadda44,2023-01-27T15:42:08+00:00,Ieva,ieva.vasiljeva@grafana.com,"Benchmarks for searchv2 (#60730)
+
+* bench-test
+
+* cleanup
+
+* more simplification
+
+* fix tests
+
+* correct wrong argument ordering & use constant
+
+* fix issues with tests setup
+
+* add benchmark results
+
+* reuse Gabriel's concurrent setup code
+
+* correct error logs for ac benchmarks",31.78908564814815
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d4015602cafd7139c6628ca6990dba4c326a453e,2023-01-27T15:43:13+00:00,Dominik Prokop,dominik.prokop@grafana.com,Dashboard schema: Update default value for timezone (#62340),31.788333333333334
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,7f5ed9f59d8b6fe6dbaa29513db6083139c6beec,2023-01-27T15:48:06+00:00,renovate[bot],29139614+renovate[bot]@users.noreply.github.com,"Update dependency rc-tooltip to v5.3.1 (#62341)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>",31.78494212962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,305209f4be61837f47dfb15fcfb2893d6933a03d,2023-01-27T16:10:05+00:00,Josh Hunt,joshhunt@users.noreply.github.com,"CommandPalette: Render dashboard + nav actions as links (#62315)
+
+* CommandPalette: Render links as links!
+
+* Update public/app/features/commandPalette/KBarResults.tsx
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>
+
+* Apply suggestions from code review
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>
+
+* fix ellipsis showing
+
+---------
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",31.769675925925927
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,1ef7cfda3f9cc86ea5d6a8cfa10e011f4df349ab,2023-01-27T16:21:48+00:00,Ashley Harrison,ashley.harrison@grafana.com,"Navigation: more command palette tweaks (#62286)
+
+* update placeholder text, only create search keybindings if topNavCommandPalette is disabled
+
+* make search input wider",31.76153935185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d5294eb8fa71ba62546d00ebce7b9376ab6f2b1a,2023-01-27T17:30:25+01:00,Ivana Huckova,30407135+ivanahuckova@users.noreply.github.com,"Explore: Implement feature toggle for logs sample (#62291)
+
+* Explore: Implement feature toggle for logs sample
+
+* Run pkg/services/featuremgmt/toggles_gen_test.go
+
+* Remove boolean
+
+* Update copy",31.755555555555556
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,c006df375a3a6056f9cbeeaf2f28f87ce86823a2,2023-01-27T11:39:16-05:00,Matthew Jacobson,matthew.jacobson@grafana.com,"Alerting: Create endpoints for exporting in provisioning file format (#58623)
+
+This adds provisioning endpoints for downloading alert rules and alert rule groups in a 
+format that is compatible with file provisioning. Each endpoint supports both json and 
+yaml response types via Accept header as well as a query parameter 
+download=true/false that will set Content-Disposition to recommend initiating a download 
+or inline display.
+
+This also makes some package changes to keep structs with potential to drift closer 
+together. Eventually, other alerting file structs should also move into this new file 
+package, but the rest require some refactoring that is out of scope for this PR.",31.74940972222222
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,5ad7cca9d49ad22996ce1949902164f21e1d78e1,2023-01-27T10:40:12-06:00,Galen Kistler,109082771+gtk-grafana@users.noreply.github.com,"Prometheus: Fix ""-Instant"" string showing up in prometheus instant query UI  (#62265)
+
+Add string constant and make sure to remove from name before outputting to frontend",31.748761574074074
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,b2c8126e6ef9301ab4cef5d8f7ad4f9a4befbf65,2023-01-27T17:32:53+00:00,Gareth Dawson,gareth.dawson@grafana.com,"Loki: Show query size approximation (#62109)
+
+* feat: make api request to /loki/api/v1/index/stats
+
+* fix: add /index/stats to callResource valid urls
+
+* feat: make call to getQueryStats when the query changes
+
+* feat: render user tooltip displaying the estimated value for processed data
+
+* fix: add new props to component tests
+
+* test: add tests for query size estimation
+
+* fix: disable error message on request failure
+
+* refactor: add suggestions from code review
+
+* refactor: only pass required query string",31.712175925925926
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,4563111180d12f656faf87f0626c07914f7ff782,2023-01-27T17:53:50+00:00,Jack Baldry,jack.baldry@grafana.com,"Move Grafana tutorials from grafana/tutorials repository (#62309)
+
+* Add Grafana tutorials originally from tutorials repository
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Replace tutorials/step shortcode with ordinary headings
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Fix typos reported by codespell
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Fix doc-validator linting and run prettier
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Specify version in tutorials lookup as non-rendered pages do not have a relative permalink used to infer the version
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Use latest version
+
+Ensures CI passes and only breaks one website build as the backport to
+v9.3.x will solve the missing ""latest"" pages on publishing.
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+---------
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>",31.697627314814813
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,9256a520a41c72e1b2635b2a99b74069112776d5,2023-01-27T13:36:54-05:00,Kristin Laemmert,mildwonkey@users.noreply.github.com,"chore: move user_auth models to (mostly) login service (#62269)
+
+* chore: move user_auth models to (mostly) login service",31.667719907407406
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3c616da83f39498a2dde3729a3749f16daf4c1bd,2023-01-27T18:49:49+00:00,gotjosh,josue.abreu@gmail.com,"Alerting: Refactor metrics/ngalert.go into seperate files (#62362)
+
+* Alerting: Refactor metrics/ngalert.go into seperate files",31.65875
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,290f23a50bc09a84f342308a0e9d8ecd2c993ea5,2023-01-27T13:31:55-06:00,Isabel,76437239+imatwawana@users.noreply.github.com,"docs: clarify note re export dashboard as PDF (#62398)
+
+clarify note re export dashboard as PDF
+
+Update note under Export dashboard as PDF to indicate that it's only available on Enterprise and Cloud, as well as which version of Enterprise it's available on.",31.629513888888887
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,07dc9947652e0df8f296c029cb85bef550faa711,2023-01-27T11:35:57-08:00,Drew Slobodnjak,60050885+drew08t@users.noreply.github.com,"Canvas: Anchor highlight persistance (#62364)
+
+* Canvas: Anchor highlight persistance
+
+* Update public/app/plugins/panel/canvas/ConnectionAnchors.tsx
+
+Co-authored-by: Nathan Marrs  <nathanielmarrs@gmail.com>
+
+* Fix CONNECTION_ANCHOR_ALT dependencies
+
+* Simplify anchor type assertion logic
+
+* Ensure that anchor highlight is reset when anchors are hidden
+
+* Add helpful comment on return bool of function
+
+---------
+
+Co-authored-by: Nathan Marrs  <nathanielmarrs@gmail.com>",31.626712962962962
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,6c990b461e4650effbfddb1fc9264bb6ad4d726a,2023-01-27T20:04:04+00:00,Josh Hunt,joshhunt@users.noreply.github.com,"SupportBundles: Feature flag + access control navtree item (#62337)
+
+* SupportBundles: Feature flag + access control navtree item
+
+* remove translation",31.6071875
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,0c4671e31fd77ced27effa5ba116ab0f2804c0c7,2023-01-27T16:26:22-05:00,Yuri Tseretyan,yuriy.tseretyan@grafana.com,Alerting: Update historian to ignore transitions from Normal Paused and Updated (#62267),31.55003472222222
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,82e8ad8a0f40df9cb2128fc0943a91ce0f2d14a9,2023-01-27T16:46:08-05:00,Sarah Zinger,sarah.zinger@grafana.com,"Cloudwatch: Set CloudwatchCrossAccountQuery feature to stable (#62348)
+
+* Cloudwatch: Set CloudwatchCrossAccountQuery feature to stable
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",31.536307870370372
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,13159d03bae148ad2728d108a91a9c1fe7682e6b,2023-01-28T18:39:23+01:00,Gilles De Mey,gilles.de.mey@gmail.com,Alerting: Use optional chaining for accessing frames (#61814),30.707662037037036
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,0d2a786816c7bac6bb14ab8ca2233a3e95c12da8,2023-01-30T04:14:12+00:00,Ryan McKinley,ryantxu@gmail.com,Schema: Add schema for library panels (#62169),29.26681712962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,9b2abe7613bb334d8dead9d1c28d6daa67b28f1c,2023-01-30T08:29:13+01:00,Levente Balogh,balogh.levente.hu@gmail.com,"Datasources: Extend properties for the datasource-test tracking event (#62292)
+
+chore: extend properties for the test datasource tracking event",29.13138888888889
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,324310abbc8865e3e42f9fa6af61853d82d91d4b,2023-01-30T08:18:26+00:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping in pkg/api (#62419)
+
+* fix goimports
+
+* fix goimports order",29.09721064814815
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,bc2813ef0661eb0fd317a7ed2dff4db056cbe7e6,2023-01-30T08:21:27+00:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping in pkg/services (#62420)
+
+* fix goimports
+
+* fix goimports order",29.09511574074074
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,e2d49ea17fdedf1360e23d36592464bf06a9f1ef,2023-01-30T08:25:58+00:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping (#62423)
+
+* fix goimports
+
+* fix goimports order",29.09197916666667
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,2ff715cb7a340c4bcb20d6ce58c0e9e5a37ef7e5,2023-01-30T09:26:14+01:00,Jan Garaj,jan.garaj@gmail.com,CloudWatch: Add missing AWS/DX metric (#62405),29.09179398148148
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,da7065d3dc3db4ce08b888f17760025b674dce0d,2023-01-30T09:26:27+01:00,Sven Grossmann,sven.grossmann@grafana.com,"LokiContext: Fix wrong queries being run when reopened (#62353)
+
+* fix wrong query being run when reopened
+
+* fix typo
+
+Co-authored-by: Ivana Huckova <30407135+ivanahuckova@users.noreply.github.com>
+
+* and test for `onClose`
+
+* rename functions
+
+---------
+
+Co-authored-by: Ivana Huckova <30407135+ivanahuckova@users.noreply.github.com>",29.09164351851852
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,aebcecf5386f24a9caba8345af821915041d3d6f,2023-01-30T08:26:42+00:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping in other backend platform packages (#62422)
+
+* fix goimports
+
+* fix goimports order
+
+* fix goimports order
+
+* fix goimports order
+
+* fix goimports order
+
+* fix goimports order",29.091469907407408
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,f531074d89972bd4e5ad7274dc053502dea3162e,2023-01-30T08:32:25+00:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping in pkg/infra (#62421)
+
+* fix goimports
+
+* fix goimports order",29.0875
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,7dbd2cd139c26f8707d5ee30e8565c28fb4261d2,2023-01-30T09:34:18+01:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping  (#62426)
+
+fix goimports ordering",29.08619212962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,f8ec35e643cacf13dcf80921a8641a1634fa6f95,2023-01-30T09:38:51+01:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping (#62427)
+
+* fix goimports order
+
+* fix goimports order",29.08303240740741
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,0bf4093005946b973187a02c1226421c2399fa07,2023-01-30T08:50:27+00:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping (#62428)
+
+* fix goimports order
+
+* fix goimports order",29.07497685185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d6d40975671f44580c5b71d5b997c2968e2d30ab,2023-01-30T09:55:35+01:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping in alerting (#62424)
+
+* fix goimports
+
+* fix goimports order",29.07141203703704
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,907e2a840e817717f785f16038a6b94b6544a9c7,2023-01-30T09:57:50+01:00,Serge Zaitsev,serge.zaitsev@grafana.com,"Chore: Fix goimports grouping (#62429)
+
+* fix goimports ordering
+
+* fix goimports order",29.069849537037037
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,8379a5338ca57b0b771ead1f3241572539a60fe6,2023-01-30T09:27:11+00:00,Jack Baldry,jack.baldry@grafana.com,"CI: Lint starlark files with `buildifier` (#59157)
+
+* Add verify-starlark build action that returns an error for starlark files with lint
+
+Relies on `buildifier` tool.
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Add verify_starlark_step to PR pipeline
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Manually fetch buildifier in curl_image until a new build_image is created
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Format with buildifier
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Remove all unused variables retaining one unused function
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Use snake_case for variable
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Replace deprecated dictionary concatenation with .update() method
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Start adding docstrings for all modules and functions
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Prefer os.WriteFile as ioutil.WriteFile has been deprecated since go 1.16
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Attempt to document the behavior of the init_enterprise_step
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document test_backend pipeline
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document enterprise_downstream_step
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document the pipeline utility function
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document publish_images_step
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document publish_images_steps
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document enterprise2_pipelines function
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Add tags table for Starlark files.
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document test_frontend
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document windows function
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Add docstrings to verifystarlark functions
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Refactor error handling to be more clear and document complex behavior
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Split errors into execution errors and verification errors
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document all other library functions
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Add local variables to TAGS
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Add blank line between all Args and Returns sections
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Fix new linting errors
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Lint new Starlark files
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Correct buildifier binary mv
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Document the need to set nofile ulimit to at least 2048
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Update build-container to include buildifier
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Ensure buildifier binary is executable
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Fix valid content test
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Simply return execution error
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Only check files rather than fixing them
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Use updated build-container with executable buildifier
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Test that context cancellation stops execution
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Simplify error handling
+
+Return execution errors that short circuit WalkDir rather than
+separately tracking that error.
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Remove fetching of buildifier binary now that it is in the build-container
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Use build image in verify-starlark step
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Use semver tag
+
+The image is the same but uses a semver tag to make it clearer that
+this is a forward upgrade from the old version.
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Use node 18 image with buildifier
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+
+---------
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>",29.049467592592592
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,dae980860248e4198d917f192731f04b8c2fcdd1,2023-01-30T10:30:01+01:00,Torkel Ödegaard,torkel@grafana.com,AppPlugins: Remove unused rootNav parameter (#62440),29.0475
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,bed1bb1a73140e71ff2f5e0d1198f0a9bc7542f1,2023-01-30T10:49:20+01:00,Andres Martinez Gotor,andres.martinez@grafana.com,"Azure Monitor: Allow to specify a region when listing resources (#62306)
+
+* Azure Monitor: Allow to specify a region when listing resources
+
+* Add region template variable to e2e tests",29.03408564814815
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,be7b90bbd1488296494ca0e2f73e2090e752854e,2023-01-30T10:49:57+01:00,Andres Martinez Gotor,andres.martinez@grafana.com,Azure Monitor: Add info about multiple resource selection (#62327),29.033657407407407
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d51e7ec7efbffa89a27506822ac421c44636ced2,2023-01-30T10:51:51+01:00,Josh Hunt,joshhunt@users.noreply.github.com,"Preferences: Add theme preference to match system theme (#61986)
+
+* user essentials mob! :trident:
+
+lastFile:pkg/api/preferences.go
+
+* user essentials mob! :trident:
+
+* user essentials mob! :trident:
+
+lastFile:packages/grafana-data/src/types/config.ts
+
+* user essentials mob! :trident:
+
+lastFile:public/app/core/services/echo/utils.test.ts
+
+* user essentials mob! :trident:
+
+* user essentials mob! :trident:
+
+lastFile:public/views/index-template.html
+
+* user essentials mob! :trident:
+
+* Restore currentUser.lightTheme for backwards compat
+
+* fix types
+
+* Apply suggestions from code review
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>
+
+* cleanup
+
+* cleanup
+
+---------
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>
+Co-authored-by: Joao Silva <joao.silva@grafana.com>
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",29.032337962962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,ae8c61c0b2c2270b23d55576fec4205804d52cfb,2023-01-30T10:54:20+01:00,Sven Grossmann,sven.grossmann@grafana.com,"Logs: Fix stats not being updated when log results change (#62317)
+
+update stats in logdetails",29.030613425925925
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a9d44aa79516cd09d36eb0dfd2a885eaae4ae81d,2023-01-30T10:58:43+01:00,Ida Štambuk,ida.stambuk@grafana.com,"Datasources: Add support for getDetDefaultQuery in variable editor (#62026)
+
++Cloudwatch implementation",29.027569444444445
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d44f250aea3269daf0b830c5569de078dd018b2e,2023-01-30T11:13:08+01:00,Sonia Aguilar,33540275+soniaAguilarPeiron@users.noreply.github.com,"Alerting: Add export button for exporting all alert rules in alert list view (#62416)
+
+* Add export button for exporting all alert rules in alert list view
+
+* Add RBAC for export button
+
+* Use provisioningPermissions.read in getRulesAccess method instead of directly using AccessControlAction.AlertingProvisioningRead",29.01755787037037
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,7eb01b18133836b38a823406bc60c5f4e7206ee3,2023-01-30T11:17:02+01:00,Sven Grossmann,sven.grossmann@grafana.com,"MultiSelect: Fix `actionMeta` not available in `onChange` callback (#62339)
+
+add `ActionMeta` to `onChange` callback",29.014849537037037
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a502a2d1f85e757c638c2e5d4de20495e22e8102,2023-01-30T10:17:40+00:00,Sofia Papagiannaki,1632407+papagian@users.noreply.github.com,Nested folders: Enable folder migration (#61936),29.014409722222222
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,38d71689215fe715b74b426e7cdd7f7b43528f0c,2023-01-30T11:18:07+01:00,Kyle Cunningham,codeincarnate@users.noreply.github.com,"Time Series Panel: Fix legend text selection in Firefox (#60809)
+
+Add user-select property to legend items.",29.014097222222222
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d7026900bdb7be1859b682f365128f53885a1c71,2023-01-30T11:30:39+01:00,Sven Grossmann,sven.grossmann@grafana.com,"LokiContext: Add feature tracking (#62344)
+
+* add feature tracking to LokiContextUi
+
+* only depend on `row.uid`
+
+Co-authored-by: Gábor Farkas <gabor.farkas@gmail.com>
+
+---------
+
+Co-authored-by: Gábor Farkas <gabor.farkas@gmail.com>",29.005393518518517
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a232e7ceca994bfd84cb031571d969c833a66c09,2023-01-30T10:54:14+00:00,Eric Leijonmarck,eric.leijonmarck@gmail.com,"Auth: Add skip_org_role_sync for Okta (#62106)
+
+* WIP
+
+* Update pkg/services/login/authinfo.go
+
+* fix: merge
+
+* change order to internal last
+
+* adds: docs
+
+* add: configuration for defaults and sample
+
+* Update docs/sources/setup-grafana/configure-grafana/_index.md
+
+Co-authored-by: Jo <joao.guerreiro@grafana.com>
+
+* Update docs/sources/setup-grafana/configure-grafana/_index.md
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>
+
+---------
+
+Co-authored-by: Jo <joao.guerreiro@grafana.com>
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",28.989016203703702
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,355dc66bd9ea0c149ed02bf6fb7d61b1fd637f39,2023-01-30T11:03:39+00:00,renovate[bot],29139614+renovate[bot]@users.noreply.github.com,"Update dependency react-highlight-words to v0.20.0 (#62351)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",28.982476851851853
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,0bfdc42ffe749bc9b9b97018d9e6fc2bd2c4566c,2023-01-30T12:17:01+01:00,Oscar Kilhed,oscar.kilhed@grafana.com,"Grafana DS: Limit dropzone to spreadsheet filetypes (#62329)
+
+* Grafana DS: Limit dropzone to spreadsheet filetypes",28.973194444444445
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,e3bfc67d7b8565658517a16ef52af635cab9b761,2023-01-30T12:17:30+01:00,Oscar Kilhed,oscar.kilhed@grafana.com,FileDropzone: Display max file size (#62334),28.972858796296297
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,1b0f5f0a81070a9a3b29c06840607dd988857cda,2023-01-30T14:47:22+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 9.4.0-beta1 (#62465)
+
+""Release: Updated versions in package to 9.4.0-beta1""",28.910451388888887
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,992e5d72ffb9b62be3bda369580b8604a929c78e,2023-01-30T15:46:25+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Docs: Update wording / text and copy (#62490)
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>
+Co-authored-by: Gilles De Mey <gilles.de.mey@gmail.com>",28.78611111111111
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,04dd4e7f7c7877c7486e90f2a8d746aa8a825867,2023-01-30T17:01:37+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Allow pausing alerts from provisioning (#62492)
+
+Alerting: Allow pausing alerts from provisioning (#62263)
+
+* Allow pausing alerts from provisioning
+
+* Update swagger
+
+* Add IsPaused to provision export endpoints
+
+* Add pause field in sample.yml
+
+* Add exception for reset state in first loop iteration of scheduler if rule is paused
+
+* Update provision definition and swagger docs
+
+* Fix provisioning export tests
+
+* Suggestion: Simplify if condition
+
+* Add more context to a comment
+
+(cherry picked from commit 7a465f42a699e9a01271dbb790e09bd697e048f8)
+
+Co-authored-by: Alex Moreno <alexander.moreno@grafana.com>",28.775555555555556
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,26f7b8ee658d6231beae7aec11331ed138e48edf,2023-01-30T11:16:47-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Add Rule UID and Clone button to the rule details page (#62487)
+
+Co-authored-by: Konrad Lalik <konrad.lalik@grafana.com>",28.76502314814815
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,6e861b19fa135c665de78053e7b8d2d09d47efa5,2023-01-30T17:21:27+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: allow to pause existing rules (#62491)
+
+Co-authored-by: gillesdemey <gilles.de.mey@gmail.com>
+Co-authored-by: Virginia Cepeda <virginia.cepeda@grafana.com>",28.761782407407406
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,34524d6dfa4c1c85015d397a29850c957c2166b4,2023-01-30T17:55:06+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Azure Monitor: Enable multiple resource queries (#62502)
+
+Azure Monitor: Enable multiple resource queries (#62467)
+
+(cherry picked from commit 6d230d95ebadd3516e3cac0787c132baa5742fc6)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",28.73841435185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,48bd8ebe927a13bf327ef468771d53d2db70f12b,2023-01-30T17:01:53+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Consider y coord when determining bottom collision (#62506)
+
+Consider y coord when determining bottom collision (#62403)
+
+(cherry picked from commit b6f477ae03b90c788df96aeaea11c678a5a099ce)
+
+Co-authored-by: Kristina <kristina.durivage@grafana.com>",28.733703703703704
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,f39c46a1b525cf2d814337fea3d7d7e970522725,2023-01-30T15:34:40-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Configurable externalLabels for Loki state history (#62517)
+
+Alerting: Configurable externalLabels for Loki state history (#62404)
+
+* Add config option for external labels
+
+* Remove redundant nilcheck
+
+(cherry picked from commit b4682fe3cbb37bf7efdaa3fe6645544782f36237)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",28.544270833333332
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,b9e989cbf2e913fb4c819ee6a48be28d17e0e419,2023-01-30T13:35:54-08:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Geomap: Maintain consistent control styling (#62522)
+
+Geomap: Maintain consistent control styling (#62518)
+
+Co-authored-by: nmarrs <nathanielmarrs@gmail.com>
+(cherry picked from commit bf2cf76cad3cb47759825dd1d0767d7f4ef78649)
+
+Co-authored-by: Drew Slobodnjak <60050885+drew08t@users.noreply.github.com>",28.54341435185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,589284778a37bf156bd9ff0c3d4f92c616eb4030,2023-01-30T13:59:51-08:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Canvas: Connections positioning ux improvements (#62525)
+
+Canvas: Connections positioning ux improvements (#62516)
+
+(cherry picked from commit a92c081a3314b116ca38b816076310fe5bda5941)
+
+Co-authored-by: Adela Almasan <88068998+adela-almasan@users.noreply.github.com>",28.526782407407406
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3d65500a4f6c3a6e3ae5a9f951702e9e2cbfa5a5,2023-01-30T17:01:53-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Allow separate read and write path URLs for Loki state history (#62528)
+
+Alerting: Allow separate read and write path URLs for Loki state history (#62268)
+
+Extract config parsing and add tests
+
+(cherry picked from commit e7ace4ed6293f54fa17f61b1d1117f5128dc57e8)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",28.483703703703704
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,acf1b1285be6052d52c5ffaf4909575da92a65f6,2023-01-31T04:44:52+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,[v9.4.x] Canvas: Update connection info on element rename (#62536),28.245520833333334
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,c567e690ad60a8d4a0008b797955515c90f5cd3e,2023-01-31T08:56:14+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Clarify PagerDuty integrationKey format (#62513)
+
+Alerting: Clarify PagerDuty integrationKey format (#62463)
+
+**What is this feature?**
+
+Simply a documentation update.
+
+**Why do we need this feature?**
+
+Clarify the doc, so people don't waste time integrating the wrong key,
+e.g. #8979, #9036, https://community.librenms.org/t/19013
+
+**Who is this feature for?**
+
+Developers doing a PagerDuty integration.
+
+(cherry picked from commit a7c4872bcdfb11d62732bcdd663aece33f3eac1a)
+
+Co-authored-by: Andre Miras <AndreMiras@users.noreply.github.com>",28.070960648148148
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,8eb9971797a193d3d4fbb6f26381a9d78a70dd4f,2023-01-31T09:56:45+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Azure Monitor: Docs update for multiple resources (#62543)
+
+Azure Monitor: Docs update for multiple resources (#62454)
+
+(cherry picked from commit d3897b612faa004f6ded2740106abb5d415ff069)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",28.07060185185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,ecfd92ed30410d2407bcbb1e6657fa58c61567aa,2023-01-31T09:36:37+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Navigation: Sign in button now works correctly when served under a sub path (#62548)
+
+Navigation: Sign in button now works correctly when served under a sub path (#62504)
+
+make sure getUrlForPartial always includes the basePath + unit tests
+
+(cherry picked from commit fd2641a542e6ae563acf0de7be14e7bf6e805784)
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",28.042916666666667
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,b8c6ff611d6e3c54942499a20ecb9a5e815c91b4,2023-01-31T10:55:56+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Plugins: Update migration guide for 9.4/forwarded headers (#62549)
+
+Plugins: Update migration guide for 9.4/forwarded headers (#62505)
+
+Update plugin migration guide in regards to v9.4 and forwarding
+of headers in grafana-plugin-sdk-go.
+
+(cherry picked from commit 6c02c7079ff3088fe28b9830cb5bf4577c1eb96b)
+
+Co-authored-by: Marcus Efraimsson <marcus.efraimsson@gmail.com>",28.029502314814813
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,0e6d038934a6e7635f2d1659d65e2a15925ccbad,2023-01-31T12:07:54+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 9.4.0 (#62554)
+
+""Release: Updated versions in package to 9.4.0""",28.02119212962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,f9ec04bbb7255c35353baa358c25a527a548982a,2023-01-31T12:39:56+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] PanelChrome: Styling issues  (#62550)
+
+PanelChrome: Styling issues  (#62466)
+
+* all panel icons are 16x16 in size; allow ToolbarButton to have its icon size set from outside;
+
+* use TitleItem for streaming too, so that the style of focus-visible is the same
+
+* allow menu icon to be visible when panel is focused
+
+* remove some styling of title icons in panel header
+
+* panel alert notices are too big
+
+* PanelHeaderNotice: Fix styling issue with background and hover when
+feature toggle is not enable
+
+---------
+
+Co-authored-by: Alexandra Vargas <alexa1866@gmail.com>
+(cherry picked from commit d48a8fd227b3e94aa24bf1db10a63caefab57651)
+
+Co-authored-by: Polina Boneva <13227501+polibb@users.noreply.github.com>",27.99894675925926
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,20731672ed4a3643da0d5c3e4a3d12afafff5f58,2023-01-31T13:00:57+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Chore: Update latest.json to 9.4.0-beta1 (#62560)
+
+Chore: Update latest.json to 9.4.0-beta1 (#62556)
+
+Chore: update latest.json to 9.4.0-beta1
+(cherry picked from commit ef7716d6b38c7f9960445ebbb3482dada0d80e3b)
+
+Co-authored-by: Dimitris Sotirakis <dimitrios.sotirakis@grafana.com>",27.98435185185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,cc5b3c11c4ac1fd922b5d87e2eae53a6f56584dd,2023-01-31T12:25:11+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Login: Fix panic when UpsertUser is called without ReqContext (#62555)
+
+Login: Fix panic when UpsertUser is called without ReqContext (#62539)
+
+(cherry picked from commit b1151dd118f2a1c305a6f757661e42e59cf145c1)
+
+Co-authored-by: Emil Tullstedt <emil.tullstedt@grafana.com>",27.96752314814815
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,2ad87ce21375e1b671b484f001aada4f5015055f,2023-01-31T13:29:23+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Plugins: Fix circular reference in customOptions leading to MarshalJSON errors (#62565)
+
+Plugins: Fix circular reference in customOptions leading to MarshalJSON errors (#62328)
+
+* Plugins: test ds.JsonData.MarshalJSON()
+
+* CustomOptions: copy to avoid cyclic marshal
+
+(cherry picked from commit c41f97029eed9b84f4c45b38cb7240177b57fd63)
+
+Co-authored-by: Yasir Ekinci <ekinci.yasir@gmail.com>",27.922939814814814
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,76f3ed3c3f8271cabb9aeeced242c7b76c9002b4,2023-01-31T13:11:18+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] AzureMonitor: Fix dimension migration (#62579)
+
+AzureMonitor: Fix dimension migration (#62485)
+
+Remove unneeded properties post migration
+
+(cherry picked from commit f77853f91ef8406bf54c8f3ea7337485a6013a4f)
+
+Co-authored-by: Andreas Christou <andreas.christou@grafana.com>",27.89383101851852
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a7b9dcdce84ec8c97797c68511dac0d4443bfad5,2023-01-31T13:13:34+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Navigation: add event tracking for navigation elements (#62583)
+
+Navigation: add event tracking for navigation elements (#62563)
+
+add user tracking for navigation elements
+
+(cherry picked from commit 77a186879dcec927eea1c7a70be6dbe32f097033)
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",27.892256944444444
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,953d9db30d2d99a6e1f5e56be3bffdf7f13121fc,2023-01-31T13:29:59+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Azure Monitor: Fix selection when using a search term (#62572)
+
+Azure Monitor: Fix selection when using a search term (#62562)
+
+(cherry picked from commit a0c3dcb8c6a0e32973c082e673ef9b4255bd8307)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",27.88085648148148
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,15ec06b59371aa6a40692718850c3260b89c1b13,2023-01-31T14:41:21+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Azure Monitor: Return query error for metrics (#62577)
+
+Azure Monitor: Return query error for metrics (#62570)
+
+(cherry picked from commit 13f8ea2656018b93c2cbe7c76ed4f42ea2e06593)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",27.872962962962962
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,f9ca726290498e75d01d42c09ad3fde77ef8e7b6,2023-01-31T14:01:08+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Navigation: add event tracking for dashboard save as events (#62588)
+
+Navigation: add event tracking for dashboard save as events (#62568)
+
+* add event tracking for dashboard save as events
+
+* emit a grafana_dashboard_copied event instead
+
+(cherry picked from commit 029253d5f6f1761f1a9d9e742c0c750ebc3d7392)
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",27.859224537037036
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3683b7a5ffcb2555289ecd66f1c5d426fc70ac7a,2023-01-31T14:41:06+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Validate that tags are 100 characters or less (#62593)
+
+Co-authored-by: Gilles De Mey <gilles.de.mey@gmail.com>
+Co-authored-by: George Robinson <george.robinson@grafana.com>",27.831469907407406
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,9727346e6351275e572fa3699e811fcd7afd7957,2023-01-31T16:29:34+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] CI: Add `artifacts publish` build command (#62503)
+
+CI: Add `artifacts publish` build command (#62445)
+
+* CI: Add `artifacts publish` build command
+
+* Lint release.star
+
+(cherry picked from commit f23be415c5276a4d328bc70b3d2c0b8bd802839f)
+
+Co-authored-by: Horst Gutmann <horst.gutmann@grafana.com>",27.7978125
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,6749e8667d38ef3c97227776ddfb5a2a17439830,2023-01-31T16:31:45+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] TopNav: Fix right padding on signin link (#62606)
+
+TopNav: Fix right padding on signin link (#62537)
+
+* TopNav: Fix right padding on signin link
+
+* revert yarn lock
+
+* Update package.json
+
+* Update
+
+(cherry picked from commit c0f0c3d485874edfe679803ce56f7d16cff3d386)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",27.75462962962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,90a4c84bc23107a8159483b0d2550e5e000e8857,2023-01-31T17:26:44+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] MySQL: Quote identifiers that include special characters (#62618)
+
+MySQL: Quote identifiers that include special characters (#61135)
+
+* SQL: toRawSQL required and escape table
+
+* Fix autocomplete for MySQL
+
+* Change the way we escape for builder
+
+* Rework escape ident to be smart instead
+
+* Fix A11y for alias
+
+* Add first e2e test
+
+* Add test for code editor
+
+* Add doc
+
+* Review comments
+
+* Move functions to sqlUtil
+
+(cherry picked from commit 62c30dea4d2b35a85ae90220893a9c2743a441ca)
+
+Co-authored-by: Zoltán Bedi <zoltan.bedi@gmail.com>",27.71644675925926
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,41b03931406a4c4550e1db9439c1fbb14f4a4f57,2023-01-31T09:48:18-08:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Transformations: Selectively apply transformation to queries (#62615)
+
+Transformations: Selectively apply transformation to queries (#61735)
+
+(cherry picked from commit bba80b6c7a7bc9fe32a0a4eb248c3fb4310ad36c)
+
+Co-authored-by: Ryan McKinley <ryantxu@gmail.com>",27.701469907407407
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3023a43d4f16f0f3bb42874bd1862cd067b02427,2023-01-31T18:02:42+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] TestData: Remove references to TestData ""DB"" (#62613)
+
+TestData: Remove references to TestData ""DB"" (#62603)
+
+* remove refs testdatadb
+
+* fix trailing semi-colon
+
+* remove pluginName completely
+
+(cherry picked from commit e7bfc4e749f7e626ed77d9bc1e46e15e475437fc)
+
+Co-authored-by: Will Browne <wbrowne@users.noreply.github.com>",27.691469907407406
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,bd9707e8f3aa088fa48a79f67a51a0aa0552f4e9,2023-01-31T18:03:03+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Use requires_buildifier build tag to avoid needing buildifier locally (#62621)
+
+Use requires_buildifier build tag to avoid needing buildifier locally (#62597)
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+(cherry picked from commit fdb1a47ca22e887fcf08342afcad6ca33f4c3760)
+
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>",27.69122685185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,4bdfc2d92637fe98c728907e4559b58f2e726a80,2023-01-31T18:10:13+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Expressions: Fixes the issue showing expressions editor (#62622)
+
+Expressions: Fixes the issue showing expressions editor (#62510)
+
+* Use suggested value for uid
+
+* update the snapshot
+
+* use __expr__
+
+* replace all -100 with __expr__
+
+* update snapshot
+
+* more changes
+
+* revert redundant change
+
+* Use expr.DatasourceUID where it's possible
+
+* generate files
+
+(cherry picked from commit 91221bc4362e50b9cca6dbff3a8342b2991900d2)
+
+Co-authored-by: ismail simsek <ismailsimsek09@gmail.com>",27.68625
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,9a8983e8e95d449b563c422d8eb3a3c5cc75460d,2023-01-31T21:51:52+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Fix handling of special floating-point cases when writing observed values to annotations (#62637)
+
+Alerting: Fix handling of special floating-point cases when writing observed values to annotations (#61074)
+
+* Fix json serialization of state values
+
+* Simplify two of the tests
+
+* Fix linter complaint
+
+* Don't return error if we fail to look up dashboard, just log it and move on
+
+* Address linter complaint
+
+(cherry picked from commit 03f3fbec0d35968beb694af4ebe3fc5591c0455a)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",27.53232638888889
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,c1566219816af411afb7fc3d17c00d49ae356bd5,2023-01-31T15:31:28-08:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Transforms: Fix schema definition (#62623)
+
+Transforms: Fix schema definition (#62619)
+
+(cherry picked from commit 4186871390fda5e73dc03e6544bb3762a0cee994)
+
+Co-authored-by: Ryan McKinley <ryantxu@gmail.com>",27.463159722222223
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,2bb672a7de0617ac09a849810bc4b0ebc7e9ddce,2023-01-31T15:31:54-08:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Geomap: Ensure options work while in table view (#62635)
+
+Geomap: Ensure options work while in table view (#62632)
+
+(cherry picked from commit cf6952a963ba42cacef2ab246249b619fec61936)
+
+Co-authored-by: Drew Slobodnjak <60050885+drew08t@users.noreply.github.com>",27.462858796296295
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,193b6712462f8bb29d28ef6d9c452acf8fe11f71,2023-02-01T10:25:03+01:00,Andreas Christou,andreas.christou@grafana.com,"[v9.4.x] TemplateVariables: Fix custom variable function support (#62509) (#62573)
+
+TemplateVariables: Fix custom variable function support (#62509)
+
+Validate query values
+
+(cherry picked from commit 3ac97dd39627b2446f36c876f407d6c136ab34ff)
+
+# Conflicts:
+#	public/app/features/query/state/runRequest.ts",27.050949074074072
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,84d2814f7cb6f67c6a3066b58cbe690bfcbcd973,2023-02-01T10:05:53+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] PanelChrome: Adds display mode to support transparent option (#62654)
+
+PanelChrome: Adds display mode to support transparent option (#62647)
+
+* PanelChrome: Add transparent displayMode
+
+* Remove comment
+
+* Fixes to storybook and new example
+
+* no background on TitleItem
+
+---------
+
+Co-authored-by: polinaboneva <polina.boneva@grafana.com>
+(cherry picked from commit 533c8e4b7a547b683d2daee29900d218c4b8805c)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",27.02259259259259
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,89f9081658d372c156065d10a2ffac28a1e8cd1c,2023-02-01T12:26:17+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] CI: Replace `grafana/grafana-oss` with `grafana-oss` when publishing to dockerhub repo (#62653)
+
+CI: Replace `grafana/grafana-oss` with `grafana-oss` when publishing to dockerhub repo (#62651)
+
+Replace grafana/grafana-oss with grafana-oss
+
+(cherry picked from commit 1a5b54cff3647f51dc5a55b12143dd485d4095a7)
+
+Co-authored-by: Dimitris Sotirakis <dimitrios.sotirakis@grafana.com>",27.008425925925927
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,68fb4da24acd94e62bad945ca198e0677605411f,2023-02-01T11:30:55+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Show 'start typing' message in evaluation group folder in case of empty options. (#62665)
+
+Alerting: Show 'start typing' message in evaluation group folder in case of empty options. (#62611)
+
+Show start typing message in evaluation group folder in case of empty options
+
+(cherry picked from commit c0865c863d55286e7c2d6ae25974254a240ccc5b)
+
+Co-authored-by: Sonia Aguilar <33540275+soniaAguilarPeiron@users.noreply.github.com>",26.963541666666668
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,40354c6b4075663cff88c2efb78ff13e232515ae,2023-02-01T12:33:24+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Allow alert rule pausing from API (#62675)
+
+Alerting: Allow alert rule pausing from API (#62326)
+
+* Add is_paused attr to the POST alert rule group endpoint
+
+* Add is_paused to alerting API POST alert rule group
+
+* Fixed tests
+
+* Add is_paused to alerting gettable endpoints
+
+* Fix integration tests
+
+* Alerting: allow to pause existing rules (#62401)
+
+* Display Pause Rule switch in Editing Rule form
+
+* add isPaused property to form interface and dto
+
+* map isPaused prop with is_paused value from DTO
+
+Also update test snapshots
+
+* Append '(Paused)' text on alert list state column when appropriate
+
+* Change Switch styles according to discussion with UX
+
+Also adding a tooltip with info what this means
+
+* Adjust styles
+
+* Fix alignment and isPaused type definition
+
+Co-authored-by: gillesdemey <gilles.de.mey@gmail.com>
+
+* Fix test
+
+* Fix test
+
+* Fix RuleList test
+
+---------
+
+Co-authored-by: gillesdemey <gilles.de.mey@gmail.com>
+
+* wip
+
+* Fix tests and add comments to clarify AlertRuleWithOptionals
+
+* Fix one more test
+
+* Fix tests
+
+* Fix typo in comment
+
+* Fix alert rule(s) cannot be paused via API
+
+* Add integration tests for alerting api pausing flow
+
+* Remove duplicated integration test
+
+---------
+
+Co-authored-by: Virginia Cepeda <virginia.cepeda@grafana.com>
+Co-authored-by: gillesdemey <gilles.de.mey@gmail.com>
+Co-authored-by: George Robinson <george.robinson@grafana.com>
+(cherry picked from commit 53945afedf18945fe9f7d13c15eac00d693ef880)
+
+Co-authored-by: Alex Moreno <alexander.moreno@grafana.com>",26.92015046296296
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,71a18da270647f886f6ba3e18e6c3c8e3deb2094,2023-02-01T13:12:55+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Command palette: section styling tweaks (#62682)
+
+Command palette: section styling tweaks (#62671)
+
+section styling tweaks
+
+(cherry picked from commit 8d7e7693f260e17550130ac442429eaa820b2d28)
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",26.892708333333335
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,cdec4eb6ab95c678755f4bbe55ac79acbffcd09f,2023-02-01T14:57:12+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Add Copy action to templates table (#62683)
+
+Alerting: Add Copy action to templates table (#62135)
+
+* Add duplicate action to templates table
+
+Co-authored-by: Virginia Cepeda <virginia.cepeda@grafana.com>
+
+* Move duplicate icon, and remove provenance when rendering TemplateForm
+
+* Create generic generateCopiedName method to avoid duplication and use it also in the CloneRuleEditor
+
+* Use 'Copy' for duplicating templates and cloning alert rules
+
+* Improve updating the template content with new unique define values when copying
+
+Co-authored-by: Konrad Lalik <konradlalik@gmail.com>
+
+* Fix typo
+
+---------
+
+Co-authored-by: Virginia Cepeda <virginia.cepeda@grafana.com>
+Co-authored-by: Konrad Lalik <konradlalik@gmail.com>
+(cherry picked from commit 151e57df707052119772b1c6e6180ba8629733ed)
+
+Co-authored-by: Sonia Aguilar <33540275+soniaAguilarPeiron@users.noreply.github.com>",26.86195601851852
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,2e251a2b2032875d40ae1a08ca95596a5be67338,2023-02-01T15:05:51+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Add support for ""normal"" as state filter in rule search (#62679)
+
+Co-authored-by: Gilles De Mey <gilles.de.mey@gmail.com>",26.855949074074076
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,70e4499f83798d7e5bfd41be91bc8898c19c3c5f,2023-02-01T14:52:46+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Loki: Fix label filter expression treating int as string (#62687)
+
+Loki: Fix label filter expression treating int as string (#62496)
+
+* fix: label filter expression treats int as string
+
+* refactor: labelFilterRenderer
+
+* test: add tests to labelFilterRenderer
+
+* refactor: use backticks based on the operator not the value
+
+* test: labelFilterRenderer uses the correct value type based on the operator
+
+* test: use it.every rather than having multiple repetitive tests
+
+(cherry picked from commit 42f8f5a9ea906eddb29ab15365b73ef22a224e50)
+
+Co-authored-by: Gareth Dawson <gareth.dawson@grafana.com>",26.823368055555555
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,c8cf18d8f6d16082abdee1ef84ca438b561a6f17,2023-02-01T15:10:51+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: hide ""silence"" button for external AM setups (#62691)
+
+Co-authored-by: Gilles De Mey <gilles.de.mey@gmail.com>",26.810810185185186
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,5d5e7f97e908c99fb64c0f16f8b8b6c288579ef9,2023-02-01T15:14:49+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Navigation: wrap dashboard settings actions in `ToolbarButtonRow` for responsiveness (#62692)
+
+Navigation: wrap dashboard settings actions in `ToolbarButtonRow` for responsiveness (#62475)
+
+wrap dashboard actions in toolbarbuttonrow for responsiveness
+
+(cherry picked from commit 0a780d978e8f3c15d1000de27956c5af0108d2b5)
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",26.808055555555555
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,795c86b045cdf8ce5fa2cabbd20743e21b6f45e4,2023-02-01T16:15:58+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Tempo: Remove tempoApmTable feature flag (#62702)
+
+Tempo: Remove tempoApmTable feature flag (#62499)
+
+Remove tempoApmTable feature flag
+
+(cherry picked from commit 5e1506dea0e7edff8d45ef1f66990aa470b8b8ec)
+
+Co-authored-by: Andre Pereira <adrapereira@gmail.com>",26.76559027777778
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,42b9c898bf5fcb62d4f3d1c1639b1faede6a237a,2023-02-01T16:44:11+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,[v9.4.x] Search: Fix alignment of checkbox in folder view (#62708),26.74599537037037
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,5bb58c5172d5a516691c1b64b1cc02a4adee1ae7,2023-02-01T16:59:26+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting docs: adds declare incident (#62710)
+
+Alerting docs: adds declare incident (#62681)
+
+* Alerting docs: adds declare incident
+
+* adds alert detail view option
+
+(cherry picked from commit 9d07b77532dc0560787d752e147328d42c8cc2b3)
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>",26.735405092592593
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,654af9a48d119688f7955be80dd8afd21cadf6ee,2023-02-01T17:02:20+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Explore: Fix graph not updating when changing config (#62706)
+
+Explore: Fix graph not updating when changing config (#62473)
+
+* Explore: Fix graph not updating when changing config
+
+* move useStructureRev to a seprate hook and add specific tests
+
+(cherry picked from commit 6b6b7332299732d364b0fadce0f176698178f5f0)
+
+Co-authored-by: Giordano Ricci <me@giordanoricci.com>",26.733391203703704
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,045c2d4e59b1e2a1f16be3034fd24adff439d473,2023-02-01T12:05:00-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] docs: fix broken elasticsearch metrics play link (#62719)
+
+docs: fix broken elasticsearch metrics play link (#62715)
+
+fix broken elastic search play link
+
+(cherry picked from commit 1225e8d6d8a2076f2141065c0ad20b55241d6f25)
+
+Co-authored-by: Isabel <76437239+imatwawana@users.noreply.github.com>",26.689872685185186
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,b485d1cde9fdf155a16748f9502be0a209c8f424,2023-02-01T13:52:52-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Cloudwatch: Fix log group variable interpolation (#62713)
+
+Cloudwatch: Fix log group variable interpolation (#62640)
+
+(cherry picked from commit 1f09508d8c0ea7ef4725aab2089417dc6e883f4e)
+
+Co-authored-by: Isabella Siu <Isabella.siu@grafana.com>",26.656631944444445
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,29cc5f9c624a327ec06b6204a46312f16802efac,2023-02-02T08:22:56+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Elasticsearch: Fix consistent label order in alerting (#62743)
+
+Elasticsearch: Fix consistent label order in alerting (#62497)
+
+elasticsearch: backend: sort label-values
+(cherry picked from commit d9fd80737528f304ecaf162de4b48ce1dd372076)
+
+Co-authored-by: Gábor Farkas <gabor.farkas@gmail.com>",26.09408564814815
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,53a1e5b7e6d475e6a43f1659e28128082c1ba3ce,2023-02-02T09:01:07+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Fix/60084/save and test (#62750)
+
+Fix: Save and test error message does not persist across datasource instance settings anymore
+
+(cherry picked from commit ce50168b70b4444abb5a1aa36d695dc1b7c339b9)
+
+Co-authored-by: Timur Olzhabayev <timur.olzhabayev@grafana.com>",26.067569444444445
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,30081ca04b6f8062475a6976b16c087dcca0e069,2023-02-02T10:26:55+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Nested Folder: Fix for SQLite not to overwrite the parent on restarts (#62756)
+
+Nested Folder: Fix for SQLite not to overwrite the parent on restarts (#62709)
+
+Nested Folder: Fix for SQLite not to overwrite the arent on restarts
+
+(cherry picked from commit adaf82ffb7ec93fd04404cdb06ed26845549cceb)
+
+Co-authored-by: Sofia Papagiannaki <1632407+papagian@users.noreply.github.com>",26.007986111111112
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,0413fea8d24d7155d39004ceb4623f9d2ca6035f,2023-02-02T12:27:09+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Heatmap: Support heatmap rows with non-timeseries X axis (#62733)
+
+Heatmap: Support heatmap rows with non-timeseries X axis (#60929)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>
+(cherry picked from commit 4a8763d7b666ba2856bd29220e6887f3e6047f91)
+
+Co-authored-by: Ryan McKinley <ryantxu@gmail.com>",25.966157407407408
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a03069fb089bdf6d5a01f9350f5bb90013aafd29,2023-02-02T13:42:44+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Set YAML as default value for exporting alert rules (#62770)
+
+Alerting: Set YAML as default value for exporting alert rules (#62760)
+
+Set YAML as default value for exporting alert rules
+
+(cherry picked from commit 517e6146613fe91fb8b4f8ae8f572aaa4179ce81)
+
+Co-authored-by: Sonia Aguilar <33540275+soniaAguilarPeiron@users.noreply.github.com>",25.913668981481482
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,5b305cb696c4afb6183f6d19d03edaca587eb337,2023-02-02T15:14:41+01:00,Horst Gutmann,horst.gutmann@grafana.com,"[9.4.x] CI: Allow other modules to register build sub-commands (PR #62741) (#62774)
+
+CI: Allow other modules to register build sub-commands (#62741)
+
+* Allow other modules to register build sub-commands
+
+* CI: Fix retries on artifacts-page clone
+
+* Fix linting errors
+
+* Fix golint issues
+
+* Update to grabpl 3.0.21
+
+(cherry picked from commit 312ea59e6da16c28226042b7cdebf4e660880ed7)",25.849814814814813
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,022abcb47d3624191f77905eb23140d4ce20de39,2023-02-02T14:40:51+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] SQLStore: Fix folder migration for MySQL < 5.7 (#62786)
+
+SQLStore: Fix folder migration for MySQL < 5.7 (#62521)
+
+* Nested folders: Do not skip integration tests
+
+* SQLStore: Fix folder migration
+
+It reduces the length of the title column to be equal with the respective
+dashboard column.
+
+(cherry picked from commit 4eaff63edafde2761a25533f72b06b204d6623d9)
+
+Co-authored-by: Sofia Papagiannaki <1632407+papagian@users.noreply.github.com>",25.83164351851852
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,190c3aad58f53a756e12e99ce82c99e1b9f7e01f,2023-02-02T15:02:06+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Plugins: Prefer to use the data source UID when querying (#62789)
+
+Plugins: Prefer to use the data source UID when querying (#62776)
+
+(cherry picked from commit 68862ce3e83b83e74f9aa2ed639e478b97ef078e)
+
+Co-authored-by: Andres Martinez Gotor <andres.martinez@grafana.com>",25.816886574074076
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,bfe6b520d7647cc8f891e119b7b594f3906d40b6,2023-02-02T16:52:24+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Tempo: Update docs for trace to logs functionality (#62793)
+
+Tempo: Update docs for trace to logs functionality (#62338)
+
+(cherry picked from commit 1aae808723a0f886642d5f2fba8be7486a904e1c)
+
+Co-authored-by: Andrej Ocenas <mr.ocenas@gmail.com>",25.781956018518517
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d8f757cb8ca72962dbc984ac898ea691983d0255,2023-02-02T15:53:17+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Tempo: Inject status and status.code for tags autocomplete (#62800)
+
+Tempo: Inject status and status.code for tags autocomplete (#62794)
+
+* Tempo: Inject status for v2 and status.code for v1 in the tags list for autocomplete
+
+* Small comment fix
+
+(cherry picked from commit b78af0b0f03bafcb66daecf8ac4fdd2c1a6371fa)
+
+Co-authored-by: Andre Pereira <adrapereira@gmail.com>",25.781342592592594
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,c7a182e9d552db9a903a765a3462db43c90f13e5,2023-02-02T17:02:43+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Tempo: Trace to logs update image (#62804)
+
+Tempo: Trace to logs update image (#62796)
+
+(cherry picked from commit 99a16d27c19b3fef36937e4e2a9eda694b97d8f3)
+
+Co-authored-by: Andrej Ocenas <mr.ocenas@gmail.com>",25.774791666666665
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,2a223cbea2d01a03644cc2aa4e30dcf7e9fdd416,2023-02-02T16:03:25+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Tempo: TraceQL syntax highlighting improvements (#62803)
+
+Tempo: TraceQL syntax highlighting improvements (#62349)
+
+* Better syntax highlighting for durations, floats and right-hand-side tags
+
+* Remove hex rule in TraceQL syntax highlighting
+
+(cherry picked from commit 60f2433a0feb1584258f8060f6d788ed5b6100b4)
+
+Co-authored-by: Andre Pereira <adrapereira@gmail.com>",25.774305555555557
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,32e3cd7cbcc871b956001caa458981b4a3cb55fb,2023-02-02T10:14:47-06:00,Alexander Weaver,weaver.alex.d@gmail.com,"Alerting: Refactor away a layer of indirection around the goroutine in Loki state history (#62802)
+
+Alerting: Refactor away a layer of indirection around the goroutine in Loki state history (#62644)
+
+Inline recordStreamsAsync in loki backend",25.766412037037036
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,363171b182421b7bb44121a2b89ed336df037368,2023-02-02T17:29:21+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Pass yaml as a query param in export request (#62806)
+
+Alerting: Pass yaml as a query param in export request (#62751)
+
+* Set YAML as default value for exporting alert rules
+
+* use YAML format for rule list export
+
+Co-authored-by: Sonia Aguilar <33540275+soniaAguilarPeiron@users.noreply.github.com>
+
+* lint
+
+* Add new format query param to swagger+docs
+
+* Fix broken test
+
+---------
+
+Co-authored-by: Gilles De Mey <gilles.de.mey@gmail.com>
+Co-authored-by: Matt Jacobson <matthew.jacobson@grafana.com>
+(cherry picked from commit 753c84f825bf47211440ab4fe270bf50b2db2c58)
+
+Co-authored-by: Sonia Aguilar <33540275+soniaAguilarPeiron@users.noreply.github.com>",25.756296296296295
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,d31f932800fb7362ec76fb94f6bee01a9b0135c2,2023-02-02T18:05:38+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Auth: Rotate token patch (#62782)
+
+Auth: Rotate token patch (#62676)
+
+* Use singleflight.Group
+
+* Align tests
+
+* Cleanup
+
+(cherry picked from commit 7c1d9769ca5f658d2e1b61d9b07f201ea4231142)
+
+Co-authored-by: Misi <mgyongyosi@users.noreply.github.com>",25.731099537037036
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,324964b86b9d929b00a6e95d0406afb9d6cc2d59,2023-02-02T11:15:51-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Usability adjustments to Loki representation of state history values (#62811)
+
+Alerting: Usability adjustments to Loki representation of state history values (#62643)
+
+* Extract label merge, add test file
+
+* Extract error/NoData to first class fields, remove a layer from values
+
+* Include dashUID and panelID as line-level fields
+
+* Drop unnecessary object receiver
+
+* Add tests for stream building
+
+* Drop NoData field from log lines
+
+(cherry picked from commit 9fa28c11c5895dfc6bcb2feeaba0fecca9ef33c1)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",25.72400462962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,2525b30803207845cb6189a56b40e888b2923dcc,2023-02-02T12:32:30-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Add endpoint for querying state history (#62813)
+
+Alerting: Add endpoint for querying state history (#62166)
+
+* Define endpoint and generate
+
+* Wire up and register endpoint
+
+* Cleanup, define authorization
+
+* Forgot the leading slash
+
+* Wire up query and SignedInUser
+
+* Wire up timerange query params
+
+* Add todo for label queries
+
+* Drop comment
+
+* Update path to rules subtree
+
+(cherry picked from commit 6ad1cfef38a5ffc20029f979c2a69e2facf5a599)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",25.67077546296296
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,94ec932d297e1d3392f766d22e7ce7f662c7171d,2023-02-02T13:52:26-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Docs: corrects incorrect redirect and fixes link (#62820)
+
+Docs: corrects incorrect redirect and fixes link (#62815)
+
+corrects incorrect redirect and fixes link
+
+(cherry picked from commit 060e0a4d1897ff1cbe495ce1f100d27eae04a2d0)
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>",25.615266203703705
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,385b15bf69f126a19aed2495252224920574d3af,2023-02-02T14:00:09-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Add static label to all state history entries (#62819)
+
+Alerting: Add static label to all state history entries (#62817)
+
+* Add static label to all state history entries
+
+* Separate label and value visually
+
+(cherry picked from commit 647f73ddc5e8a12364c7f495996a05dcf9865dff)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",25.60990740740741
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,b742567ade6a0fe7ff508330019ffd5b3e9840d5,2023-02-02T20:45:21+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Fix template validation in provisioning api (#62825)
+
+Alerting: Fix template validation in provisioning api (#62530)
+
+* Alerting: Fix template validation in provisioning api
+
+Fix issue where provisioning API accepts a malformed template having extra
+text outside of definition block and template name matching definition name.
+
+(cherry picked from commit f9ec16e74ffbf47263feb8cca70d17835f43add7)
+
+Co-authored-by: Matthew Jacobson <matthew.jacobson@grafana.com>",25.578518518518518
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,84da68840060b52faf995ce1dd300a4f0d4673bb,2023-02-02T22:07:06+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Pause dash alerts on migration (#62830)
+
+Alerting: Pause dash alerts on migration (#62798)
+
+* Alerting: Pause dash alerts on migration
+
+(cherry picked from commit f49efa6e27b5a39e31e41e39dc416a0185118486)
+
+Co-authored-by: George Robinson <george.robinson@grafana.com>",25.521747685185186
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,21f204d35a0dc984cfb33884d39a6b4f43931fcd,2023-02-02T16:56:26-06:00,Alexander Weaver,weaver.alex.d@gmail.com,"Alerting: implement loki query for alert state history (#62833)
+
+Alerting: implement loki query for alert state history (#61992)
+
+* Alerting: implement loki query for alert state history
+
+* extract selector building
+
+* add unit tests for selector creation
+
+* backup
+
+* give selectors their own type
+
+* build dataframe
+
+* add some tests
+
+* small changes after manual testing
+
+* use struct client
+
+* golint
+
+* more golint
+
+* Make RuleUID optional for Loki implementation
+
+* Drop initial assumption that we only have one series
+
+* Pare down to three columns, fix timestamp overflows, improve failure cases in loki responses
+
+* Embed structred log lines in the dataframe as objects rather than json strings
+
+* Include state history label filter
+
+* Remove dead code
+
+---------
+
+Co-authored-by: Jean-Philippe Quéméner <JohnnyQQQQ@users.noreply.github.com>",25.487488425925925
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,8fd1547edbf3423f80e427af1c83ac0bfc57c55a,2023-02-02T23:14:16+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Add label query parameters to state history endpoint (#62835)
+
+Alerting: Add label query parameters to state history endpoint (#62831)
+
+* Allow equality-only matching of arbitrary labels via query params
+
+* Pre-initialize map
+
+(cherry picked from commit 9eeea8f5ea63c149d7cc71d2903db8f36ef7cb61)
+
+Co-authored-by: Alexander Weaver <weaver.alex.d@gmail.com>",25.475104166666668
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,0c27df8b8cc14f83e968f9160c6416de85e14d06,2023-02-03T07:17:00+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting docs: updates to alert rules docs for 9.4 (#62810)
+
+Alerting docs: updates to alert rules docs for 9.4 (#62744)
+
+* Alerting docs: updates to alert rules docs for 9.4
+
+* Adds updates to oncall contact point and pause alerts
+
+* Adds view read-only query update 9.4
+
+(cherry picked from commit d19803a0f0ef579b13d4ad64b5eed69fb06e9f21)
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>",25.139872685185185
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,86375185402222c6209a241cc38f2d1f76ecc85e,2023-02-03T10:25:14+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Added pageZoomLevel option to image renderer setup documentation (#62842)
+
+Added pageZoomLevel option to image renderer setup documentation (#59472)
+
+* Added pageZoomLevel option to image renderer setup
+
+* Update _index.md
+
+* Update docs/sources/setup-grafana/image-rendering/_index.md
+
+* chore: prettier run in docs
+
+---------
+
+Co-authored-by: Christopher Moyer <35463610+chri2547@users.noreply.github.com>
+(cherry picked from commit 8b017f5aa4fc8f413acb3151cbe11f3f15792093)
+
+Co-authored-by: Gabriel Goller <gabrielgoller123@gmail.com>",25.05082175925926
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,9cf5b4eb9e7e22f7b70599cd3229d9de1a2ac337,2023-02-03T05:34:09-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Tempo: Fix span name being dropped from the query (#62846)
+
+Tempo: Fix span name being dropped from the query (#62257)
+
+(cherry picked from commit c3b476e1dcb310e1d3b425f058264ed5be00d1d8)
+
+Co-authored-by: Hamas Shafiq <hamas.shafiq@grafana.com>",25.002962962962965
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,00555606d569921cfa044ffcaf6745ed3c39e0af,2023-02-03T08:51:47-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Search: Fix not being able to clear sort value (#62869)
+
+Search: Fix not being able to clear sort value (#62557)
+
+* user essentials mob! :trident:
+
+lastFile:public/app/features/search/state/SearchStateManager.ts
+
+* user essentials mob! :trident:
+
+lastFile:public/app/features/search/page/components/ActionRow.tsx
+
+* user essentials mob! :trident:
+
+* remove searchSort state from localStorage when cleared
+
+---------
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>
+Co-authored-by: Joao Silva <joao.silva@grafana.com>
+(cherry picked from commit f8809eef5922531a532790ac354d67c6bf314834)
+
+Co-authored-by: Josh Hunt <joshhunt@users.noreply.github.com>",24.865717592592592
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,028cc7e72b3f26f7f66b5d0fe2cf4bf08ec0e66d,2023-02-03T09:06:18-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Navigation: move Connections plugin to be just after apps (#62871)
+
+Navigation: move Connections plugin to be just after apps (#62801)
+
+move connections plugin to be just after apps
+
+(cherry picked from commit c819e95687000cc08e5c612df9c8b27264650a52)
+
+Co-authored-by: Ashley Harrison <ashley.harrison@grafana.com>",24.855636574074072
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,8c9cb8e83966a9ee6cd446e4c384c7720259be19,2023-02-03T15:30:08+00:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] PanelChrome: Implement hover header (#62875)
+
+PanelChrome: Implement hover header (#61774)
+
+Closes #59078
+
+Co-authored-by: polinaboneva <polina.boneva@grafana.com>
+Co-authored-by: Ivan Ortega <ivanortegaalba@gmail.com>
+Co-authored-by: Alexandra Vargas <alexa1866@gmail.com>
+(cherry picked from commit 40ec4ef5b8a325642777036bbf8166ea95d0d2f4)
+
+Co-authored-by: kay delaney <45561153+kaydelaney@users.noreply.github.com>",24.79741898148148
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,907381ed5c7ae4a75f1d39d22914405e960c60d1,2023-02-03T11:03:24-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] MSSQL: Add support for macro function calls (#62890)
+
+MSSQL: Add support for macro function calls (#62742)
+
+* MSSQL: Add support for macro function calls
+
+* Add tests
+
+(cherry picked from commit 9fc3b360a43e9f0295f7366e9ea635a43521b341)
+
+Co-authored-by: Victor Marin <36818606+mdvictor@users.noreply.github.com>",24.77431712962963
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,efaf4f5e094ccfdc87b42242ed477e12b645b4bd,2023-02-03T12:07:29-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Canvas: Update server element design (#62897)
+
+Canvas: Update server element design (#62832)
+
+(cherry picked from commit 43ce077133a8563224c83ea16b9233503b43784f)
+
+Co-authored-by: Drew Slobodnjak <60050885+drew08t@users.noreply.github.com>",24.729814814814816
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,4f826bc76c239740620e12b230566ee112fb1600,2023-02-03T12:09:51-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Canvas: Improve anchor UX (#62898)
+
+Canvas: Improve anchor UX (#62409)
+
+Co-authored-by: nmarrs <nathanielmarrs@gmail.com>
+(cherry picked from commit bbb572e73f380aca52a59a2745c8689494ceaabb)
+
+Co-authored-by: Drew Slobodnjak <60050885+drew08t@users.noreply.github.com>",24.728171296296296
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,6895e75f700c9f99473174f5712e295559e9d522,2023-02-03T12:47:27-05:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Canvas: Support color themes for arrows (#62896)
+
+Canvas: Support color themes for arrows (#62829)
+
+(cherry picked from commit db953c9a9cbb5ad7b13e571d14d130112c38d09a)
+
+Co-authored-by: Drew Slobodnjak <60050885+drew08t@users.noreply.github.com>",24.702060185185186
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,a6370342b070cb01fb90b717f32c9a00d1d80939,2023-02-03T11:53:22-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Geomap: Sanitize the attribution string (#755)
+
+Geomap: Sanitize the attribution string (#745)
+
+* SAML: Update grafana/saml library (#691)
+
+Co-authored-by: jguer <joao.guerreiro@grafana.com>
+
+* SVG: Add dompurify preprocessor step (#698)
+
+* add sanitized SVG component
+
+* add sanitize
+
+* Fix frontend build
+
+* Remove unnecessary yarn.lock changes
+
+* Fix formatting
+
+* Re-add yarn.lock message as I guess it is needed
+
+---------
+
+Co-authored-by: dsotirakis <dimitrios.sotirakis@grafana.com>
+Co-authored-by: jguer <joao.guerreiro@grafana.com>
+Co-authored-by: nmarrs <nathanielmarrs@gmail.com>
+Co-authored-by: Drew Slobodnjak <60050885+drew08t@users.noreply.github.com>
+(cherry picked from commit 37b4af7ffacfc24d5f24d190356a9ef32d99aa6f)
+
+Co-authored-by: Ryan McKinley <ryantxu@gmail.com>",24.69795138888889
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,8ad6df8266dff527c145253d7c64a1e047392d41,2023-02-03T11:53:22-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] TraceView: Add key and url escaping of json tag values (#761)
+
+TraceView: Add key and url escaping of json tag values (#751)
+
+(cherry picked from commit 8b53b448bc24fbfc4492ce1f4e2b1708218f70b7)
+
+Co-authored-by: Andrej Ocenas <mr.ocenas@gmail.com>",24.69795138888889
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3bf22fcb2146ae49395a36ad3e9b60e62e0adf74,2023-02-06T10:41:47+02:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] SAML: Update library (fix single logout) (#62933)
+
+SAML: Update library (fix single logout) (#62880)
+
+* SAML: update library (fix single logout)
+
+* Run go mod tidy
+
+(cherry picked from commit 5205cfb11c8a09e4a03d61d4d51c3c388429cdaa)
+
+Co-authored-by: Alexander Zobnin <alexanderzobnin@gmail.com>
+(cherry picked from commit 8e9fb8cf930711b6078c1965b2b06489279a4368)",22.08099537037037
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,afb449e8a1572bde061f15c7fb52412d4a376c17,2023-02-21T07:23:25+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Fix MSSQL queries failing because of bad interpolation (#63172)
+
+Fix MSSQL queries failing because of bad interpolation (#63167)
+
+fix failing mssql queries
+
+(cherry picked from commit 62b078e4e4cad882e9e9a01f36cc8df4aa084eab)
+
+Co-authored-by: Victor Marin <36818606+mdvictor@users.noreply.github.com>",7.177083333333333
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,955b9317568675d4c1621ce9dbb440e91c5dca0a,2023-02-21T07:56:25+01:00,Horst Gutmann,horst.gutmann@grafana.com,"[9.4.x] CI: Running Redis integration tests without grabpl (#63028) (#63074)
+
+This restores some changes from
+https://github.com/grafana/grafana/pull/61920 that were accidentally
+deleted.
+
+(cherry picked from commit 2804acd264ff247673f71854d25d79656b7b0775)",7.154166666666667
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,1ffc7860e6c34a53fb350a9ed0e6c966799a2956,2023-02-23T07:43:27+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] MSSQL Datasource: Revert functions within macros change (#63598)
+
+MSSQL Datasource: Revert functions within macros change (#63592)
+
+* Revert functions within macros change
+* Add tests for function and macro for mssql
+* Remove macro support tests
+
+---------
+
+Co-authored-by: Oscar Kilhed <oscar.kilhed@grafana.com>
+(cherry picked from commit 356e2e1933f5e717a0e8f7688ba1b44f7bf9fa01)
+
+Co-authored-by: Kyle Cunningham <codeincarnate@users.noreply.github.com>",5.163171296296296
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,3d99babd0f62f1a5441c7d1090ea24cdd49e5abc,2023-02-23T07:56:57+01:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"Release: Bump version to 9.4.1 (#773)
+
+""Release: Updated versions in package to 9.4.1""",5.153796296296297
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,fcd658359cbda994eec322d9e3483fb41f7b3bbd,2023-02-23T13:57:45-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] InfluxDB datasource: Query variable breaks trying to interpolate `__interval` (#63685)
+
+InfluxDB ds: Query variable breaks trying to interpolate `__interval` (#63682)
+
+(cherry picked from commit ca4cd8550479cb3e07f3bf1a4cbf2fba64af07e7)
+
+Co-authored-by: Ivan Ortega Alba <ivanortegaalba@gmail.com>
+(cherry picked from commit 30f3f63bd6bd1c430b29eb9a2b727f66eae3f588)",4.611574074074074
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,27a6d700f879ebe33d5217aae4d263cd7e87e32d,2023-02-23T13:58:53-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] InfluxDB: Fix getting empty response when querying fields with retention policy (#63671)
+
+InfluxDB: Fix getting empty response when querying fields with retention policy (#63669)
+
+Revert ""InfluxDB: Send retention policy with InfluxQL queries if its been specified. (#62149)""
+
+This reverts commit a5a85e03985aca2d572f06adc3adf834b4a53338.
+
+(cherry picked from commit ffed77987960533cc8e547742dd741f212a4310f)
+
+Co-authored-by: ismail simsek <ismailsimsek09@gmail.com>
+(cherry picked from commit 3e30c2024c6a859d6d0e344964d160c68430dcc6)",4.610787037037037
+v9.4.1,v8.5.16,2023-02-28T10:38:25+00:00,fd67ab151d49fa30bcaeeb7a1ef030435d862817,2023-02-27T16:07:24-06:00,Timur Olzhabayev,timur.olzhabayev@grafana.com,"fix(dashboard version service): add DashboardUID to query and respons… (#63821)
+
+fix(dashboard version service): add DashboardUID to query and responses (#60800)
+
+* fix(dashboard version service): add DashboardUID to query and responses
+
+The DashboardUID was not populated in the response from Get and ListDashboardVersions. This adds the DashboardUID to the Get query (it was already in List) and populated the DashboardUID in the returned DashboardVersionDTOs.
+
+(cherry picked from commit 42be0e106feab07361c3f4ee665a7067880ed674)
+
+Co-authored-by: Kristin Laemmert <mildwonkey@users.noreply.github.com>",0.5215393518518519
+v9.4.3,v9.4.2,2023-03-03T08:08:22+00:00,2386d781936675b65f585da5d78761bfa1f4e823,2023-03-01T16:08:07-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] Alerting: Fix boolean default in migration from false to 0 (#63963)
+
+Alerting: Fix boolean default in migration from false to 0 (#63952)
+
+Fix boolean default in migration from false to 0
+
+(cherry picked from commit a05bf41ff95def7e8af2f196894eaaccfad61a2b)
+
+Co-authored-by: Alex Moreno <alexander.moreno@grafana.com>",1.4168402777777778
+v9.4.3,v9.4.2,2023-03-03T08:08:22+00:00,285824f71771c1ba3854e73f4fefde0bef6ccabf,2023-03-02T14:18:31-06:00,Yuri Tseretyan,yuriy.tseretyan@grafana.com,"[v9.4.x] Alerting: Use background context for maintenance function (#64066)
+
+Alerting: Use background context for maintenance function (#64065)
+
+(cherry picked from commit e760f224024c46fa284d82dc145503b4648dc93a)
+
+# Conflicts:
+#	pkg/services/ngalert/notifier/alertmanager.go",0.4929513888888889
+v9.4.3,v9.4.2,2023-03-03T08:08:22+00:00,cf0a1355955cc2d1d2365efc47d3f91a0ddc4158,2023-03-02T14:28:42-06:00,Grot (@grafanabot),43478413+grafanabot@users.noreply.github.com,"[v9.4.x] NPM: Stop using the folder path before the name path (#64071)
+
+NPM: Stop using the folder path before the name path (#63851)
+
+Stop using the folder path before the name path
+
+(cherry picked from commit 177aa254c563dfe98ffabd2de56330bee960f160)
+
+Co-authored-by: Dimitris Sotirakis <dimitrios.sotirakis@grafana.com>",0.4858796296296296
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,8e428858dd938ca6d2502e4c2946e9a1def5fe15,2023-09-18T15:34:15-05:00,Kevin Minehart,kmineh0151@gmail.com,get docker_username and docker_password from vault,10.983090277777778
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,a968ee0e218e16af827bab257482498a93f081fa,2023-09-29T16:45:47+03:00,Andreas Christou,andreas.christou@grafana.com,"[v10.1.x] Azure: Add support for Workload Identity authentication (#75733)
+
+Azure: Add support for Workload Identity authentication (#75681)
+
+* Update Azure Monitor
+
+* Update Prometheus
+
+* Update README
+
+* Update docs/sources/datasources/azure-monitor/_index.md
+
+Co-authored-by: Andrew Hackmann <5140848+bossinc@users.noreply.github.com>
+
+* Update docs/sources/datasources/azure-monitor/_index.md
+
+Co-authored-by: Beverly <131809838+BeverlyJaneJ@users.noreply.github.com>
+
+* Update docs/sources/datasources/azure-monitor/_index.md
+
+Co-authored-by: Beverly <131809838+BeverlyJaneJ@users.noreply.github.com>
+
+* Update docs/sources/datasources/azure-monitor/_index.md
+
+Co-authored-by: Beverly <131809838+BeverlyJaneJ@users.noreply.github.com>
+
+* README updates
+
+* Fix prettier
+
+* memoize options
+
+---------
+
+Co-authored-by: Andrew Hackmann <5140848+bossinc@users.noreply.github.com>
+Co-authored-by: Beverly <131809838+BeverlyJaneJ@users.noreply.github.com>
+(cherry picked from commit 5796836662198ef09375c87f83ebf298f1c595b8)
+
+# Conflicts:
+#	public/app/plugins/datasource/azuremonitor/components/AzureCredentialsForm.tsx
+(cherry picked from commit 28d2423050e52ae916c6f1b460eabda9aa6f27ad)",0.2667476851851852
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,6df640d3aa9d21680e498538e8823e393892a9cb,2023-09-29T16:45:51+03:00,Andreas Christou,andreas.christou@grafana.com,"[v10.1.x] Azure: Settings for Azure AD Workload Identity (#75683)
+
+* Azure: Settings for Azure AD Workload Identity (#75283)
+
+* Settings for Azure AD Workload Identity
+
+* Update dependency on Grafana Azure SDK
+
+* Documentation
+
+* Fix JS code
+
+* Cleanup Prometheus backend code
+
+* Making prettier happy
+
+(cherry picked from commit 3ee40d3a5a168a850cb5d03cc1f50b5cdae32849)
+
+# Conflicts:
+#	go.mod
+#	go.sum
+#	public/app/plugins/datasource/mssql/azureauth/AzureAuth.testMocks.ts
+
+* Fix go.sum
+
+---------
+
+Co-authored-by: Sergey Kostrukov <sekost@microsoft.com>
+(cherry picked from commit 6445e1f907865ec430671a71ccb31255a4024fa5)",0.2667013888888889
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,a676a96d911a755b92ad529e673a90853ab52135,2023-09-29T16:58:29+03:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"Release: Bump version to 10.1.4 (#51)
+
+Co-authored-by: grafana-delivery-bot[bot] <132647405+grafana-delivery-bot[bot]@users.noreply.github.com>",0.2579282407407407
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,d32201b6178c904303d4bd9c5bb9aa90388f4a31,2023-09-29T12:37:49-05:00,Dimitris Sotirakis,dimitrios.sotirakis@grafana.com,"Bug: Exclude 32-bit `arm` builds (#75448)
+
+* Exclude 32 bit arm builds
+
+* Bump grabpl - remove arm/v7 from build.star",0.10561342592592593
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,ae905ca50c27d8283ec561c0dabf716764d6eaae,2023-09-29T12:45:31-05:00,Kevin Minehart,kmineh0151@gmail.com,Don't fetch armv7,0.1002662037037037
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,fc308fbfc47626528cf99727818fa3609bfdc095,2023-09-29T12:49:10-05:00,Kevin Minehart,kmineh0151@gmail.com,Don't fetch armv7,0.09773148148148147
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,dd9d68449a167678719c18cc3b6099ec332919ed,2023-09-29T12:55:45-05:00,Kevin Minehart,kmineh0151@gmail.com,Don't fetch armv7,0.09315972222222223
+v10.1.4,v10.1.2,2023-09-29T20:09:54+00:00,ac024bfca197d3965e94f29f7da2655b34caa3a4,2023-09-29T13:08:07-05:00,Kevin Minehart,kmineh0151@gmail.com,Don't fetch armv7,0.08457175925925926
+v11.4.0,v11.3.2,2024-12-05T19:24:34+00:00,8bc94106e2060d817f405de8a2a1a3ef1658919c,2024-12-03T16:11:23+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.3.x] Alerting docs: clarify `$labels` and query labels (#97356)
+
+Alerting docs: clarify `$labels` and query labels (#97350)
+
+* Alerting docs: clarify `$labels` and query labels
+
+* fix mispell
+
+(cherry picked from commit 8fe36e1c837fd381cde100790445aa0f624f1a98)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",2.1758217592592595
+v11.4.0,v11.3.2,2024-12-05T19:24:34+00:00,80691e4297efd03c8a4668eaa1b569a10779c7df,2024-12-04T08:46:54-07:00,Jev Forsberg,46619047+baldm0mma@users.noreply.github.com,"[v11.3.x] CI: add missing github app volume to release pipeline (#97414)
+
+CI: add missing github app volume to release pipeline (#97406)
+
+add github app volume to release pipeline
+
+(cherry picked from commit 6fe184a56535a63303d468bfebc181fbfb8d03da)
+
+Co-authored-by: Kevin Minehart <5140827+kminehart@users.noreply.github.com>",1.1511574074074074
+v11.4.0,v11.3.2,2024-12-05T19:24:34+00:00,b12308499b94ac201aa9ff11c2726603de96ffdc,2024-12-04T09:13:15-07:00,idastambuk,ida.stambuk@grafana.com,"Cloudwatch: OpenSearch PPL and SQL support in Logs Insights
+
+Co-authored-by: Kevin Yu <kevinwcyu@users.noreply.github.com>
+Co-authored-by: Nathan Vērzemnieks <njvrzm@users.noreply.github.com>",1.1328587962962964
+v11.4.0,v11.3.2,2024-12-05T19:24:34+00:00,b58701869e1a11b696010a6f28bd96b68a2cf0d0,2024-12-04T14:19:30-07:00,jev forsberg,jev.forsberg@grafana.com,update whats new url,0.9201851851851852
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,b58701869e1a11b696010a6f28bd96b68a2cf0d0,2024-12-04T14:19:30-07:00,jev forsberg,jev.forsberg@grafana.com,update whats new url,54.766539351851854
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,443dcc026dd664a1b3d095fcf77d7bd99cb32634,2024-12-05T12:24:12-07:00,github-actions[bot],41898282+github-actions[bot]@users.noreply.github.com,"Release: 11.4.0 (#97500)
+
+* Update changelog
+
+* Update version to 11.4.0
+
+* Update CHANGELOG.md
+
+* update versions
+
+* run gen-cue
+
+* update plugin dep
+
+---------
+
+Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Co-authored-by: Jev Forsberg <46619047+baldm0mma@users.noreply.github.com>
+Co-authored-by: jev forsberg <jev.forsberg@grafana.com>",53.846608796296294
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,88aa744512e94d785fe957da98b682290c9059b1,2024-12-05T15:33:44-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: What’s new & Upgrade guide v11.4 (#97510)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>",53.79832175925926
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,0b732db6239566a0367c7897b3e4d055a98b3c46,2024-12-05T15:49:10-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Comment video link back in (#97513)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>",53.78760416666667
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,c9859478eea4ec9857210f28287683cf5a94a7be,2024-12-05T15:32:12-07:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] CI: Fix `latest` tag not being correctly applied to releases (#97522)
+
+CI: Fix `latest` tag not being correctly applied to releases (#96497)
+
+* baldm0mma/tag_latest_bug/ update github-release.yml default values
+
+* baldm0mma/tag_latest_bug/ update release-comms.yml
+
+* baldm0mma/tag_latest_bug/ update logic
+
+* baldm0mma/tag_latest_bug/ update logic
+
+* baldm0mma/tag_latest_bug/ update logic
+
+* baldm0mma/tag_latest_bug/ update logic for both cases
+
+* baldm0mma/tag_latest_bug/ update comment
+
+(cherry picked from commit d8c19136bf4776fca823e2f5605a8da6e51680ba)
+
+Co-authored-by: Jev Forsberg <46619047+baldm0mma@users.noreply.github.com>",53.71605324074074
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,e4a7eb6b6915f420f9e91b2318eec19c4af970fc,2024-12-05T17:52:08-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] docs: update Logs in Explore topic (#97526)
+
+docs: update Logs in Explore topic (#97517)
+
+* docs: update Logs in Explore topic
+
+* Fixes from prettier
+
+---------
+
+Co-authored-by: Kim Nylander <kim.nylander@grafana.com>
+(cherry picked from commit bf5fef8b64b03cae271eca2da607efbfe1db8bb3)
+
+Co-authored-by: J Stickler <julie.stickler@grafana.com>",53.702210648148146
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,ac481509c7ccc587a44e576e8cdc40270b4d3ef1,2024-12-06T15:49:54-03:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting: Fix alert rules unpausing after moving rule to different folder (#97583)
+
+Alerting: Fix alert rules unpausing after moving rule to different folder (#97580)
+
+Alerting: Fix alert rules unpaused after moving rule to different folder
+(cherry picked from commit f60caf6932b8c4660e01134a1d3501d3c0aa836b)
+
+Co-authored-by: Santiago <santiagohernandez.1997@gmail.com>",52.87042824074074
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,626c15c1a5def7839ee80ab5ba3e4dec55a5ad98,2024-12-06T22:06:20+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Azure/GCM: Improve error display (#97594)
+
+* Azure/GCM: Improve error display (#96921)
+
+Improve handling of errors
+
+(cherry picked from commit 9f75a448d47beac1da545a6e7f485916aa9b23cb)
+
+* Update var name and import
+
+---------
+
+Co-authored-by: Andreas Christou <andreas.christou@grafana.com>",52.81734953703704
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,93c507cc8f371af56edbfb7cc9b00074ee5e887c,2024-12-09T11:08:49+01:00,Pepe Cano,825430+ppcano@users.noreply.github.com,"[v11.4.x] Alerting docs: update `Configure alert rules` (#97624)
+
+Alerting docs: update `Configure alert rules` (#97430)
+
+* Simplify a bit more Intro to Alert rules
+
+* Update `Configure alert rules` docs
+
+* Configure Grafana-managed alert rules
+
+* Update `Configure data source-managed alert rules`
+
+* fix mispelled word
+
+* fix grammar error
+
+* remove unnecessary space
+
+* remove whitespace
+
+* address brand name convention
+
+(cherry picked from commit 7f99388576067388c8d3b3779a3041f4ba2fdcee)",50.23229166666667
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,df43a3fff4e4e3ea97d29c5291457d9e72301ce3,2024-12-09T10:40:01-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: alert list visualization refactor (#97671)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>",50.002291666666665
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,006d2b2b72ccd5f98a12cf5fbd51ec134e724d70,2024-12-09T10:57:04-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: state timeline visualization refactor (#97668)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>",49.990451388888886
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,8a0b736610da2e08bbc893f96881cd3491cf3617,2024-12-09T11:55:44-05:00,Isabel Matwawana,76437239+imatwawana@users.noreply.github.com,[v11.4.x] Docs: heatmap visualization refactor (#97686),49.94971064814815
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,01a0baf5c132d5b575951982b969247cb7ce88c1,2024-12-09T13:02:20-06:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Table: RowsList passing incorrect index to onRowHover (#97678)
+
+Table: RowsList passing incorrect index to onRowHover (#97599)
+
+* chore: fix table returning the wrong index to onRowHover
+
+(cherry picked from commit 645776afc9117ad5a2ba719d54db48b8d4140bfe)
+
+Co-authored-by: Galen Kistler <109082771+gtk-grafana@users.noreply.github.com>",49.86179398148148
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,e076682a17ff59da5b64a0062f2c901f1c5e94ec,2024-12-09T16:05:25-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: pie chart visualization refactor (#97707)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>",49.77631944444445
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,9bfc35ec25ec36d2c95975666907d1739a2635ec,2024-12-10T16:46:14+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Add units after ""CPU"" (#97749)
+
+Co-authored-by: Irene Rodríguez <irene.rodriguez@grafana.com>",49.0396412037037
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,cb0f9b4093a491023a4ba1586f430f015cde3036,2024-12-11T16:48:22+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Clarifies documentation around what the annotations.tags_length setting does (#97798)
+
+Co-authored-by: Bruno Abrantes <bruno.abrantes@grafana.com>",48.038159722222225
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,bed84aefdfa30e4b5cd580d20566bf0608d799a7,2024-12-11T19:10:53+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Added clarification to Azure monitor config doc (#97810)
+
+Co-authored-by: Larissa Wandzura <126723338+lwandz13@users.noreply.github.com>",47.93918981481482
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,0e6b320f4d49c6d28d82c89f4564917240035267,2024-12-12T09:33:20+00:00,Sergej-Vlasov,37613182+Sergej-Vlasov@users.noreply.github.com,"Dependencies: Scenes bump 5.30 (#97745) (#97751)
+
+Dependencies: Scenes bump 5.40
+(cherry picked from commit 4cbb56256c220fdaea05a1be8f8f0735ad6a987e)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",47.25693287037037
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,72acd7f000515be43a2520b83a2554da7d4f3148,2024-12-12T16:10:41+01:00,Mariell Hoversholm,mariell.hoversholm@grafana.com,Backport 0a390cc069f50d100c2137459c92771515103f38 from #97823 (#97861),47.02266203703704
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,de338282c1b114011f3c398dbca5af4499cdd47e,2024-12-12T16:58:13+01:00,Gilles De Mey,gilles.de.mey@gmail.com,"[v11.4.x] Alerting: AlertingQueryRunner should skip descendant nodes of invalid queries (#97830)
+
+Alerting: AlertingQueryRunner should skip descendant nodes of invalid queries (#97528)
+
+(cherry picked from commit 9c396b74f934434ab9ccd01dde58f438e1e7039c)",46.98965277777778
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,620534891d4f9d9d1ed48b70fe2b1fdb17049eb2,2024-12-12T18:45:32+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Azure: Add documentation for Basic Logs (#97877)
+
+Azure: Add documentation for Basic Logs (#97193)
+
+* Add documentation for Basic Logs
+
+* Lint
+
+* Update docs/sources/datasources/azure-monitor/query-editor/index.md
+
+Co-authored-by: Larissa Wandzura <126723338+lwandz13@users.noreply.github.com>
+
+---------
+
+Co-authored-by: Larissa Wandzura <126723338+lwandz13@users.noreply.github.com>
+(cherry picked from commit dbe2d7ac47fbf8add76fbfea14cf9dd0ac6e90b4)
+
+Co-authored-by: Andreas Christou <andreas.christou@grafana.com>",46.95679398148148
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,66a7e6a60ab6e339996c53ea58dc7c4c47f630cb,2024-12-13T11:54:19+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: `State and health of alerts` minor updates (#97923)
+
+Alerting docs: `State and health of alerts` minor updates (#97880)
+
+* Alerting docs: Update `State and health of alerts`
+
+* correct internal ref name
+
+(cherry picked from commit 0cce224adb641a3bccec8cee8b38eaf4d0f49327)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",46.200694444444444
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,7e1f67f9d7f20c42e3b7aa433fb6a223de1f909a,2024-12-13T09:43:29-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Fix broken link (#97906)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>
+Fix broken link (#97891)",46.041550925925925
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,20f94161426d31d37e9adbac45c851b5a9055eed,2024-12-13T15:46:27+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] GrafanaData: Add now parameter to dateMath.parse to subsitute now string (#97911)
+
+GrafanaData: Add now parameter to dateMath.parse to subsitute now string (#97151)
+
+* Add now parameter to dateMath.parse to subsitute now string
+
+* Create new function, deprecate the old
+
+* Add docstring
+
+* Typo
+
+(cherry picked from commit e3e7086a91c706206217237906e69d76c27aba12)
+
+Co-authored-by: Oscar Kilhed <oscar.kilhed@grafana.com>",46.03949074074074
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,03e84aca2b15a031b937a3eb9ac2e856c2cf2e18,2024-12-13T16:41:50+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: update `Configure notifications` (#97954)
+
+Alerting docs: update `Configure notifications` (#97862)
+
+* Update `Configure notifications`
+
+* wip notification policies
+
+* Finish Create Notification Policy
+
+* Minor update to Contact point intro
+
+* Fix `How label matching works` links and remove links from contact point intro
+
+* Silences and Mute timings
+
+* Reorder + MuteTimings  + Silences
+
+* Complete Create silence
+
+* fix mispell
+
+* Update docs/sources/alerting/configure-notifications/_index.md
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>
+
+* Update docs/sources/alerting/configure-notifications/_index.md
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>
+
+* Update docs/sources/alerting/configure-notifications/_index.md
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>
+
+* Update docs/sources/alerting/configure-notifications/_index.md
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>
+
+* fix prettier error
+
+---------
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>
+(cherry picked from commit b8c4126fbcb6c247652445241e29e645a6bc1e1f)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",46.00103009259259
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,c705a3eb3638aa39f9c07a2380cb901fbbeb0d1e,2024-12-13T16:18:57+00:00,Adam Yeats,16296989+adamyeats@users.noreply.github.com,"[v11.4.x] MSSQL: Bump `go-mssqldb` to v1.8.0 (#97835)
+
+MSSQL: Bump `go-mssqldb` to v1.8.0 (#97773)
+
+(cherry picked from commit 60f093e3d34d5083e2f49b2d843fcd6c7b3ee1ff)",45.97525462962963
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,d9045acddbf3fbe664fd3b56f736e78d0bcf7661,2024-12-16T10:19:32+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] DateTimePicker: Fixes issue with date picker showing invalid date (#97971)
+
+DateTimePicker: Fixes issue with date picker showing invalid date (#97888)
+
+* DateTimePicker: Fixes issue with date picker showing invalid date
+
+* Fix lint
+
+(cherry picked from commit d93a5a7c534874869762015581e2bea1e9d00e23)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",43.2665162037037
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,4c288f39eede0eaecb2823ea26fc4dcdc826b26e,2024-12-16T12:22:08+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: `reorder rules` action in DS rules (#98016)
+
+Alerting docs: `reorder rules` action in DS rules (#97974)
+
+Alerting docs (minor) - mention `reorder rules` action in DS rules
+
+(cherry picked from commit c983af175514eaa9935196a36ea91f504dc5064a)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",43.18137731481482
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,e1ba2dd3552d53eb5cf852329526cf28ec374bd0,2024-12-16T17:18:40+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Fix: Show organization attribute path only for GrafanaAdmins on the UI (#98043)
+
+Fix: Show organization attribute path only for GrafanaAdmins on the UI (#98002)
+
+* Show organization attribute path only for GrafanaAdmins
+
+* prettier
+
+(cherry picked from commit 7b24c4404df86eb5f02d733a20237a0375987668)
+
+Co-authored-by: Misi <mgyongyosi@users.noreply.github.com>",43.01711805555556
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,a69e5fb0a2517b8d9686b7fa2c515a88155fb0c5,2024-12-16T16:49:14-05:00,Isabel Matwawana,76437239+imatwawana@users.noreply.github.com,[v11.4.x] Docs - Update variable limitation (#98071),42.74589120370371
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,e0dd77c05a6a15f9168da2296fda4140565bbbb1,2024-12-17T13:32:27+00:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Use v2 of publishing workflow that checks out HEAD of version branch on tag events (#98078)
+
+Use v2 of publishing workflow that checks out HEAD of version branch on tag events (#98029)
+
+This uses a script check in the first step of tag events that switches the checkout to the version branch that the tag refers to: https://github.com/grafana/writers-toolkit/blob/main/publish-technical-documentation-release/determine-release-branch.
+
+Implemented in:
+
+- https://github.com/grafana/writers-toolkit/commit/305f9896c4edb0a90ef95fc477ebe46598d26458
+- https://github.com/grafana/writers-toolkit/commit/541fb6e8bde2eb477c14a4e975603464ac557429
+
+Because the script uses Bash regular expression pattern matching, inputs must use Extended Regular Expression syntax.
+
+
+(cherry picked from commit 331c602c5ee3e83e7fce3d6e027da3aaec8e5ca0)
+
+Signed-off-by: Jack Baldry <jack.baldry@grafana.com>
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>",42.09087962962963
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,fb86150321bed99a5bc7c2547f8dd76993bb73ac,2024-12-17T15:23:54-05:00,Isabel Matwawana,76437239+imatwawana@users.noreply.github.com,[v11.4.x]Docs: Add clarifying information about embeds in Cloud (#97894),41.80515046296296
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,122c417f8cb9676c369818d2fc87baf82b3b023e,2024-12-18T13:44:02+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: update `Monitor status` section (#98183)
+
+Alerting docs: update `Monitor status` section (#98179)
+
+* Minor updates to `Declare incidents` docs
+
+* change URL
+
+* View alert state history + restructuring
+
+* Complete alert state
+
+* alert state
+
+* change heading
+
+* View alert rules
+
+* Monitor alerts
+
+(cherry picked from commit 001cc853a5882f11f62a3cff567b4e1d306df9aa)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",41.12450231481481
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,b7fff35a8a8d96d102e071b8d55b2c7dbd0dfe53,2024-12-18T08:03:57-05:00,Moustafa Baiou,moustafa.baiou@grafana.com,[v11.4.x] Alerting: Fix slack image uploading to use new api (#98066),41.110671296296296
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,f2c2883a0fddd8ffe9c549af11a320b456ffda41,2024-12-18T14:08:08+01:00,Erik Sundell,erik.sundell87@gmail.com,"[v11.4.x] Fix: Add support for datasource variable queries (#98119)
+
+Fix: Add support for datasource variable queries",41.107766203703704
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,cd060b079180f5e81abaa33354ce8913cf2f482f,2024-12-18T12:56:49-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Gauge visualization refactor (#98219)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>",40.907291666666666
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,96060e359f3d881c1380a0dc25d9bd02f5dd2e29,2024-12-19T09:17:34-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Update configure-tempo-data-source.md (#98264)
+
+Update configure-tempo-data-source.md (#98228)
+
+(cherry picked from commit 848f03928c9fd2e366afe3995d735881004dfbed)
+
+Co-authored-by: Kim Nylander <104772500+knylander-grafana@users.noreply.github.com>",40.05954861111111
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,9b1414e2ef36085c8c9a098bb3e5a9b6cb9c0b62,2024-12-19T15:57:42+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Dashboards: Fixes week relative time ranges when weekStart was changed (#98269)
+
+Dashboards: Fixes week relative time ranges when weekStart was changed (#98167)
+
+* Dashborads: Fixes week relative time ranges when weekStart was changed
+
+* Fix
+
+* Update
+
+(cherry picked from commit 02aded2743eec0300eb43346a877aa937f008f01)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",40.03167824074074
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,b12cab40d10d009b9303e22812c3259a88ffae6e,2024-12-19T14:31:58-06:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs:  Updated Grafana Enterprise page with missing data sources (#98292)
+
+Docs:  Updated Grafana Enterprise page with missing data sources (#98286)
+
+added 5 missing data sources, changed one name
+
+(cherry picked from commit c172bbba505f5a9ef15bff1c5c1de3ea1a007f44)
+
+Co-authored-by: Larissa Wandzura <126723338+lwandz13@users.noreply.github.com>",39.79954861111111
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,6a08b1cdc2774a6812a3f683f00c77382283c992,2024-12-20T11:34:33+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: fix broken link (#98307)
+
+Alerting docs: fix broken link (#98259)
+
+(cherry picked from commit 9f0e1a10537c0fc47b66d6f0681fa92411d5962d)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",39.214421296296294
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,0573e4d9a97dd507c570db7a723977b961eb74c7,2024-12-27T14:24:44+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Update `make docs` procedure (#98384)
+
+Co-authored-by: grafanabot <bot@grafana.com>
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",32.13790509259259
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,86c21cee85ec8fbda3f7ad79c66af23894fd55f3,2024-12-27T14:54:49+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: update configuring and using additional Alertmanagers in Grafana Alerting (#98381)
+
+Alerting docs: update configuring and using additional Alertmanagers in Grafana Alerting (#98363)
+
+* Alerting docs: Alertmanager data source
+
+* Alertmanager data source: minor intro changes
+
+* Update `Intro > Notifications`
+
+* Complete Configure alertmanager update
+
+* Configure alertmanager
+
+* minor final edits
+
+(cherry picked from commit 697690859710962c66f468836cde3359d7a7ae2f)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",32.11701388888889
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,4a6f5ebe23d26d1489449747406dcf3797c7ff66,2024-12-30T12:16:04+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Update `make docs` procedure (#98400)
+
+Co-authored-by: grafanabot <bot@grafana.com>
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",29.227256944444445
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,2c408c8139df462b6010af83d52c1a752897cf65,2024-12-30T12:19:25+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs/internal: leaf bundle page becomes a branch bundle (#98405)
+
+Alerting docs/internal: leaf bundle page becomes a branch bundle (#98391)
+
+(cherry picked from commit 6178320257c785cc689288fc33bfb4dd0b528e9d)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",29.183263888888888
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,ea930b2a51bd53773fc528bd5944f34f7266e3ca,2024-12-31T14:26:05+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] OptionsPicker: Fix matching non-latin template vars in filter (#98425)
+
+OptionsPicker: Fix matching non-latin template vars in filter (#98416)
+
+(cherry picked from commit e43e86376e25f9dc5c1c4389270adbfc199a467a)
+
+Co-authored-by: Leon Sorokin <leeoniya@gmail.com>",28.136967592592594
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,1547a0964574571add18c4ea4168658c5b5f23c4,2025-01-06T12:06:10-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Add Google Sheets to unsupported list (#98537)
+
+Co-authored-by: Jay <92761481+JayEkin@users.noreply.github.com>",21.942465277777778
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,07841886b6ada3875d68be547605f51f20cd93ab,2025-01-07T12:37:02-05:00,Kim Nylander,104772500+knylander-grafana@users.noreply.github.com,"[v11.4.x] [DOC] Updates for profile doc restructure (#98629)
+
+[DOC] Updates for profile doc restructure (#98301)
+
+* Updates for profile doc restructure
+
+* Updates from prettier
+
+(cherry picked from commit 1d551a86dc5179ac2cf3628beea3bb1c1bb3b592)",20.92103009259259
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,4e072ffe50e6c55f90bd9ba170eb0c28097d3f36,2025-01-07T15:26:25-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Update index.md [2025 release dates added] (#98636)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>
+Co-authored-by: Isabel Matwawana <isabel.matwawana@grafana.com>
+Co-authored-by: margotphelps <123196595+margotphelps@users.noreply.github.com>",20.803402777777777
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,ed927a143cedc681407130c9c8188db419c33b2a,2025-01-08T13:35:30-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting: Fix label escaping in rule export (#98649)
+
+Alerting: Fix label escaping in rule export (#97985)
+
+(cherry picked from commit 25538bcfdf249447f133ed63bbfb30e7ce038fe4)
+
+Co-authored-by: Moustafa Baiou <moustafa.baiou@grafana.com>",19.88042824074074
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,49ea20d027e3f7360186fc975b09dc647cec6487,2025-01-09T17:08:12+01:00,Oscar Kilhed,oscar.kilhed@grafana.com,"[v11.4.x] Dashboards: Fix issue where filtered panels would not react to variable changes (#98734)
+
+Dashboards: Fix issue where filtered panels would not react to variable changes (#98718)
+
+* Make sure we activate the parent and tree even if current panel is active
+
+* force activate full scene object tree
+
+---------
+
+Co-authored-by: Sergej-Vlasov <sergej.s.vlasov@gmail.com>
+(cherry picked from commit 56be39ed4f4023372a84a1c1d421bf28e8f57698)",18.982719907407407
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,dab5a49df044ca130862d26b24fc372dc3d73368,2025-01-09T11:47:59-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Add G12 release date to upgrade guide (#98748)
+
+Co-authored-by: Isabel Matwawana <isabel.matwawana@grafana.com>
+Co-authored-by: margotphelps <123196595+margotphelps@users.noreply.github.com>",18.955092592592592
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,ede278c767f5c081500cedbf50b8917203644ada,2025-01-09T18:30:06+01:00,Ivan Ortega Alba,ivanortegaalba@gmail.com,"[v11.4.x] Dashboards: Fixes issue with panel header showing even when hide time override was enabled (#98747)
+
+Dashboards: Fixes issue with panel header showing even when hide time override was enabled (#95814)
+
+* Dashboards: Fixes issue with panel header showing even when hide time override was enabled
+
+
+(cherry picked from commit 6fd3620d50e6204c2113ec523020084aa84e760b)
+
+Co-authored-by: Torkel Ödegaard <torkel@grafana.com>",18.925844907407406
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,860a25f7fda6ca5ae49e680e583c476b337c5d55,2025-01-09T17:44:53-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: Add 11.4 to supported versions table (#98773)
+
+Co-authored-by: Zach Day <zachary.day@grafana.com>",18.70724537037037
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,2d06a936c3b36244dfd28715704120de8fcfa459,2025-01-10T09:51:07+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Grafana UI: Re-add react-router-dom as a dependency (#98422)
+
+Grafana UI: Re-add react-router-dom as a dependency (#97540)
+
+* chore(grafana/ui): add react-router-dom v5 as a dependency
+
+* chore(grafana-ui): align version of react-router with core
+
+---------
+
+Co-authored-by: Jack Westbrook <jack.westbrook@gmail.com>
+(cherry picked from commit 7e4b05c268fc9e2961a8333970c968c39a1e5650)
+
+Co-authored-by: Levente Balogh <balogh.levente.hu@gmail.com>",18.28625
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,a13443ad11e7ea7cf439765efe54c48a633ceb6e,2025-01-10T13:06:22+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] ContactPoints: Remove blank lines prefixes in contact point types (#98766)
+
+ContactPoints: Remove blank lines prefixes in contact point types (#98590)
+
+Remove blank lines prefixes in contact point types
+
+(cherry picked from commit 7cad430ca7f9af85132f655a8e58ff31ca066bc3)
+
+Co-authored-by: Selene <selenepinillos@gmail.com>",18.150659722222223
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,97517f41cf808cbd59c59168d53577d47d8f7782,2025-01-10T15:08:36+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] InfluxDB: Adhoc filters can use template vars as values (#98786)
+
+InfluxDB: adhoc filters can use template vars as values (#98567)
+
+---------
+
+Co-authored-by: Ivan Ortega <ivanortegaalba@gmail.com>
+(cherry picked from commit be1505f2fbd8837da854b1441e7fd3a566e631d8)
+
+Co-authored-by: Andrew Hackmann <5140848+bossinc@users.noreply.github.com>",18.065775462962964
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,dc2c257c1a628682853147ba5671e3f681e9844b,2025-01-10T15:28:26+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: fix template example link (#98817)
+
+Alerting docs: fix template example link (#98715)
+
+* Alerting docs: fix template example link
+
+* ran prettier
+
+* adjust spacing
+
+* Update docs/sources/alerting/configure-notifications/template-notifications/manage-notification-templates.md
+
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Alerting docs: fix `Explore` ref link
+
+* updates other links
+
+* correcting link
+
+* Update docs/sources/alerting/alerting-rules/_index.md
+
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>
+
+* Update docs/sources/alerting/alerting-rules/templates/_index.md
+
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>
+
+* fix label ref
+
+---------
+
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>
+(cherry picked from commit 619e7d3d3f7f319b72c2f51a1202200642e9253e)
+
+Co-authored-by: brendamuir <100768211+brendamuir@users.noreply.github.com>",18.052002314814814
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,227c8392e0afce9276418a6e2dd01479aafa2729,2025-01-13T12:18:49+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] OAuth: Return SocialError on membership check failure (#98861)
+
+OAuth: Return SocialError on membership check failure (#98330)
+
+use socialerror
+
+(cherry picked from commit ddca09fb021637474c19b0dd28549a62880c66aa)
+
+Co-authored-by: Daniel-Davies <33356828+Daniel-Davies@users.noreply.github.com>",15.225347222222222
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,de310cb88cb749e84f4088b70ef333dbccf2a388,2025-01-13T14:35:01-06:00,Larissa Wandzura,126723338+lwandz13@users.noreply.github.com,"[v11.4.x] Docs: MySQL data source updates/revamp (#98906)
+
+Docs: MySQL data source updates/revamp (#98652)
+
+* made initial edits
+
+* continued updates
+
+* finished initial config doc updates
+
+* updates
+
+* updates to query editor
+
+* edits to query editor
+
+* final edits prior to PR
+
+* more final edits :-)
+
+* edits based on feedback meeting
+
+* fixed some spelling and grammar issues
+
+* final edits
+
+* ran prettier
+
+* minor change to intro description
+
+* Fix prettier
+
+* Update docs/sources/datasources/mysql/query-editor/_index.md
+
+Co-authored-by: Zoltán Bedi <zoltan.bedi@gmail.com>
+
+* Update docs/sources/datasources/mysql/query-editor/_index.md
+
+Co-authored-by: Zoltán Bedi <zoltan.bedi@gmail.com>
+
+* Update docs/sources/datasources/mysql/query-editor/_index.md
+
+Co-authored-by: Zoltán Bedi <zoltan.bedi@gmail.com>
+
+* edits based on feedback
+
+* fixed mistake
+
+* Fix prettier
+
+* fixed ref UIs, edits based on feedback
+
+* one minor change
+
+* ran prettier again
+
+---------
+
+Co-authored-by: Zoltán Bedi <zoltan.bedi@gmail.com>
+(cherry picked from commit ab6d82a33c938e1527a28a276638eb00d618bc37)",14.797430555555556
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,fc1d9c17193a73a6f1a26da9db2df96ccc85d2bd,2025-01-14T14:04:31+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: clarify data source-managed rules for Prometheus (#98954)
+
+Alerting docs: clarify data source-managed rules for Prometheus (#98378)
+
+* Clarify DS managed rules support only the creation of Mimir and Loki rules
+
+* additional copy changes
+
+* Extend `Manage alerts via Alerting UI` description
+
+* fix capital letter
+
+* further details for `Manage alerts via Alerting UI`
+
+(cherry picked from commit 77717683632d1e6b9017e26660a1ea5a8a7b86ba)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",14.110277777777778
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,696d22a3fe53bc4c313b8ce173b7cf2e84420e44,2025-01-14T22:10:35-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: update broken Play link (#98986)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>",13.52273148148148
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,0c7f57514927e78b5f9d65ab9fcb3605d10c3746,2025-01-16T14:02:55+00:00,Sergej-Vlasov,37613182+Sergej-Vlasov@users.noreply.github.com,"Update scenes to v5.37.0 (#98958) (#99082)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+(cherry picked from commit 2594b4f7aff42712bd0e2b01bea3d3335a7d092f)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>",12.069722222222222
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,f83e0a8a391f375d7882b7cd39145e41f913aa2a,2025-01-16T15:21:44+00:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] setDashboardPanelContext: Allow to add filters from the table with the same key (#99089)
+
+setDashboardPanelContext: Allow to add filters from the table with the same key (#99004)
+
+* always add filters for elastic seach ds when filtering table value
+
+* simplify update filter logic and restore behaviour from old arch
+
+* remove unnecessary modifications
+
+* adjust namig
+
+(cherry picked from commit 3df1fa86ae1dfa02e7acd5848f861b8d4379d12e)
+
+Co-authored-by: Sergej-Vlasov <37613182+Sergej-Vlasov@users.noreply.github.com>",12.014988425925926
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,7b5235f06d5d5623aa11556e30f68a88f6b04611,2025-01-16T11:22:10-05:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: add that traces panel works with traceID to show a singular trace (#99070)
+
+Co-authored-by: Isabel Matwawana <76437239+imatwawana@users.noreply.github.com>
+Co-authored-by: Piotr Jamróz <pm.jamroz@gmail.com>
+Co-authored-by: Gaurav Soni <raveformails@gmail.com>",11.973020833333333
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,86bb6dd4b11eb42e5d31b95c3d2a5af20a548fab,2025-01-17T09:33:07+01:00,Mariell Hoversholm,mariell.hoversholm@grafana.com,"Security: Update to Go 1.23.5 - Backport to v11.4.x (#99123)
+
+* feat: update to Go 1.23.5
+
+* chore: make drone
+
+* fix: update in Makefile
+
+* CI: Force re-build
+
+* build: update mariadb connection
+
+The new Alpine base that the Golang images are built on no longer trust the CA of MySQL.
+
+This is a backport of: https://github.com/grafana/grafana/pull/98857
+
+* chore: go mod tidy",11.29875
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,805ab7bd8ae92f1b8551eb7f78ae99cc36c5bdfa,2025-01-17T08:27:38-05:00,Isabel Matwawana,76437239+imatwawana@users.noreply.github.com,Docs: Updated unsupported and unconfirmed lists (#99119),11.094224537037038
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,122642a6d7672aa86cd1fda8a0682de4605c68af,2025-01-17T17:34:15+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] QueryVariable: Default query is not set when creating a new variable (#99197)
+
+QueryVariable: Default query is not set when creating a new variable (#99029)
+
+* QueryVariable: Default query is not set when creating a new variable
+
+* use correct getDefaultQuery
+
+---------
+
+Co-authored-by: Sergej-Vlasov <sergej.s.vlasov@gmail.com>
+(cherry picked from commit feae06d81cf9c1a300a9faa446da4cf0f1ee6e24)
+
+Co-authored-by: Ivan Ortega Alba <ivanortegaalba@gmail.com>",11.006296296296297
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,9aa8526e7dc59ac7727a02e5c651abb317fd6da0,2025-01-17T12:32:37-06:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Add Apache instructions (#99210)
+
+Co-authored-by: Joseph Perez <45749060+josmperez@users.noreply.github.com>
+Co-authored-by: Jack Baldry <jack.baldry@grafana.com>
+Co-authored-by: Irene Rodriguez <irene.rodriguez@grafana.com>
+Co-authored-by: Jacob Valdez <jacob.valdez@grafana.com>
+Co-authored-by: Ronald McCollam <mccollam@gmail.com>",10.882430555555555
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,074a1cf3485f03ac0b1daa73a17285c67468fa2b,2025-01-20T12:54:12+00:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Azure: Correctly set instance settings based on new credentials (#99212)
+
+Azure: Correctly set instance settings based on new credentials (#99112)
+
+Correctly set value based on new credentials
+
+(cherry picked from commit f39c5bb45c0f7bdf144dcdf8a5280d2105e80979)
+
+Co-authored-by: Andreas Christou <andreas.christou@grafana.com>",8.11744212962963
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,d4331c9d0b8dd52b50ced5187c9654d6f0261e1c,2025-01-21T10:48:51+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: add instructions to execute notification template examples (#99303)
+
+Alerting docs: add instructions to execute notification template examples (#99275)
+
+(cherry picked from commit 9ce9ad1777de56712d9bffce18d68c726701a3bb)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",7.2461574074074075
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,f433bc770fd83a43fd77b214736dd026b56add8c,2025-01-21T16:01:05+01:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Alerting docs: add Admonitions to Link Doc pages with practical Tutorials (#99323)
+
+Alerting docs: add Admonitions to Link Doc pages with practical Tutorials (#99317)
+
+Alerting docs: add admonitions to link to practical tutorials
+
+(cherry picked from commit c7edbffd822f007293a6a37c2ae12b0fecc3af2b)
+
+Co-authored-by: Pepe Cano <825430+ppcano@users.noreply.github.com>",7.029328703703704
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,0fc69d16e9fba2f62f3ec1a429979ea8dcada5f3,2025-01-22T13:21:35+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] docs>alert-rules>templates:example-fix (#99360)
+
+docs>alert-rules>templates:example-fix (#99355)
+
+* docs>alert-rules>templates:example-fix
+
+* second-fix
+
+* fixed 2 other label templates
+
+(cherry picked from commit 88d5ae8153759e9cfc33614212f25682c51ab271)
+
+Co-authored-by: antonio <45235678+tonypowa@users.noreply.github.com>",6.181759259259259
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,8dd46377067ae7241e0f55dffc760cbb769fbf69,2025-01-22T14:44:57+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Panel inspect: Fix inspect keyboard shortcut when grafana served from subpath (#99373)
+
+Panel inspect: Fix inspect keyboard shortcut when grafana served from subpath (#99366)
+
+* Panel inspect: Fix inspect keyboard shortcut when grafana served from a subpath
+
+* Add e2e test
+
+(cherry picked from commit 51b4ac50aab7ce14e7317358fb811d717eb8a143)
+
+Co-authored-by: Dominik Prokop <dominik.prokop@grafana.com>",6.123865740740741
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,690a223f6bc3c968d11ad20836c7fa66cc1a80f6,2025-01-23T09:56:59+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] Docs: add user de-duplication description, update usage billing instructions (#99406)
+
+Co-authored-by: Irene Rodríguez <irene.rodriguez@grafana.com>
+Co-authored-by: Mitch Seaman <mjseaman@users.noreply.github.com>",5.323842592592593
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,a7ea2a3b73dc27614ccdee4ddb76f823fdf36817,2025-01-23T13:30:18+02:00,grafana-delivery-bot[bot],132647405+grafana-delivery-bot[bot]@users.noreply.github.com,"[v11.4.x] LibraryPanel: Fallback to panel title if library panel title is not set (#99410)
+
+LibraryPanel: Fallback to panel title if library panel title is not set (#99377)
+
+(cherry picked from commit c862aa4d68b5ab9030a3ccfa0df94a84ba323748)
+
+Co-authored-by: Ivan Ortega Alba <ivanortegaalba@gmail.com>",5.175706018518518
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,350d9c71ce3d67e41c1dd95bfc73974d2b80f3b8,2025-01-24T08:28:21+00:00,Jack Baldry,jack.baldry@grafana.com,[v11.4.x] Remove codespell (#99429),4.302060185185185
+v11.4.1,v11.4.0,2025-01-28T15:43:19+00:00,da7be26d34d8fe1bb330d31a49319dbdb6b8db77,2025-01-24T08:29:39+00:00,github-actions[bot],github-actions[bot]@users.noreply.github.com,"apply security patch: v11.4.x/306-202501232116.patch
+
+commit 7dadae8da8e64a28f9b0ff1faacd57c1b24db4e8
+Author: Matt Jacobson <matthew.jacobson@grafana.com>
+Date:   Thu Jan 23 16:14:28 2025 -0500
+
+    linting
+
+commit 76ef28b5a8609ec4b7d96414d8049d7f121e8c2e
+Author: Matt Jacobson <matthew.jacobson@grafana.com>
+Date:   Thu Jan 23 15:11:58 2025 -0500
+
+    CVE-2024-11741 - victorops url",4.301157407407407
+v12.2.1+security-01,v12.2.1,2025-11-19T14:34:56+00:00,563109b696e9c1cbaf345f2ab7a11f7f78422982,2025-10-20T14:49:24+00:00,Josh Hunt,joshhunt@users.noreply.github.com,"[release-12.2.1] CI: Remove OIDC debug step from npm publish (#112657)
+
+CI: Remove OIDC debug step from npm publish (#112631)
+
+(cherry picked from commit b0acfd1189f8f63a19c1d746829b7fd8f63383da)",29.989953703703705
+v12.2.1+security-01,v12.2.1,2025-11-19T14:34:56+00:00,ef1a904cbecc92f9c2b5db40b51858ec9d0bf0e3,2025-10-21T14:39:47+00:00,github-actions[bot],41898282+github-actions[bot]@users.noreply.github.com,"Release: 12.2.1 (#112736)
+
+* Update changelog
+
+* Update version to 12.2.1
+
+---------
+
+Co-authored-by: grafana-delivery-bot[bot] <grafana-delivery-bot[bot]@users.noreply.github.com>",28.996631944444445
+v12.2.1+security-01,v12.2.1,2025-11-19T14:34:56+00:00,1276aa9aacadeeb92e40a6fa5db94998be7ffd8b,2025-10-30T10:06:17+01:00,Kevin Minehart,5140827+kminehart@users.noreply.github.com,"[release-12.2.1] pkg/build: Add nocgo option (#112882) (#113201)
+
+[release-12.2.2] pkg/build: Add nocgo option (#112882)
+
+pkg/build: Add nocgo option (#112834)
+
+Add nocgo option
+
+(cherry picked from commit 2a0f149a6356af4356bca0d72b81993867b80071)
+
+
+(cherry picked from commit 7bbc1174d5207b0bef246c985a53dfee7b48c84e)
+
+Co-authored-by: grafana-delivery-bot[bot] <132647405+grafana-delivery-bot[bot]@users.noreply.github.com>",20.228229166666665

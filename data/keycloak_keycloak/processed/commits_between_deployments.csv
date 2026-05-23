@@ -1,0 +1,78 @@
+deployment_tag,previous_tag,deployment_date,commit_sha,commit_date,author_name,author_email,commit_message,lead_time_days
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,ef47eee2dda29a0f08187ae67970323c28947f11,2022-04-20T20:32:18+02:00,stianst,stianst@gmail.com,Add GPG signing to boms,56.75436342592592
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,033227b0da9e51b60a4025664c1fad4b5eb47966,2022-06-07T08:47:00+02:00,andreaTP,andrea.peruffo1982@gmail.com,Fix disableDefaultIngress CR field of the operator,9.244155092592592
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,63f70c0c0f1d87b4c80013e42a2d63256379b90c,2022-06-07T08:47:00+02:00,andreaTP,andrea.peruffo1982@gmail.com,Skip the build step in the Realm import job if using a custom image,9.244155092592592
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,5ba51a04e1bf3e1ce5aae122815a1b6e682384c6,2022-06-07T08:47:00+02:00,andreaTP,andrea.peruffo1982@gmail.com,Use the entire podTemplateSpec to spawn the realm-import job,9.244155092592592
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,8406eda1fc25ff04a774f0dceb290c31ed9e0971,2022-06-07T08:47:00+02:00,andreaTP,andrea.peruffo1982@gmail.com,"Review http/https and proxy settings in operator
+
+Co-authored-by: Dominik Guhr <dguhr@redhat.com>",9.244155092592592
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,06595740feb6ca508e9dbc08814ffca39084dac5,2022-06-07T08:47:00+02:00,andreaTP,andrea.peruffo1982@gmail.com,Fix operator watching an alternative namespace,9.244155092592592
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,dc4ed8405fe73f7b666a18010970c312199b579b,2022-06-07T08:50:08+02:00,Salih Candir,salih@live.at,"Fix wrong reverse proxy link (#11687)
+
+Closes: #11626",9.241979166666667
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,a7d78524983e3cb14adca92e12bb3d899461e400,2022-06-07T09:03:27+02:00,Dominik Guhr,dguhr@redhat.com,"Fix link to rest api in import export guide for operator
+
+Has to be merged together with the PR for keycloak/keycloak-web#316 to work correctly
+
+Also fixes a few typos in the guide
+
+Closes #11930",9.232731481481482
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,bbd44e4cca757c040c0a0c292d548e30b9e2c42b,2022-06-07T09:06:43+02:00,Guillaume Smet,guillaume.smet@gmail.com,"Add a keycloak admin-client-jakarta module (#11720)
+
+This will simplify Quarkus' Jakarta migration.",9.230462962962964
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,f409d09c8215d09bac206ee09645c5e40df24fee,2022-06-07T09:07:41+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Imposing certain constraints to files when importing at start-up
+
+Closes #11861",9.229791666666667
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,231e16cf90e14272f464e9911ea52e0734fed6e8,2022-06-07T09:08:43+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Loading message bundles using the flat-classpath theme provider (#11711)
+
+Closes #11186",9.229074074074074
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,8096e2e89310c819bf7dcd109bf41e7e6d7dcec7,2022-06-07T09:09:15+02:00,Dominik Guhr,89905860+DGuhr@users.noreply.github.com,"Fixes wrong encoding in container image (#11547)
+
+Closes #11545
+
+Co-authored-by: Joshua Sorah <jsorah@gmail.com>
+
+Co-authored-by: Joshua Sorah <jsorah@gmail.com>",9.228703703703705
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,aaa2ebc9fe5de4f9712445c0e47617c6699d7b59,2022-06-07T09:09:50+02:00,Dominik Guhr,dguhr@redhat.com,"set the standardcharset to UTF-8
+
+Closes #10462",9.22829861111111
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,8d2d6f96676ba7d73e1db93fedfb23834aca5d4c,2022-06-07T09:10:24+02:00,Dominik Guhr,dguhr@redhat.com,"Update infinispan to prevent null pointer exception error
+
+Closes #11645",9.227905092592593
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,3e926f644b5cb63a0da31283dc7d2cdee4214c57,2022-06-07T09:10:39+02:00,Kai Josef Schauerte,info@green-legend.de,"Added a hint to the --cache-config-file config option that you not need to specify the configuration folder
+
+Closes #11302",9.22773148148148
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,769661e98ab2472d08ec95d93044f2ec5b320668,2022-06-07T09:11:22+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Persisted config source not loading properties at runtime (#12157)
+
+Co-authored-by: Dominik Guhr <dguhr@redhat.com>
+ Conflicts:
+	.github/workflows/ci.yml
+	quarkus/tests/integration/src/main/java/org/keycloak/it/utils/RawKeycloakDistribution.java",9.227233796296296
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,48ead1c93f12e6eec53ce0a66c0068c3b5b6908f,2022-06-07T11:57:10+02:00,Stian Thorgersen,stianst@gmail.com,Update pom.xml,9.112094907407407
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,70b9e04d5a98452dc7b2389b13e615ba49cf665b,2022-06-07T16:40:45+02:00,stianst,stianst@gmail.com,"Upgrade to WildFly 26.1.1
+
+Closes #12178",8.915162037037037
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,a61724b060d34767cd859f802f667b2ca0358348,2022-06-08T10:06:38-03:00,Bruno Oliveira da Silva,bruno@abstractj.com,"Update undertow dependency to fix CVE-2021-3597
+
+Resolves #12390",7.980520833333333
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,48156ed4ba3d03a3f80c412a10e6a5004d0a277f,2022-06-08T10:07:31-03:00,Dominik Guhr,89905860+DGuhr@users.noreply.github.com,"Update docs/guides/src/main/server/hostname.adoc
+
+Co-authored-by: Pedro Igor <pigor.craveiro@gmail.com>",7.979907407407407
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,b5c7477b66e0df52be949eb51597a46aada1983a,2022-06-16T13:28:22+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Allow setting the admin hostname (#481)
+
+Closes #12190",0.048761574074074075
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,ea145cfcce42d09cde5ea7872f097db0925d734d,2022-06-16T13:29:07+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Fixing how realm frontendurl is cached when resolving the hostname (#482)
+
+Closes #11894",0.048240740740740744
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,636e21a7ad4d57d602047faec39967ef0fca56ed,2022-06-16T13:30:44+02:00,Andrea Peruffo,andrea.peruffo1982@gmail.com,Fix Ingress creation/deletion loop (#484),0.04711805555555556
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,808379cae54432f8f4c67189550e77b09b2aabd2,2022-06-16T13:31:36+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Keycloak server fails to start when using different named schema (#479)
+
+Closes #12219",0.046516203703703705
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,917a110894bcff8897231ec25f0f54bb5246ac10,2022-06-16T13:32:28+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Do not set empty permissions to username and email attributes (#478)
+
+Closes #11647",0.04591435185185185
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,4001e8419b41bb80dfd5490a3cceb9df70aa3cf6,2022-06-16T13:33:07+02:00,Pedro Igor,pigor.craveiro@gmail.com,"Provide a separate guide for configuring the server truststore (#477)
+
+Closes #12260",0.04546296296296296
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,8fba6f09b7163e2c42c619d3f023bb2fb20d63c0,2022-06-16T11:37:18+00:00,keycloak-bot,keycloak.bot@gmail.com,Set version to 18.0.1,0.04255787037037037
+18.0.1,18.0.0,2022-06-16T12:38:35+00:00,2b25330e37fde12d252f37af38fcdbc06c1b09bd,2022-06-17T10:14:27+02:00,Václav Muzikář,vmuzikar@redhat.com,Fix Operator compilation errors (#485),-0.8165740740740741

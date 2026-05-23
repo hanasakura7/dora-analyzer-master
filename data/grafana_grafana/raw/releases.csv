@@ -1,0 +1,614 @@
+tag_name,release_name,published_at,target_commitish,html_url,draft,prerelease
+v13.0.1+security-01,13.0.1+security-01,2026-05-12T13:08:35Z,main,https://github.com/grafana/grafana/releases/tag/v13.0.1%2Bsecurity-01,False,False
+v12.4.3+security-02,12.4.3+security-02,2026-05-12T13:09:01Z,main,https://github.com/grafana/grafana/releases/tag/v12.4.3%2Bsecurity-02,False,False
+v12.3.6+security-04,12.3.6+security-04,2026-05-12T13:09:32Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.6%2Bsecurity-04,False,False
+v12.2.8+security-04,12.2.8+security-04,2026-05-12T13:08:58Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.8%2Bsecurity-04,False,False
+v11.6.14+security-04,11.6.14+security-04,2026-05-12T13:08:51Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.14%2Bsecurity-04,False,False
+v13.0.1,13.0.1,2026-04-17T08:18:54Z,main,https://github.com/grafana/grafana/releases/tag/v13.0.1,False,False
+v12.4.3,12.4.3,2026-04-14T11:56:08Z,main,https://github.com/grafana/grafana/releases/tag/v12.4.3,False,False
+v12.4.2,12.4.2,2026-03-25T22:09:36Z,main,https://github.com/grafana/grafana/releases/tag/v12.4.2,False,False
+v12.3.6+security-01,12.3.6+security-01,2026-03-25T23:03:20Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.6%2Bsecurity-01,False,False
+v12.3.6,12.3.6,2026-03-26T09:50:07Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.6,False,False
+v12.2.8+security-01,12.2.8+security-01,2026-03-25T22:08:55Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.8%2Bsecurity-01,False,False
+v12.2.8,12.2.8,2026-03-26T09:49:58Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.8,False,False
+v12.1.10+security-01,12.1.10+security-01,2026-03-25T22:06:04Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.10%2Bsecurity-01,False,False
+v12.1.10,12.1.10,2026-03-26T09:49:46Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.10,False,False
+v11.6.14+security-01,11.6.14+security-01,2026-03-25T22:05:11Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.14%2Bsecurity-01,False,False
+v11.6.14,11.6.14,2026-03-26T09:49:40Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.14,False,False
+v12.4.1,12.4.1,2026-03-09T18:28:09Z,main,https://github.com/grafana/grafana/releases/tag/v12.4.1,False,False
+v12.3.5,12.3.5,2026-03-09T18:29:43Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.5,False,False
+v12.2.7,12.2.7,2026-03-09T18:30:25Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.7,False,False
+v12.1.9,12.1.9,2026-03-09T18:32:07Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.9,False,False
+v11.6.13,11.6.13,2026-03-09T18:32:15Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.13,False,False
+v12.4.0,12.4.0,2026-02-25T08:06:52Z,main,https://github.com/grafana/grafana/releases/tag/v12.4.0,False,False
+v12.3.4,12.3.4,2026-02-24T17:55:11Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.4,False,False
+v12.2.6,12.2.6,2026-02-24T17:51:08Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.6,False,False
+v12.1.8,12.1.8,2026-02-24T12:11:37Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.8,False,False
+v11.6.12,11.6.12,2026-02-24T17:16:48Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.12,False,False
+v12.3.3,12.3.3,2026-02-12T22:30:08Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.3,False,False
+v12.2.5,12.2.5,2026-02-12T16:07:30Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.5,False,False
+v12.1.7,12.1.7,2026-02-12T16:08:03Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.7,False,False
+v12.0.10,12.0.10,2026-02-12T16:08:41Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.10,False,False
+v11.6.11,11.6.11,2026-02-12T16:09:52Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.11,False,False
+v12.3.2+security-01,12.3.2+security-01,2026-02-11T17:28:29Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.2%2Bsecurity-01,False,False
+v12.2.4+security-01,12.2.4+security-01,2026-02-11T16:01:49Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.4%2Bsecurity-01,False,False
+v12.1.6+security-01,12.1.6+security-01,2026-02-11T14:37:35Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.6%2Bsecurity-01,False,False
+v11.6.10+security-01,11.6.10+security-01,2026-02-11T12:00:08Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.10%2Bsecurity-01,False,False
+v12.3.2,12.3.2,2026-01-27T20:59:58Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.2,False,False
+v12.2.4,12.2.4,2026-01-27T20:03:40Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.4,False,False
+v12.1.6,12.1.6,2026-01-27T19:00:54Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.6,False,False
+v12.0.9,12.0.9,2026-01-27T16:58:34Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.9,False,False
+v11.6.10,11.6.10,2026-01-27T16:38:11Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.10,False,False
+v12.3.1,12.3.1,2025-12-16T21:58:21Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.1,False,False
+v12.2.3,12.2.3,2025-12-16T20:23:56Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.3,False,False
+v12.1.5,12.1.5,2025-12-16T19:17:01Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.5,False,False
+v12.0.8,12.0.8,2025-12-16T18:56:29Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.8,False,False
+v11.6.9,11.6.9,2025-12-16T18:22:28Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.9,False,False
+v12.3.0,12.3.0,2025-11-19T15:15:43Z,main,https://github.com/grafana/grafana/releases/tag/v12.3.0,False,False
+v12.2.2,12.2.2,2025-11-19T14:47:30Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.2,False,False
+v12.2.1+security-01,12.2.1+security-01,2025-11-19T14:34:56Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.1%2Bsecurity-01,False,False
+v12.1.4,12.1.4,2025-11-19T14:46:24Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.4,False,False
+v12.1.3+security-01,12.1.3+security-01,2025-11-19T14:43:13Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.3%2Bsecurity-01,False,False
+v12.0.7,12.0.7,2025-11-19T15:00:50Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.7,False,False
+v12.0.6+security-01,12.0.6+security-01,2025-11-19T14:45:59Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.6%2Bsecurity-01,False,False
+v11.6.8,11.6.8,2025-11-19T15:00:44Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.8,False,False
+v12.2.1,12.2.1,2025-10-21T14:40:19Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.1,False,False
+v12.1.3,12.1.3,2025-10-21T14:17:46Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.3,False,False
+v12.0.6,12.0.6,2025-10-21T13:23:02Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.6,False,False
+v11.6.7,11.6.7,2025-10-21T13:05:06Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.7,False,False
+v11.5.10,11.5.10,2025-10-21T12:08:30Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.10,False,False
+v12.2.0,12.2.0,2025-09-23T23:47:02Z,main,https://github.com/grafana/grafana/releases/tag/v12.2.0,False,False
+v12.1.2,12.1.2,2025-09-23T22:49:48Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.2,False,False
+v12.0.5,12.0.5,2025-09-23T22:34:54Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.5,False,False
+v11.6.6,11.6.6,2025-09-23T22:21:16Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.6,False,False
+v11.5.9,11.5.9,2025-09-23T21:25:46Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.9,False,False
+v12.1.1,12.1.1,2025-08-13T17:54:07Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.1,False,False
+v12.0.4,12.0.4,2025-08-13T15:18:19Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.4,False,False
+v11.6.5,11.6.5,2025-08-13T02:42:37Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.5,False,False
+v11.5.8,11.5.8,2025-08-12T22:32:48Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.8,False,False
+v11.4.8,11.4.8,2025-08-12T18:36:25Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.8,False,False
+v12.0.3,12.0.3,2025-07-23T19:35:26Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.3,False,False
+v12.1.0,12.1.0,2025-07-23T19:35:52Z,main,https://github.com/grafana/grafana/releases/tag/v12.1.0,False,False
+v11.6.4,11.6.4,2025-07-23T18:11:17Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.4,False,False
+v11.5.7,11.5.7,2025-07-23T16:26:24Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.7,False,False
+v11.4.7,11.4.7,2025-07-23T16:09:16Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.7,False,False
+v11.3.9,11.3.9,2025-07-23T15:28:01Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.9,False,False
+v12.0.2+security-01,12.0.2+security-01,2025-07-17T19:13:19Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.2%2Bsecurity-01,False,False
+v11.6.3+security-01,11.6.3+security-01,2025-07-17T19:13:14Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.3%2Bsecurity-01,False,False
+v11.5.6+security-01,11.5.6+security-01,2025-07-17T17:08:22Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.6%2Bsecurity-01,False,False
+v11.4.6+security-01,11.4.6+security-01,2025-07-17T16:02:34Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.6%2Bsecurity-01,False,False
+v11.3.8+security-01,11.3.8+security-01,2025-07-17T15:57:38Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.8%2Bsecurity-01,False,False
+v12.0.2,12.0.2,2025-06-17T21:41:45Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.2,False,False
+v11.6.3,11.6.3,2025-06-17T21:58:59Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.3,False,False
+v11.5.6,11.5.6,2025-06-17T22:00:40Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.6,False,False
+v11.4.6,11.4.6,2025-06-17T20:54:31Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.6,False,False
+v11.3.8,11.3.8,2025-06-17T19:56:35Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.8,False,False
+v10.4.19+security-01,10.4.19+security-01,2025-06-12T14:29:40Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.19%2Bsecurity-01,False,False
+v12.0.1+security-01,12.0.1+security-01,2025-06-13T04:15:18Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.1%2Bsecurity-01,False,False
+v11.6.2+security-01,11.6.2+security-01,2025-06-13T04:12:24Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.2%2Bsecurity-01,False,False
+v11.5.5+security-01,11.5.5+security-01,2025-06-13T04:11:29Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.5%2Bsecurity-01,False,False
+v11.4.5+security-01,11.4.5+security-01,2025-06-13T04:12:48Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.5%2Bsecurity-01,False,False
+v11.3.7+security-01,11.3.7+security-01,2025-06-12T17:05:16Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.7%2Bsecurity-01,False,False
+v11.2.10+security-01,11.2.10+security-01,2025-06-12T15:05:02Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.10%2Bsecurity-01,False,False
+v10.4.19,10.4.19,2025-05-22T19:20:31Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.19,False,False
+v12.0.1,12.0.1,2025-05-22T22:05:57Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.1,False,False
+v11.6.2,11.6.2,2025-05-22T22:28:40Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.2,False,False
+v11.5.5,11.5.5,2025-05-22T22:16:31Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.5,False,False
+v11.4.5,11.4.5,2025-05-22T23:49:07Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.5,False,False
+v11.3.7,11.3.7,2025-05-22T22:10:38Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.7,False,False
+v11.2.10,11.2.10,2025-05-22T23:50:45Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.10,False,False
+v12.0.0,12.0.0,2025-05-05T18:28:19Z,main,https://github.com/grafana/grafana/releases/tag/v12.0.0,False,False
+v11.6.1,11.6.1,2025-04-23T17:04:02Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.1,False,False
+v11.5.4,11.5.4,2025-04-23T16:09:07Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.4,False,False
+v11.4.4,11.4.4,2025-04-23T14:49:51Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.4,False,False
+v11.3.6,11.3.6,2025-04-23T00:18:05Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.6,False,False
+v11.2.9,11.2.9,2025-04-22T23:28:16Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.9,False,False
+v10.4.18,10.4.18,2025-04-22T22:00:40Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.18,False,False
+v11.6.0+security-01,11.6.0+security-01,2025-04-22T21:16:03Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.0%2Bsecurity-01,False,False
+v11.5.3+security-01,11.5.3+security-01,2025-04-22T21:07:37Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.3%2Bsecurity-01,False,False
+v11.4.3+security-01,11.4.3+security-01,2025-04-22T21:05:30Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.3%2Bsecurity-01,False,False
+v11.3.5+security-01,11.3.5+security-01,2025-04-22T21:02:48Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.5%2Bsecurity-01,False,False
+v11.2.8+security-01,11.2.8+security-01,2025-04-22T21:00:14Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.8%2Bsecurity-01,False,False
+v10.4.17+security-01,10.4.17+security-01,2025-04-22T20:58:23Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.17%2Bsecurity-01,False,False
+v11.6.0,11.6.0,2025-03-25T22:10:15Z,main,https://github.com/grafana/grafana/releases/tag/v11.6.0,False,False
+v11.5.3,11.5.3,2025-03-25T20:32:06Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.3,False,False
+v11.4.3,11.4.3,2025-03-25T20:32:03Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.3,False,False
+v11.3.5,11.3.5,2025-03-25T20:32:05Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.5,False,False
+v11.2.8,11.2.8,2025-03-25T20:31:39Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.8,False,False
+v11.1.13,11.1.13,2025-03-25T20:27:03Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.13,False,False
+v10.4.17,10.4.17,2025-03-25T20:24:11Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.17,False,False
+v11.5.2,11.5.2,2025-02-19T00:12:27Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.2,False,False
+v11.4.2,11.4.2,2025-02-19T00:12:12Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.2,False,False
+v11.3.4,11.3.4,2025-02-19T00:12:00Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.4,False,False
+v11.2.7,11.2.7,2025-02-19T00:03:47Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.7,False,False
+v11.5.1,11.5.1,2025-02-03T13:23:31Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.1,False,False
+v11.5.0,11.5.0,2025-01-28T18:40:22Z,main,https://github.com/grafana/grafana/releases/tag/v11.5.0,False,False
+v11.4.1,11.4.1,2025-01-28T15:43:19Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.1,False,False
+v11.3.3,11.3.3,2025-01-28T17:18:17Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.3,False,False
+v11.2.6,11.2.6,2025-01-28T17:01:00Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.6,False,False
+v11.1.11,11.1.11,2025-01-28T17:37:49Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.11,False,False
+v11.0.10,11.0.10,2025-01-28T18:43:15Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.10,False,False
+v10.4.15,10.4.15,2025-01-28T18:18:40Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.15,False,False
+v11.4.0,11.4.0,2024-12-05T19:24:34Z,main,https://github.com/grafana/grafana/releases/tag/v11.4.0,False,False
+v11.3.2,11.3.2,2024-12-04T20:50:34Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.2,False,False
+v11.2.5,11.2.5,2024-12-04T19:37:37Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.5,False,False
+v11.1.10,11.1.10,2024-12-04T18:56:44Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.10,False,False
+v11.0.9,11.0.9,2024-12-04T18:20:46Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.9,False,False
+v10.4.14,10.4.14,2024-12-04T16:54:49Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.14,False,False
+v11.3.1,11.3.1,2024-11-19T18:36:51Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.1,False,False
+v11.2.4,11.2.4,2024-11-19T17:04:44Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.4,False,False
+v11.1.9,11.1.9,2024-11-19T16:50:16Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.9,False,False
+v11.0.8,11.0.8,2024-11-19T16:18:49Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.8,False,False
+v10.4.13,10.4.13,2024-11-19T15:31:30Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.13,False,False
+v11.3.0+security-01,11.3.0+security-01,2024-11-12T16:02:08Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.0%2Bsecurity-01,False,False
+v10.4.12,10.4.12,2024-11-08T15:45:26Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.12,False,False
+v11.2.3+security-01,11.2.3+security-01,2024-11-12T16:01:23Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.3%2Bsecurity-01,False,False
+v11.3.0,11.3.0,2024-10-22T20:10:05Z,main,https://github.com/grafana/grafana/releases/tag/v11.3.0,False,False
+v11.2.3,11.2.3,2024-10-22T16:28:05Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.3,False,False
+v11.1.8,11.1.8,2024-10-22T14:51:11Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.8,False,False
+v11.0.7,11.0.7,2024-10-22T13:06:19Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.7,False,False
+v10.4.11,10.4.11,2024-10-22T11:52:21Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.11,False,False
+v10.3.12,10.3.12,2024-10-22T10:20:44Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.12,False,False
+v11.2.2+security-01,11.2.2+security-01,2024-10-17T18:16:44Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.2%2Bsecurity-01,False,False
+v11.2.1+security-01,11.2.1+security-01,2024-10-17T18:08:21Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.1%2Bsecurity-01,False,False
+v11.1.7+security-01,11.1.7+security-01,2024-10-17T18:53:57Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.7%2Bsecurity-01,False,False
+v11.1.6+security-01,11.1.6+security-01,2024-10-17T18:20:00Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.6%2Bsecurity-01,False,False
+v11.0.6+security-01,11.0.6+security-01,2024-10-17T17:17:14Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.6%2Bsecurity-01,False,False
+v11.0.5+security-01,11.0.5+security-01,2024-10-17T16:45:07Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.5%2Bsecurity-01,False,False
+v11.2.2,11.2.2,2024-10-09T18:39:00Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.2,False,False
+v11.1.7,11.1.7,2024-10-01T19:37:23Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.7,False,False
+v11.0.6,11.0.6,2024-10-01T18:09:01Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.6,False,False
+v10.4.10,10.4.10,2024-10-01T16:30:10Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.10,False,False
+v10.3.11,10.3.11,2024-10-01T15:58:39Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.11,False,False
+v11.2.1,11.2.1,2024-09-26T15:06:55Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.1,False,False
+v11.1.6,11.1.6,2024-09-26T14:32:00Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.6,False,False
+v11.0.5,11.0.5,2024-09-26T13:39:38Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.5,False,False
+v10.4.9,10.4.9,2024-09-26T13:06:31Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.9,False,False
+v10.3.10,10.3.10,2024-09-26T12:54:54Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.10,False,False
+v11.1.5,11.1.5,2024-08-27T13:58:31Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.5,False,False
+v11.0.4,11.0.4,2024-08-27T13:22:25Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.4,False,False
+v10.4.8,10.4.8,2024-08-27T12:23:02Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.8,False,False
+v10.3.9,10.3.9,2024-08-27T11:49:23Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.9,False,False
+v11.2.0,11.2.0,2024-08-27T17:18:36Z,main,https://github.com/grafana/grafana/releases/tag/v11.2.0,False,False
+v11.1.4,11.1.4,2024-08-14T20:12:38Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.4,False,False
+v11.0.3,11.0.3,2024-08-14T18:47:39Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.3,False,False
+v10.4.7,10.4.7,2024-08-14T17:48:14Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.7,False,False
+v11.1.3,11.1.3 (2024-07-26),2024-07-26T15:49:20Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.3,False,False
+v11.1.1,11.1.1 (2024-07-10),2024-07-26T00:49:27Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.1,False,False
+v11.1.2,11.1.2 (2024-07-24),2024-07-26T02:33:42Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.2,False,False
+v11.0.2,11.0.2 (2024-07-23),2024-07-26T00:44:05Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.2,False,False
+v10.4.6,10.4.6 (2024-07-23),2024-07-26T02:34:54Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.6,False,False
+v11.1.0,11.1.0 (2024-06-21),2024-06-25T10:59:04Z,main,https://github.com/grafana/grafana/releases/tag/v11.1.0,False,False
+v11.0.1,11.0.1 (2024-06-21),2024-06-25T12:37:38Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.1,False,False
+v10.4.5,10.4.5 (2024-06-21),2024-06-25T12:42:05Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.5,False,False
+v10.3.7,10.3.7 (2024-06-21),2024-06-25T21:42:50Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.7,False,False
+v10.2.8,10.2.8 (2024-06-21),2024-06-25T20:54:56Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.8,False,False
+v9.5.20,9.5.20 (2024-06-21),2024-06-25T20:52:04Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.20,False,False
+v10.4.4,10.4.4 (2024-06-13),2024-06-13T15:20:35Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.4,False,False
+v11.0.0,11.0.0 (2024-05-14),2024-05-14T09:16:18Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.0,False,False
+v10.4.3,10.4.3 (2024-05-13),2024-05-14T15:30:52Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.3,False,False
+v10.3.6,10.3.6 (2024-05-13),2024-05-14T15:07:34Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.6,False,False
+v10.2.7,10.2.7 (2024-05-13),2024-05-14T19:43:01Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.7,False,False
+v10.1.10,10.1.10 (2024-05-13),2024-05-14T22:56:24Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.10,False,False
+v9.5.19,9.5.19 (2024-05-13),2024-05-14T22:59:13Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.19,False,False
+v10.4.2,10.4.2 (2024-04-10),2024-04-11T19:42:33Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.2,False,False
+v11.0.0-preview,11.0.0-preview (2024-04-08),2024-04-08T11:00:06Z,main,https://github.com/grafana/grafana/releases/tag/v11.0.0-preview,False,False
+v10.2.6,10.2.6 (2024-03-25),2024-03-26T14:14:41Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.6,False,False
+v10.1.9,10.1.9 (2024-03-25),2024-03-26T13:47:13Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.9,False,False
+v10.0.13,10.0.13 (2024-03-25),2024-03-26T13:20:43Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.13,False,False
+v9.5.18,9.5.18 (2024-03-25),2024-03-26T13:02:06Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.18,False,False
+v10.4.1,10.4.1 (2024-03-20),2024-03-21T16:20:20Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.1,False,False
+v10.3.5,10.3.5 (2024-03-20),2024-03-21T16:33:30Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.5,False,False
+v10.3.4,10.3.4 (2024-03-06),2024-03-06T15:46:54Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.4,False,False
+v10.2.5,10.2.5 (2024-03-06),2024-03-06T16:00:51Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.5,False,False
+v10.1.8,10.1.8 (2024-03-06),2024-03-06T16:27:11Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.8,False,False
+v10.0.12,10.0.12 (2024-03-06),2024-03-06T16:36:50Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.12,False,False
+v10.4.0,10.4.0 (2024-03-06),2024-03-06T15:20:17Z,main,https://github.com/grafana/grafana/releases/tag/v10.4.0,False,False
+v9.5.17,9.5.17 (2024-03-05),2024-03-06T16:44:17Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.17,False,False
+v10.3.3,10.3.3 (2024-02-02),2024-02-13T22:13:28Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.3,False,False
+v10.2.4,10.2.4 (2024-01-29),2024-02-14T10:38:39Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.4,False,False
+v10.1.7,10.1.7 (2024-01-29),2024-02-13T22:48:21Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.7,False,False
+v10.0.11,10.0.11 (2024-01-29),2024-02-13T20:12:57Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.11,False,False
+v9.5.16,9.5.16 (2024-01-29),2024-02-13T19:02:47Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.16,False,False
+v10.3.1,10.3.1 (2024-01-22),2024-01-23T15:57:41Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.1,False,False
+v10.3.0,10.3.0 (2024-01-22),2024-01-23T15:55:49Z,main,https://github.com/grafana/grafana/releases/tag/v10.3.0,False,False
+v10.2.3,10.2.3 (2023-12-18),2023-12-19T12:26:27Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.3,False,False
+v10.1.6,10.1.6 (2023-12-18),2023-12-19T16:50:35Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.6,False,False
+v10.0.10,10.0.10 (2023-12-18),2023-12-19T16:54:24Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.10,False,False
+v9.5.15,9.5.15 (2023-12-18),2023-12-19T16:53:49Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.15,False,False
+v10.2.2,10.2.2 (2023-11-20),2023-11-21T09:46:16Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.2,False,False
+v9.5.14,9.5.14 (2023-11-14),2023-11-14T17:38:02Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.14,False,False
+v10.2.1,10.2.1 (2023-11-14),2023-11-14T17:20:40Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.1,False,False
+v10.2.0,10.2.0 (2023-10-24),2023-10-24T14:35:37Z,main,https://github.com/grafana/grafana/releases/tag/v10.2.0,False,False
+v10.1.5,10.1.5 (2023-10-11),2023-10-12T12:19:34Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.5,False,False
+v10.0.9,10.0.9 (2023-10-11),2023-10-12T11:18:44Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.9,False,False
+v9.5.13,9.5.13 (2023-10-11),2023-10-12T10:53:55Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.13,False,False
+v9.4.17,9.4.17 (2023-10-11),2023-10-12T09:41:57Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.17,False,False
+v10.1.4,10.1.4 (2023-09-29),2023-09-29T20:09:54Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.4,False,False
+v10.0.8,10.0.8 (2023-09-29),2023-09-29T20:30:50Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.8,False,False
+v9.5.12,9.5.12 (2023-09-29),2023-09-29T20:25:08Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.12,False,False
+v10.1.2,10.1.2 (2023-09-18),2023-09-19T07:07:23Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.2,False,False
+v10.0.6,10.0.6 (2023-09-18),2023-09-19T06:53:42Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.6,False,False
+v9.5.10,9.5.10 (2023-09-18),2023-09-19T06:14:18Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.10,False,False
+v9.4.15,9.4.15 (2023-09-18),2023-09-19T05:38:39Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.15,False,False
+v10.0.5,10.0.5 (2023-09-05),2023-09-05T12:33:11Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.5,False,False
+v9.5.9,9.5.9 (2023-09-05),2023-09-05T11:53:16Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.9,False,False
+v9.4.14,9.4.14 (2023-09-05),2023-09-05T11:07:47Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.14,False,False
+v10.1.1,10.1.1 (2023-08-29),2023-08-31T23:44:07Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.1,False,False
+v10.1.0,10.1.0 (2023-08-01),2023-08-23T21:09:07Z,main,https://github.com/grafana/grafana/releases/tag/v10.1.0,False,False
+v10.0.4,10.0.4 (2023-08-22),2023-08-23T20:47:47Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.4,False,False
+v9.5.8,9.5.8 (2023-08-16),2023-08-17T18:15:43Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.8,False,False
+v10.0.3,10.0.3 (2023-07-26),2023-07-26T08:52:01Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.3,False,False
+v9.5.7,9.5.7 (2023-07-20),2023-07-26T08:08:25Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.7,False,False
+v10.0.2,10.0.2 (2023-07-11),2023-07-11T10:34:51Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.2,False,False
+v9.5.6,9.5.6 (2023-07-11),2023-07-11T10:34:30Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.6,False,False
+v10.0.1,10.0.1 (2023-06-20),2023-06-22T19:38:29Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.1,False,False
+v9.5.5,9.5.5 (2023-06-22),2023-06-22T18:41:37Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.5,False,False
+v10.0.0,10.0.0 (2023-06-12),2023-06-22T15:09:32Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.0,False,False
+v9.4.13,,2023-06-22T21:02:24Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.13,False,False
+v9.3.16,,2023-06-22T15:49:19Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.16,False,False
+v9.2.20,,2023-06-22T15:29:50Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.20,False,False
+v8.5.27,,2023-06-22T14:59:28Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.27,False,False
+v10.0.0-preview,10.0.0-preview (2023-05-31),2023-05-31T13:51:01Z,main,https://github.com/grafana/grafana/releases/tag/v10.0.0-preview,False,True
+v9.5.3,,2023-06-06T10:15:04Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.3,False,False
+v9.4.12,,2023-06-06T09:47:32Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.12,False,False
+v9.3.15,,2023-06-06T09:05:56Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.15,False,False
+v9.2.19,,2023-06-06T08:28:41Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.19,False,False
+v8.5.26,,2023-06-06T07:39:08Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.26,False,False
+v9.5.2,9.5.2 (2023-05-03),2023-05-10T22:15:00Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.2,False,False
+v9.4.10,,2023-05-10T22:10:52Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.10,False,False
+v9.3.14,,2023-05-10T20:47:38Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.14,False,False
+v9.2.18,,2023-05-10T20:16:17Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.18,False,False
+v8.5.24,,2023-04-26T08:43:15Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.24,False,True
+v9.5.1,,2023-04-26T09:11:20Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.1,False,False
+v9.4.9,9.4.9 (2023-04-24),2023-04-26T08:56:42Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.9,False,False
+v9.3.13,,2023-04-26T08:54:40Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.13,False,False
+v9.2.17,,2023-04-26T08:52:48Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.17,False,False
+v9.5.0,9.5.0 (2023-04-04),2023-04-26T08:57:16Z,main,https://github.com/grafana/grafana/releases/tag/v9.5.0,False,False
+v9.2.15,,2023-03-22T16:26:53Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.15,False,False
+v8.5.22,,2023-03-22T16:12:07Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.22,False,False
+v9.4.0,9.4.0 (2023-02-03),2023-03-21T12:29:40Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.0,False,True
+v9.4.7,,2023-03-22T16:46:27Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.7,False,False
+v9.3.11,9.3.11 (2023-03-22),2023-03-22T16:36:32Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.11,False,False
+v9.4.3,9.4.3 (2023-03-02),2023-03-03T08:08:22Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.3,False,False
+v9.4.2,9.4.2 (2023-03-02),2023-03-02T10:07:43Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.2,False,False
+v9.4.1,v9.4.1 (2023-02-28),2023-02-28T10:38:25Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.1,False,False
+v9.3.8,v9.3.8 (2023-02-28),2023-02-28T12:48:14Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.8,False,False
+v8.5.21,v8.5.21 (2023-02-28),2023-02-28T16:29:29Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.21,False,False
+v9.4.0-beta1,9.4.0-beta1 (2023-01-30),2023-01-31T10:08:50Z,main,https://github.com/grafana/grafana/releases/tag/v9.4.0-beta1,False,True
+v8.5.16,8.5.16 (2023-01-25),2023-01-27T08:57:13Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.16,False,False
+v9.3.6,9.3.6 (2023-01-26),2023-01-26T15:30:25Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.6,False,False
+v9.3.4,9.3.4 (2023-01-25),2023-01-26T07:29:55Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.4,False,False
+v9.2.10,9.2.10 (2023-01-25),2023-01-25T10:05:05Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.10,False,False
+v8.5.20,8.5.20,2023-01-25T10:07:15Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.20,False,False
+v9.3.2,9.3.2 (2022-12-16),2022-12-15T22:51:41Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.2,False,False
+v9.2.8,9.2.8 (unreleased),2022-12-15T21:58:17Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.8,False,False
+v9.3.1,9.3.1 (2022-11-30),2022-12-01T21:11:20Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.1,False,False
+v9.3.0,9.3.0 (2022-11-30),2022-11-30T09:35:55Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.0,False,False
+v9.2.7,9.2.7 (2022-11-29),2022-11-30T09:14:28Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.7,False,False
+v9.2.6,9.2.6 (2022-11-22),2022-11-23T17:08:47Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.6,False,False
+v9.2.5,9.2.5 (2022-11-16),2022-11-16T18:25:31Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.5,False,False
+v9.3.0-beta1,9.3.0-beta1 (2022-11-15),2022-11-15T20:35:06Z,main,https://github.com/grafana/grafana/releases/tag/v9.3.0-beta1,False,True
+v9.2.4,9.2.4 (2022-11-07),2022-11-08T14:05:56Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.4,False,False
+v9.2.3,9.2.3 (2022-10-31),2022-11-01T10:43:28Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.3,False,False
+v9.2.2,9.2.2 (2022-10-25),2022-10-25T13:11:06Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.2,False,False
+v8.5.15,8.5.15 (2022-11-08),2022-11-08T15:50:16Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.15,False,False
+v9.2.1,9.2.1 (2022-10-18),2022-10-18T13:08:10Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.1,False,False
+v9.2.0,9.2.0 (2022-10-11),2022-10-11T14:19:10Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.0,False,False
+v9.1.8,9.1.8 (2022-10-11),2022-10-11T14:15:27Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.8,False,False
+v9.1.7,9.1.7 (2022-10-04),2022-10-04T15:16:12Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.7,False,False
+v9.2.0-beta1,9.2.0-beta1 (2022-09-26),2022-09-27T11:37:04Z,main,https://github.com/grafana/grafana/releases/tag/v9.2.0-beta1,False,True
+v9.1.6,9.1.6 (2022-09-20),2022-09-20T14:32:59Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.6,False,False
+v9.0.9,9.0.9 (2022-09-20),2022-09-20T16:35:31Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.9,False,False
+v8.5.13,8.5.13 (2022-09-20),2022-09-20T16:38:14Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.13,False,False
+v9.1.5,9.1.5 (2022-09-12),2022-09-13T13:24:15Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.5,False,False
+v9.1.4,9.1.4 (2022-09-09),2022-09-09T15:01:27Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.4,False,False
+v9.1.3,9.1.3 (2022-09-05),2022-09-06T11:05:33Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.3,False,False
+v9.1.2,9.1.2 (2022-08-30),2022-08-30T17:42:27Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.2,False,False
+v9.0.8,9.0.8 (2022-08-30),2022-08-30T18:54:27Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.8,False,False
+v9.1.1,9.1.1 (2022-08-23),2022-08-23T16:01:36Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.1,False,False
+v9.1.0,9.1.0 (2022-08-16),2022-08-16T14:02:19Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.0,False,False
+v8.5.11,8.5.11 (2022-08-30),2022-08-30T18:53:56Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.11,False,False
+v8.4.11,8.4.11 (2022-08-30),2022-08-30T18:53:47Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.11,False,False
+v8.3.11,8.3.11 (2022-08-30),2022-08-30T18:53:20Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.11,False,False
+v9.0.7,9.0.7 (2022-08-10),2022-08-10T13:36:09Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.7,False,False
+v8.5.10,8.5.10 (2022-08-08),2022-08-08T13:29:23Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.10,False,False
+v9.1.0-beta1,9.1.0-beta1 (2022-08-02),2022-08-02T15:24:03Z,main,https://github.com/grafana/grafana/releases/tag/v9.1.0-beta1,False,True
+v9.0.6,9.0.6 (2022-08-01),2022-08-02T08:28:03Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.6,False,False
+v9.0.5,9.0.5 (2022-07-26),2022-07-26T14:26:52Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.5,False,False
+v9.0.4,9.0.4 (2022-07-20),2022-07-20T17:07:17Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.4,False,False
+v9.0.3,9.0.3 (2022-07-14),2022-07-14T22:37:18Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.3,False,False
+v8.5.9,8.5.9 (2022-07-14),2022-07-14T17:22:31Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.9,False,False
+v8.4.10,8.4.10 (2022-07-14),2022-07-14T14:14:31Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.10,False,False
+v9.0.2,9.0.2 (2022-06-28),2022-06-28T15:15:59Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.2,False,False
+v9.0.1,9.0.1 (2022-06-21),2022-06-21T17:53:22Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.1,False,False
+v8.5.6,8.5.6 (2022-06-14),2022-06-14T16:05:04Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.6,False,False
+v9.0.0,9.0.0 (2022-06-14),2022-06-14T14:39:59Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.0,False,False
+v9.0.0-beta3,9.0.0-beta3 (2022-06-06),2022-06-07T13:43:23Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.0-beta3,False,True
+v8.5.5,8.5.5 (2022-06-06),2022-06-07T17:11:56Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.5,False,False
+v9.0.0-beta2,9.0.0-beta2 (2022-05-31),2022-05-31T19:50:49Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.0-beta2,False,True
+v8.5.4,8.5.4 (2022-05-30),2022-05-31T17:35:55Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.4,False,False
+v9.0.0-beta1,9.0.0-beta1 (2022-05-24),2022-05-24T14:11:18Z,main,https://github.com/grafana/grafana/releases/tag/v9.0.0-beta1,False,True
+v7.5.16,7.5.16 (2022-05-19),2022-05-19T15:32:37Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.16,False,False
+v8.5.3,8.5.3 (2022-05-19),2022-05-19T17:01:44Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.3,False,False
+v8.5.2,8.5.2 (2022-05-03),2022-05-04T09:56:31Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.2,False,False
+v8.5.1,8.5.1 (2022-04-27),2022-04-28T13:06:28Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.1,False,False
+v8.5.0,8.5.0 (2022-04-21),2022-04-21T14:29:12Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.0,False,False
+v8.4.7,8.4.7 (2022-04-19),2022-04-20T13:36:40Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.7,False,False
+v8.5.0-beta1,8.5.0-beta1 (2022-04-06),2022-04-07T11:55:38Z,main,https://github.com/grafana/grafana/releases/tag/v8.5.0-beta1,False,True
+v8.4.6,8.4.6 (2022-04-12),2022-04-12T11:03:16Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.6,False,False
+v8.4.5,8.4.5 (2022-03-31),2022-03-31T14:45:33Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.5,False,False
+v8.4.4,8.4.4 (2022-03-16),2022-03-17T17:33:14Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.4,False,False
+v8.4.3,8.4.3 (2022-03-02),2022-03-02T19:31:07Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.3,False,False
+v8.3.7,8.3.7 (2022-03-01),2022-03-01T14:32:53Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.7,False,False
+v8.4.2,8.4.2 (2022-02-23),2022-02-24T16:57:46Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.2,False,False
+v8.4.1,8.4.1 (2022-02-18),2022-02-21T10:46:47Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.1,False,False
+v8.4.0,8.4.0 (2022-02-16),2022-02-17T14:51:49Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.0,False,False
+v8.3.6,8.3.6 (2022-02-09),2022-02-15T11:21:25Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.6,False,False
+v8.4.0-beta1,8.4.0-beta1 (2022-02-02),2022-02-03T15:05:51Z,main,https://github.com/grafana/grafana/releases/tag/v8.4.0-beta1,False,True
+v8.3.5,8.3.5 (2022-02-08),2022-02-08T14:34:02Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.5,False,False
+v8.3.4,8.3.4 (2022-01-17),2022-01-19T14:00:27Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.4,False,False
+v8.3.3,8.3.3 (2021-12-10),2021-12-14T15:22:44Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.3,False,False
+v8.3.2,8.3.2 (2021-12-10),2021-12-10T16:13:22Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.2,False,False
+v8.2.7,8.2.7 (2021-12-07),2021-12-10T16:12:33Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.7,False,False
+v8.1.8,8.1.8 (2021-12-07),2021-12-10T16:11:31Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.8,False,False
+v8.3.1,8.3.1 (2021-12-07),2021-12-07T17:43:48Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.1,False,False
+v8.0.7,8.0.7 (2021-12-07),2021-12-10T16:09:43Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.7,False,False
+v8.2.6,8.2.6 (2021-12-02),2021-12-02T16:15:33Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.6,False,False
+v8.3.0,8.3.0 (2021-11-30),2021-12-01T16:42:07Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.0,False,False
+v8.3.0-beta2,8.3.0-beta2 (2021-11-25),2021-11-26T09:55:36Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.0-beta2,False,True
+v8.3.0-beta1,8.3.0-beta1 (2021-11-18),2021-11-23T10:14:42Z,main,https://github.com/grafana/grafana/releases/tag/v8.3.0-beta1,False,True
+v8.2.5,8.2.5 (2021-11-18),2021-11-18T12:27:59Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.5,False,False
+v8.2.4,8.2.4 (2021-11-15),2021-11-15T14:48:40Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.4,False,False
+v8.2.3,8.2.3 (2021-11-03),2021-11-03T15:45:27Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.3,False,False
+v8.2.2,8.2.2 (2021-10-21),2021-10-21T12:45:01Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.2,False,False
+v8.2.1,8.2.1 (2021-10-11),2021-10-11T14:06:54Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.1,False,False
+v8.2.0,8.2.0 (2021-10-07),2021-10-07T14:56:15Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.0,False,False
+v8.1.7,8.1.7 (2021-10-06),2021-10-06T18:15:11Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.7,False,False
+v8.1.6,8.1.6 (2021-10-05),2021-10-06T09:40:20Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.6,False,False
+v7.5.11,7.5.11 (2021-10-05),2021-10-06T09:39:44Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.11,False,False
+v8.2.0-beta2,8.2.0-beta2 (2021-09-30),2021-09-30T13:23:41Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.0-beta2,False,True
+v8.1.5,8.1.5 (2021-09-21),2021-09-21T11:59:46Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.5,False,False
+v8.2.0-beta1,8.2.0-beta1 (2021-09-16),2021-09-17T09:27:55Z,main,https://github.com/grafana/grafana/releases/tag/v8.2.0-beta1,False,True
+v8.1.4,8.1.4 (2021-09-16),2021-09-16T12:28:09Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.4,False,False
+v8.1.3,8.1.3 (2021-09-08),2021-09-08T13:24:39Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.3,False,False
+v8.1.2,8.1.2 (2021-08-19),2021-08-19T20:44:49Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.2,False,False
+v8.1.1,8.1.1 (2021-08-09),2021-08-09T18:57:56Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.1,False,False
+v8.1.0,8.1.0 (2021-08-05),2021-08-05T15:29:34Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.0,False,False
+v8.1.0-beta3,8.1.0-beta3 (2021-07-29),2021-07-29T14:53:29Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.0-beta3,False,False
+v8.1.0-beta2,8.1.0-beta2 (2021-07-23),2021-07-23T12:09:58Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.0-beta2,False,False
+v8.1.0-beta1,8.1.0-beta1 (2021-07-22),2021-07-22T17:13:32Z,main,https://github.com/grafana/grafana/releases/tag/v8.1.0-beta1,False,False
+v8.0.6,8.0.6 (2021-07-14),2021-07-15T13:53:20Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.6,False,False
+v7.5.10,7.5.10 (2021-07-15),2021-07-15T16:05:41Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.10,False,False
+v8.0.5,8.0.5 (2021-07-08),2021-07-08T15:43:07Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.5,False,False
+v8.0.4,8.0.4 (2021-07-01),2021-07-01T14:35:26Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.4,False,False
+v7.5.9,7.5.9 (2021-06-23),2021-06-23T14:08:37Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.9,False,False
+v8.0.3,8.0.3 (2021-06-18),2021-06-18T11:16:13Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.3,False,False
+v7.5.8,7.5.8 (2021-06-15),2021-06-16T14:13:58Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.8,False,False
+v8.0.2,8.0.2 (2021-06-14),2021-06-14T13:50:10Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.2,False,False
+v8.0.1,8.0.1 (2021-06-10),2021-06-10T15:09:54Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.1,False,False
+v8.0.0,8.0.0 (2021-06-08),2021-06-08T08:28:20Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.0,False,False
+v8.0.0-beta3,8.0.0-beta3 (2021-06-01),2021-06-01T13:49:26Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.0-beta3,False,False
+v8.0.0-beta2,8.0.0-beta2 (2021-05-20),2021-05-20T13:48:14Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.0-beta2,False,False
+v7.5.7,7.5.7 (2021-05-19),2021-05-19T16:15:37Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.7,False,False
+v8.0.0-beta1,8.0.0-beta1 (2021-05-13),2021-05-13T13:27:56Z,main,https://github.com/grafana/grafana/releases/tag/v8.0.0-beta1,False,False
+v7.5.6,7.5.6 (2021-05-11),2021-05-11T14:07:40Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.6,False,False
+v7.5.5,7.5.5 (2021-04-28),2021-04-28T16:36:54Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.5,False,False
+v7.5.4,7.5.4 (2021-04-14),2021-04-14T15:12:37Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.4,False,False
+v7.5.3,7.5.3 (2021-04-07),2021-04-07T13:34:18Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.3,False,False
+v7.5.2,7.5.2 (2021-03-30),2021-03-30T17:04:57Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.2,False,False
+v7.5.1,7.5.1 (2021-03-26),2021-03-26T14:52:50Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.1,False,False
+v7.5.0,7.5.0 (2021-03-25),2021-03-25T15:49:28Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.0,False,False
+v7.5.0-beta2,7.5.0-beta2 (2021-03-19),2021-03-19T14:42:11Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.0-beta2,False,False
+v7.4.5,7.4.5 (2021-03-18),2021-03-18T17:50:00Z,master,https://github.com/grafana/grafana/releases/tag/v7.4.5,False,False
+v7.3.10,7.3.10  (2021-03-18),2021-03-18T17:49:27Z,master,https://github.com/grafana/grafana/releases/tag/v7.3.10,False,False
+v6.7.6,6.7.6  (2021-03-18),2021-03-18T17:48:14Z,master,https://github.com/grafana/grafana/releases/tag/v6.7.6,False,False
+v7.5.0-beta1,7.5.0-beta1 (2021-03-04),2021-03-04T15:18:47Z,main,https://github.com/grafana/grafana/releases/tag/v7.5.0-beta1,False,False
+v7.4.3,7.4.3 (2021-02-24),2021-02-24T17:37:17Z,main,https://github.com/grafana/grafana/releases/tag/v7.4.3,False,False
+v7.4.2,7.4.2 (2021-02-17),2021-02-17T17:39:11Z,main,https://github.com/grafana/grafana/releases/tag/v7.4.2,False,False
+v7.4.1,7.4.1 (2021-02-11),2021-02-11T13:35:33Z,main,https://github.com/grafana/grafana/releases/tag/v7.4.1,False,False
+v7.4.0,7.4.0 (2021-02-04),2021-02-04T13:25:53Z,main,https://github.com/grafana/grafana/releases/tag/v7.4.0,False,False
+v7.4.0-beta1,7.4.0-beta1 (2021-01-20),2021-01-20T17:19:37Z,main,https://github.com/grafana/grafana/releases/tag/v7.4.0-beta1,False,False
+v7.3.7,7.3.7 (2021-01-14),2021-01-14T13:45:33Z,main,https://github.com/grafana/grafana/releases/tag/v7.3.7,False,False
+v7.3.6,7.3.6 (2020-12-17),2021-01-05T19:42:13Z,main,https://github.com/grafana/grafana/releases/tag/v7.3.6,False,False
+v7.3.5,7.3.5 (2020-12-10),2020-12-10T13:07:28Z,main,https://github.com/grafana/grafana/releases/tag/v7.3.5,False,False
+v7.3.4,7.3.4 (2020-11-24),2020-11-24T17:09:19Z,main,https://github.com/grafana/grafana/releases/tag/v7.3.4,False,False
+v7.3.3,7.3.3 (2020-11-17),2020-11-18T10:34:06Z,main,https://github.com/grafana/grafana/releases/tag/v7.3.3,False,False
+v7.3.2,v7.3.2 (2020-11-11),2020-11-11T17:38:51Z,master,https://github.com/grafana/grafana/releases/tag/v7.3.2,False,False
+v7.3.1,v7.3.1 (2020-10-30),2020-10-30T12:39:45Z,master,https://github.com/grafana/grafana/releases/tag/v7.3.1,False,False
+v7.3.0,v7.3.0 (2020-10-28),2020-10-28T13:50:29Z,master,https://github.com/grafana/grafana/releases/tag/v7.3.0,False,False
+v7.3.0-beta2,v7.3.0-beta2 (2020-10-22),2020-10-22T13:49:30Z,master,https://github.com/grafana/grafana/releases/tag/v7.3.0-beta2,False,True
+v7.2.2,v7.2.2 (2020-10-21),2020-10-21T12:05:00Z,master,https://github.com/grafana/grafana/releases/tag/v7.2.2,False,False
+v7.3.0-beta1,v7.3.0-beta1 (10-15-2020),2020-10-15T15:47:47Z,master,https://github.com/grafana/grafana/releases/tag/v7.3.0-beta1,False,True
+v7.2.1,v7.2.1 (2020-10-08),2020-10-08T12:48:28Z,master,https://github.com/grafana/grafana/releases/tag/v7.2.1,False,False
+v7.2.0,v7.2.0 (2020-09-23),2020-09-23T13:23:53Z,master,https://github.com/grafana/grafana/releases/tag/v7.2.0,False,False
+v7.2.0-beta2,v7.2.0-beta2 (2020-09-17),2020-09-17T12:27:25Z,master,https://github.com/grafana/grafana/releases/tag/v7.2.0-beta2,False,True
+v7.2.0-beta1,v7.2.0-beta1,2020-09-09T15:11:41Z,master,https://github.com/grafana/grafana/releases/tag/v7.2.0-beta1,False,True
+v7.1.5,v7.1.5,2020-08-25T10:11:42Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.5,False,False
+v7.1.4,v7.1.4,2020-08-20T16:04:24Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.4,False,False
+v7.1.3,v7.1.3,2020-08-06T13:13:09Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.3,False,False
+v7.1.2,v7.1.2,2020-08-05T13:34:26Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.2,False,False
+v7.1.1,v7.1.1,2020-07-24T13:55:46Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.1,False,False
+v7.1.0,v7.1.0,2020-07-16T14:20:37Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.0,False,False
+v7.1.0-beta3,v7.1.0-beta3 (2020-07-13),2020-07-13T15:26:35Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.0-beta3,False,True
+v7.0.6,v7.0.6,2020-07-09T10:02:39Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.6,False,False
+v7.1.0-beta2,v7.1.0-beta2,2020-07-02T13:23:03Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.0-beta2,False,True
+v7.1.0-beta1,,2020-07-01T12:44:48Z,master,https://github.com/grafana/grafana/releases/tag/v7.1.0-beta1,False,True
+v7.0.5,v7.0.5,2020-06-30T15:09:27Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.5,False,False
+v7.0.4,v7.0.4 (2020-06-25),2020-06-25T10:30:07Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.4,False,False
+v7.0.3,v7.0.3 (2020-06-03),2020-06-03T17:12:43Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.3,False,False
+v7.0.2,v7.0.2 (2020-06-03),2020-06-03T13:53:14Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.2,False,False
+v6.7.4,v6.7.4 (2020-06-03),2020-06-03T13:51:20Z,master,https://github.com/grafana/grafana/releases/tag/v6.7.4,False,False
+v7.0.1,v7.0.1 (2020-05-26),2020-05-26T12:31:53Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.1,False,False
+v7.0.0,v7.0.0,2020-05-18T16:24:51Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.0,False,False
+v7.0.0-beta3,v7.0.0-beta3 (2020-05-08),2020-05-08T09:48:29Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.0-beta3,False,True
+v7.0.0-beta2,v7.0.0-beta2 (2020-05-07),2020-05-07T16:11:08Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.0-beta2,False,True
+v7.0.0-beta1,v7.0.0-beta1 (2020-04-28),2020-04-29T08:12:17Z,master,https://github.com/grafana/grafana/releases/tag/v7.0.0-beta1,False,True
+v6.7.3,v6.7.3 (2020-04-23),2020-04-23T15:41:13Z,master,https://github.com/grafana/grafana/releases/tag/v6.7.3,False,False
+v6.7.2,v6.7.2,2020-04-02T09:30:57Z,master,https://github.com/grafana/grafana/releases/tag/v6.7.2,False,False
+v6.7.1,v6.7.1,2020-03-20T16:16:10Z,master,https://github.com/grafana/grafana/releases/tag/v6.7.1,False,False
+v6.7.0,v6.7.0 (2020-03-19),2020-03-19T15:33:52Z,master,https://github.com/grafana/grafana/releases/tag/v6.7.0,False,False
+v6.7.0-beta1,v6.7.0-beta1 (2020-03-12),2020-03-12T13:58:37Z,master,https://github.com/grafana/grafana/releases/tag/v6.7.0-beta1,False,True
+v6.6.2,v6.6.2 (2020-02-20),2020-02-20T15:53:21Z,master,https://github.com/grafana/grafana/releases/tag/v6.6.2,False,False
+v6.6.1,v6.6.1 (2020-02-06),2020-02-06T12:52:00Z,master,https://github.com/grafana/grafana/releases/tag/v6.6.1,False,False
+v6.6.0,v6.6.0,2020-01-27T14:10:00Z,master,https://github.com/grafana/grafana/releases/tag/v6.6.0,False,False
+v6.6.0-beta1,v6.6.0-beta1,2020-01-20T15:36:42Z,master,https://github.com/grafana/grafana/releases/tag/v6.6.0-beta1,False,True
+v6.5.3,v6.5.3,2020-01-15T13:57:05Z,master,https://github.com/grafana/grafana/releases/tag/v6.5.3,False,False
+v6.5.2,v6.5.2 (2019-12-11),2019-12-11T14:20:05Z,master,https://github.com/grafana/grafana/releases/tag/v6.5.2,False,False
+v6.5.1,v6.5.1 (2019-11-28),2019-11-28T09:54:57Z,master,https://github.com/grafana/grafana/releases/tag/v6.5.1,False,False
+v6.5.0,v6.5.0 (2019-11-25),2019-11-25T14:21:42Z,master,https://github.com/grafana/grafana/releases/tag/v6.5.0,False,False
+v6.4.5,v6.4.5 (2019-11-25),2019-11-25T11:32:28Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.5,False,False
+v6.3.7,v6.3.7 (2019-11-22),2019-11-25T11:32:20Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.7,False,False
+v6.5.0-beta1,v6.5.0-beta1 (2019-11-14),2019-11-14T16:26:56Z,master,https://github.com/grafana/grafana/releases/tag/v6.5.0-beta1,False,True
+v6.4.4,v6.4.4,2019-11-06T17:00:55Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.4,False,False
+v6.4.3,v6.4.3,2019-10-16T14:38:55Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.3,False,False
+v6.4.2,v6.4.2,2019-10-08T10:18:28Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.2,False,False
+v6.4.1,v6.4.1,2019-10-02T07:46:11Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.1,False,False
+v6.4.0,v6.4.0 (2019-10-01),2019-10-01T11:56:56Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.0,False,False
+v6.4.0-beta2,v6.4.0-beta2,2019-09-25T11:20:25Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.0-beta2,False,True
+v6.3.6,v6.3.6 (2019-09-23),2019-09-23T10:58:12Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.6,False,False
+v6.4.0-beta1,v6.4.0-beta1 (2019-09-17),2019-09-17T13:16:12Z,master,https://github.com/grafana/grafana/releases/tag/v6.4.0-beta1,False,True
+v6.3.5,v6.3.5,2019-09-02T10:23:58Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.5,False,False
+v6.3.4,v6.3.4,2019-08-29T15:27:56Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.4,False,False
+v5.4.5,v5.4.5,2019-08-29T15:27:49Z,master,https://github.com/grafana/grafana/releases/tag/v5.4.5,False,False
+v6.3.3,v6.3.3,2019-08-15T10:41:01Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.3,False,False
+v6.3.2,v6.3.2,2019-08-07T10:54:20Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.2,False,False
+v6.3.1,v6.3.1,2019-08-07T10:53:40Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.1,False,False
+v6.3.0,v6.3.0,2019-08-06T14:32:05Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.0,False,False
+v6.3.0-beta4,v6.3.0-beta4,2019-08-02T13:38:19Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.0-beta4,False,True
+v6.3.0-beta2,v6.3.0-beta2,2019-07-26T15:47:05Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.0-beta2,False,True
+v6.3.0-beta1,v6.3.0-beta1,2019-07-10T16:22:26Z,master,https://github.com/grafana/grafana/releases/tag/v6.3.0-beta1,False,True
+v6.2.5,v6.2.5,2019-06-25T19:06:14Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.5,False,False
+v6.2.4,v6.2.4,2019-06-18T11:36:22Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.4,False,False
+v6.2.3,v6.2.3,2019-06-17T13:25:48Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.3,False,False
+v6.2.2,v6.2.2,2019-06-05T14:52:43Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.2,False,False
+v6.2.1,v6.2.1,2019-05-27T13:42:20Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.1,False,False
+v6.2.0,v6.2.0,2019-05-22T11:45:10Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.0,False,False
+v6.2.0-beta2,v6.2.0-beta2,2019-05-15T11:58:10Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.0-beta2,False,False
+v6.2.0-beta1,v6.2.0-beta1,2019-05-07T15:14:18Z,master,https://github.com/grafana/grafana/releases/tag/v6.2.0-beta1,False,True
+v6.1.6,v6.1.6,2019-04-29T13:56:39Z,master,https://github.com/grafana/grafana/releases/tag/v6.1.6,False,False
+v6.1.4,v6.1.4,2019-04-16T12:36:39Z,master,https://github.com/grafana/grafana/releases/tag/v6.1.4,False,False
+v6.1.3,v6.1.3,2019-04-09T18:38:09Z,master,https://github.com/grafana/grafana/releases/tag/v6.1.3,False,False
+v6.1.2,v6.1.2,2019-04-08T09:57:24Z,master,https://github.com/grafana/grafana/releases/tag/v6.1.2,False,False
+v6.1.1,v6.1.1,2019-04-05T10:45:44Z,master,https://github.com/grafana/grafana/releases/tag/v6.1.1,False,False
+v6.1.0,v6.1.0 ,2019-04-03T09:13:02Z,master,https://github.com/grafana/grafana/releases/tag/v6.1.0,False,False
+v6.1.0-beta1,v6.1.0-beta1,2019-03-27T12:43:16Z,master,https://github.com/grafana/grafana/releases/tag/v6.1.0-beta1,False,True
+v6.0.2,v6.0.2,2019-03-19T14:07:54Z,master,https://github.com/grafana/grafana/releases/tag/v6.0.2,False,False
+v6.0.1,v6.0.1,2019-03-06T15:04:28Z,master,https://github.com/grafana/grafana/releases/tag/v6.0.1,False,False
+v6.0.0,v6.0.0,2019-02-25T15:48:44Z,master,https://github.com/grafana/grafana/releases/tag/v6.0.0,False,False
+v6.0.0-beta3,v6.0.0-beta3,2019-02-19T12:30:03Z,master,https://github.com/grafana/grafana/releases/tag/v6.0.0-beta3,False,True
+v6.0.0-beta2,v6.0.0-beta2,2019-02-11T16:44:06Z,master,https://github.com/grafana/grafana/releases/tag/v6.0.0-beta2,False,True
+v6.0.0-beta1,v6.0.0-beta1,2019-01-30T16:46:11Z,master,https://github.com/grafana/grafana/releases/tag/v6.0.0-beta1,False,True
+v5.4.3,v5.4.3,2019-01-15T09:56:16Z,master,https://github.com/grafana/grafana/releases/tag/v5.4.3,False,False
+v5.4.2,v5.4.2,2018-12-13T13:36:06Z,master,https://github.com/grafana/grafana/releases/tag/v5.4.2,False,False
+v5.4.1,v5.4.1,2018-12-10T14:44:17Z,master,https://github.com/grafana/grafana/releases/tag/v5.4.1,False,False
+v5.4.0,v5.4.0,2018-12-03T11:12:30Z,master,https://github.com/grafana/grafana/releases/tag/v5.4.0,False,False
+v5.4.0-beta1,v5.4.0-beta1,2018-11-20T15:05:02Z,master,https://github.com/grafana/grafana/releases/tag/v5.4.0-beta1,False,True
+v5.3.4,v5.3.4,2018-11-13T13:03:56Z,master,https://github.com/grafana/grafana/releases/tag/v5.3.4,False,False
+v5.3.3,v5.3.3,2018-11-13T13:03:13Z,master,https://github.com/grafana/grafana/releases/tag/v5.3.3,False,False
+v5.3.2,v5.3.2,2018-10-24T12:34:57Z,master,https://github.com/grafana/grafana/releases/tag/v5.3.2,False,False
+v5.3.1,v5.3.1,2018-10-16T12:52:17Z,master,https://github.com/grafana/grafana/releases/tag/v5.3.1,False,False
+v5.3.0,v5.3.0,2018-10-10T11:05:56Z,v5.3.x,https://github.com/grafana/grafana/releases/tag/v5.3.0,False,False
+v5.3.0-beta3,v5.3.0-beta3,2018-10-03T14:44:12Z,master,https://github.com/grafana/grafana/releases/tag/v5.3.0-beta3,False,True
+v5.3.0-beta2,v5.3.0-beta2,2018-10-01T12:26:50Z,master,https://github.com/grafana/grafana/releases/tag/v5.3.0-beta2,False,True
+v5.2.4,v5.2.4,2018-09-07T15:29:30Z,master,https://github.com/grafana/grafana/releases/tag/v5.2.4,False,False
+v5.3.0-beta1,v5.3.0-beta1,2018-09-06T13:47:09Z,master,https://github.com/grafana/grafana/releases/tag/v5.3.0-beta1,False,True
+v4.6.4,v4.6.4,2018-08-29T11:27:48Z,master,https://github.com/grafana/grafana/releases/tag/v4.6.4,False,False
+v5.2.3,v5.2.3,2018-08-29T11:28:39Z,master,https://github.com/grafana/grafana/releases/tag/v5.2.3,False,False
+v5.2.2,v5.2.2,2018-07-25T12:03:09Z,main,https://github.com/grafana/grafana/releases/tag/v5.2.2,False,False
+v5.2.1,v5.2.1,2018-06-29T10:05:20Z,main,https://github.com/grafana/grafana/releases/tag/v5.2.1,False,False
+v5.2.0,v5.2.0,2018-06-27T09:42:28Z,main,https://github.com/grafana/grafana/releases/tag/v5.2.0,False,False
+v5.1.5,v5.1.5,2018-06-28T09:02:09Z,main,https://github.com/grafana/grafana/releases/tag/v5.1.5,False,False
+v5.2.0-beta3,v5.2.0-beta3,2018-06-21T09:54:41Z,main,https://github.com/grafana/grafana/releases/tag/v5.2.0-beta3,False,True
+v5.2.0-beta2,v5.2.0-beta2,2018-06-20T14:21:48Z,main,https://github.com/grafana/grafana/releases/tag/v5.2.0-beta2,False,True
+v5.1.4,v5.1.4,2018-06-19T12:55:56Z,main,https://github.com/grafana/grafana/releases/tag/v5.1.4,False,False
+v5.2.0-beta1,v5.2.0-beta1,2018-06-05T11:37:41Z,main,https://github.com/grafana/grafana/releases/tag/v5.2.0-beta1,False,True
+v5.1.3,v5.1.3,2018-05-16T19:22:01Z,main,https://github.com/grafana/grafana/releases/tag/v5.1.3,False,False
+v5.1.2,v5.1.2,2018-05-09T11:50:06Z,main,https://github.com/grafana/grafana/releases/tag/v5.1.2,False,False
+v5.1.1,v5.1.1,2018-05-07T12:44:45Z,main,https://github.com/grafana/grafana/releases/tag/v5.1.1,False,False
+v5.1.0,v5.1.0,2018-04-26T16:42:01Z,main,https://github.com/grafana/grafana/releases/tag/v5.1.0,False,False
+v5.1.0-beta1,v5.1.0-beta1,2018-04-20T11:13:27Z,main,https://github.com/grafana/grafana/releases/tag/v5.1.0-beta1,False,True
+v5.0.4,5.0.4,2018-03-28T13:13:49Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.4,False,False
+v5.0.3,5.0.3,2018-03-16T17:30:31Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.3,False,False
+v5.0.2,5.0.2,2018-03-14T16:02:12Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.2,False,False
+v5.0.1,V5.0.1,2018-03-08T10:03:25Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.1,False,False
+v5.0.0,v5.0.0,2018-03-01T07:58:49Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.0,False,False
+v5.0.0-beta5,v5.0.0-beta5,2018-02-26T10:09:18Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.0-beta5,False,False
+v5.0.0-beta4,v5.0.0-beta4,2018-02-19T14:45:15Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.0-beta4,False,False
+v5.0.0-beta3,v5.0.0-beta3,2018-02-16T13:50:35Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.0-beta3,False,False
+v5.0.0-beta2,v5.0.0-beta2,2018-02-15T13:51:13Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.0-beta2,False,False
+v5.0.0-beta1,v5.0.0-beta1,2018-02-05T15:33:54Z,main,https://github.com/grafana/grafana/releases/tag/v5.0.0-beta1,False,False
+v4.6.3,v4.6.3,2017-12-14T10:34:33Z,main,https://github.com/grafana/grafana/releases/tag/v4.6.3,False,False
+v4.6.2,V4.6.2,2017-11-16T10:11:12Z,main,https://github.com/grafana/grafana/releases/tag/v4.6.2,False,False
+v4.6.1,v4.6.1,2017-11-01T11:29:47Z,main,https://github.com/grafana/grafana/releases/tag/v4.6.1,False,False
+v4.6.0,v4.6.0,2017-10-27T07:38:44Z,main,https://github.com/grafana/grafana/releases/tag/v4.6.0,False,False
+v4.6.0-beta3,v4.6.0-beta3,2017-10-23T14:28:08Z,main,https://github.com/grafana/grafana/releases/tag/v4.6.0-beta3,False,True
+v4.6.0-beta2,v4.6.0-beta2,2017-10-17T11:49:03Z,main,https://github.com/grafana/grafana/releases/tag/v4.6.0-beta2,False,True
+v4.6.0-beta1,v4.6.0-beta1,2017-10-13T11:08:16Z,main,https://github.com/grafana/grafana/releases/tag/v4.6.0-beta1,False,True
+v4.5.2,v4.5.2,2017-09-22T12:09:06Z,main,https://github.com/grafana/grafana/releases/tag/v4.5.2,False,False
+v4.5.1,v4.5.1,2017-09-15T09:33:26Z,main,https://github.com/grafana/grafana/releases/tag/v4.5.1,False,False
+v4.5.0-beta1,v4.5.0-beta1,2017-09-05T13:15:09Z,main,https://github.com/grafana/grafana/releases/tag/v4.5.0-beta1,False,False
+v4.4.3,v4.4.3,2017-08-07T11:41:11Z,main,https://github.com/grafana/grafana/releases/tag/v4.4.3,False,False
+v4.4.2,v4.4.2,2017-08-01T08:20:52Z,main,https://github.com/grafana/grafana/releases/tag/v4.4.2,False,False
+v4.4.1,v4.4.1,2017-07-05T08:19:59Z,main,https://github.com/grafana/grafana/releases/tag/v4.4.1,False,False
+v4.4.0,v4.4.0,2017-07-04T23:30:46Z,main,https://github.com/grafana/grafana/releases/tag/v4.4.0,False,False
+v4.3.2,v4.3.2,2017-05-31T12:06:21Z,main,https://github.com/grafana/grafana/releases/tag/v4.3.2,False,False
+v4.3.0,v4.3.0,2017-05-23T10:30:18Z,main,https://github.com/grafana/grafana/releases/tag/v4.3.0,False,False
+v4.3.0-beta1,v4.3.0-beta1,2017-05-12T11:42:02Z,main,https://github.com/grafana/grafana/releases/tag/v4.3.0-beta1,False,True
+v4.2.0,v4.2.0,2017-03-22T12:06:46Z,main,https://github.com/grafana/grafana/releases/tag/v4.2.0,False,False
+v4.2.0-beta1,v4.2.0-beta1,2017-02-27T12:03:34Z,main,https://github.com/grafana/grafana/releases/tag/v4.2.0-beta1,False,True
+v4.1.2,v4.1.2,2017-02-13T13:26:08Z,main,https://github.com/grafana/grafana/releases/tag/v4.1.2,False,False
+v4.1.1,v4.1.1,2017-01-12T10:14:37Z,main,https://github.com/grafana/grafana/releases/tag/v4.1.1,False,False
+v4.1.0,v4.1.0,2017-01-11T11:11:20Z,main,https://github.com/grafana/grafana/releases/tag/v4.1.0,False,False
+v4.1.0-beta1,Grafana v4.1.0-beta1,2016-12-21T07:44:58Z,main,https://github.com/grafana/grafana/releases/tag/v4.1.0-beta1,False,False
+v4.0.2,Grafana v4.0.2,2016-12-08T14:13:59Z,main,https://github.com/grafana/grafana/releases/tag/v4.0.2,False,False
+v4.0.1,Grafana v4.0.1,2016-12-03T02:23:50Z,main,https://github.com/grafana/grafana/releases/tag/v4.0.1,False,False
+v4.0.0,Grafana v4.0.0,2016-11-29T20:00:17Z,main,https://github.com/grafana/grafana/releases/tag/v4.0.0,False,False
+v4.0.0-beta2,Grafana v4.0.0-beta2,2016-11-21T10:50:10Z,main,https://github.com/grafana/grafana/releases/tag/v4.0.0-beta2,False,False
+v4.0.0-beta1,Grafana v4.0.0-beta1,2016-11-09T13:11:57Z,main,https://github.com/grafana/grafana/releases/tag/v4.0.0-beta1,False,False
+v3.1.1,Grafana v3.1.1,2016-08-01T11:22:14Z,v3.1.x,https://github.com/grafana/grafana/releases/tag/v3.1.1,False,False
+v3.1.0,Grafana v3.1.0,2016-07-12T11:34:42Z,main,https://github.com/grafana/grafana/releases/tag/v3.1.0,False,False
+v3.1.0-beta1,Grafana v3.1.0 beta1,2016-06-23T15:48:25Z,main,https://github.com/grafana/grafana/releases/tag/v3.1.0-beta1,False,False
+v3.0.4,Grafana v3.0.4,2016-05-25T09:56:38Z,main,https://github.com/grafana/grafana/releases/tag/v3.0.4,False,False
+v3.0.3,Grafana v3.0.3,2016-05-23T10:06:06Z,main,https://github.com/grafana/grafana/releases/tag/v3.0.3,False,False
+v3.0.1,Grafana v3.0.1 Stable,2016-05-11T08:58:47Z,main,https://github.com/grafana/grafana/releases/tag/v3.0.1,False,False
+v3.0.0-beta7,Grafana v3.0.0-beta7,2016-05-02T08:15:56Z,main,https://github.com/grafana/grafana/releases/tag/v3.0.0-beta7,False,False
+v3.0.0-beta6,Grafana v3.0.0-beta6,2016-04-29T09:36:37Z,main,https://github.com/grafana/grafana/releases/tag/v3.0.0-beta6,False,False
+v3.0-beta5,Grafana v3.0.0-beta5,2016-04-15T13:34:32Z,master,https://github.com/grafana/grafana/releases/tag/v3.0-beta5,False,False
+v3.0-beta3,Grafana v3.0.0-beta3,2016-04-12T14:01:30Z,master,https://github.com/grafana/grafana/releases/tag/v3.0-beta3,False,False
+v3.0-beta2,Grafana v3.0.0-beta2,2016-04-04T22:12:46Z,main,https://github.com/grafana/grafana/releases/tag/v3.0-beta2,False,False
+v3.0-beta1,Grafana v3.0.0-beta1,2016-04-04T18:54:33Z,main,https://github.com/grafana/grafana/releases/tag/v3.0-beta1,False,False
+v2.6.0,Grafana v2.6.0,2015-12-14T16:07:05Z,main,https://github.com/grafana/grafana/releases/tag/v2.6.0,False,False
+v2.6.0-beta1,Grafana v2.6.0-beta1,2015-12-04T15:28:02Z,main,https://github.com/grafana/grafana/releases/tag/v2.6.0-beta1,False,False
+v2.5.0,Grafana v2.5.0,2015-10-28T15:56:47Z,main,https://github.com/grafana/grafana/releases/tag/v2.5.0,False,False
+v2.1.2,Grafana v2.1.2,2015-08-20T13:56:53Z,main,https://github.com/grafana/grafana/releases/tag/v2.1.2,False,False
+v2.1.1,Grafana v2.1.1,2015-08-11T09:17:16Z,main,https://github.com/grafana/grafana/releases/tag/v2.1.1,False,False
+v2.1.0,Grafana v2.1.0,2015-08-04T15:11:23Z,main,https://github.com/grafana/grafana/releases/tag/v2.1.0,False,False
+v2.0.2,Grafana v2.0.2,2015-04-23T06:00:58Z,main,https://github.com/grafana/grafana/releases/tag/v2.0.2,False,False
+v2.0.1,Grafana v2.0.1,2015-04-20T12:23:50Z,main,https://github.com/grafana/grafana/releases/tag/v2.0.1,False,False
+v2.0.0-beta3,Grafana v2.0.0-beta3,2015-04-12T19:09:45Z,master,https://github.com/grafana/grafana/releases/tag/v2.0.0-beta3,False,False
+v2.0.0-beta1,Grafana v2.0.0-beta1,2015-03-30T14:48:03Z,main,https://github.com/grafana/grafana/releases/tag/v2.0.0-beta1,False,False
+v1.9.1,Grafana v1.9.1,2014-12-29T10:32:33Z,master,https://github.com/grafana/grafana/releases/tag/v1.9.1,False,False
+v1.9.0,Grafana 1.9.0,2014-12-02T22:43:38Z,master,https://github.com/grafana/grafana/releases/tag/v1.9.0,False,False
+v1.9.0-rc1,Grafana v1.9.0-rc1,2014-11-17T14:33:54Z,master,https://github.com/grafana/grafana/releases/tag/v1.9.0-rc1,False,False
+v1.8.1,Grafana v1.8.1,2014-09-30T16:56:02Z,v1.8.x,https://github.com/grafana/grafana/releases/tag/v1.8.1,False,False
+v1.8.0,Grafana v1.8.0,2014-09-22T11:17:58Z,master,https://github.com/grafana/grafana/releases/tag/v1.8.0,False,False
+v1.8.0-rc1,Grafana v1.8.0-rc1,2014-09-12T11:49:10Z,master,https://github.com/grafana/grafana/releases/tag/v1.8.0-rc1,False,False
+v1.7.0,Grafana v1.7.0,2014-08-11T11:16:24Z,master,https://github.com/grafana/grafana/releases/tag/v1.7.0,False,False
+v1.7.0-rc1,Grafana v1.7.0-rc1,2014-08-05T13:07:10Z,master,https://github.com/grafana/grafana/releases/tag/v1.7.0-rc1,False,False
+v1.6.1,Grafana v1.6.1,2014-06-24T13:27:09Z,master,https://github.com/grafana/grafana/releases/tag/v1.6.1,False,False
+v1.6.0,Grafana v1.6.0,2014-06-16T16:47:02Z,master,https://github.com/grafana/grafana/releases/tag/v1.6.0,False,False
+v1.5.4,Grafana v1.5.4,2014-05-13T18:14:10Z,master,https://github.com/grafana/grafana/releases/tag/v1.5.4,False,False
+v1.5.3,Grafana v1.5.3,2014-04-17T21:06:04Z,master,https://github.com/grafana/grafana/releases/tag/v1.5.3,False,False
+v1.5.2,Grafana v1.5.2,2014-03-24T11:52:03Z,master,https://github.com/grafana/grafana/releases/tag/v1.5.2,False,False
+v1.5.1,Grafana v1.5.1,2014-03-11T06:56:46Z,master,https://github.com/grafana/grafana/releases/tag/v1.5.1,False,False
+v1.5.0,Grafana v1.5.0,2014-03-09T18:07:55Z,master,https://github.com/grafana/grafana/releases/tag/v1.5.0,False,False
+v1.4.0,Grafana v1.4.0,2014-02-21T13:45:23Z,master,https://github.com/grafana/grafana/releases/tag/v1.4.0,False,False
+v1.3.0,Grafana v1.3.0,2014-02-13T07:25:31Z,master,https://github.com/grafana/grafana/releases/tag/v1.3.0,False,False
+v1.2.0,Grafana v1.2.0,2014-02-10T17:19:13Z,master,https://github.com/grafana/grafana/releases/tag/v1.2.0,False,False
+v1.1.0,Grafana v1.1.0,2014-02-06T13:00:15Z,master,https://github.com/grafana/grafana/releases/tag/v1.1.0,False,False
+v1.0.4,Grafana v1.0.4,2014-01-24T13:35:05Z,master,https://github.com/grafana/grafana/releases/tag/v1.0.4,False,False
+v1.0.3,Grafana v1.0.3,2014-01-23T13:04:03Z,master,https://github.com/grafana/grafana/releases/tag/v1.0.3,False,False
+v1.0.2,Grafana v1.0.2,2014-01-21T20:13:47Z,master,https://github.com/grafana/grafana/releases/tag/v1.0.2,False,False
+v1.0.1,Grafana v1.0.1,2014-01-21T07:43:41Z,master,https://github.com/grafana/grafana/releases/tag/v1.0.1,False,False
+v1.0,Grafana v1.0.0,2014-01-19T16:31:50Z,master,https://github.com/grafana/grafana/releases/tag/v1.0,False,False
